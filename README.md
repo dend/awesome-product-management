@@ -17,6 +17,8 @@ A curated list of awesome resources for product/program managers to learn and gr
 
 ### OneNote
 
-**Cost:** Free
+Efficient note-taking with superior organizational capabilities.
 
-**Platform:** Cross-platform (macOS, Windows, web)
+| Developer | Cost | Platform | URL |
+|-----------|------|----------|-----|
+| Microsoft Corporation | **FREE** | Windows, macOS, web | https://onenote.com |
