@@ -32,8 +32,18 @@ Note-taking in Markdown format, with tag-based organizational capabilities.
 
 | Property | Value |
 |-----------|------|
-| Developer | [Shiny Frog]() |
+| Developer | [Shiny Frog](http://www.shinyfrog.net/) |
 | Cost | Freemium (_$16/yr subscription available_) |
 | Platform | macOS, iOS |
 | URL | https://bear.app/ |
 
+### Trello
+
+Kanban-style boards to manage work items. Integrates well with teams and other services. Has a rich extensibility platform.
+
+| Property | Value |
+|-----------|------|
+| Developer | [Atlassian](https://www.atlassian.com/) |
+| Cost | Freemium (_$9.99/mo+ subscriptions available_) |
+| Platform | macOS, Windows, iOS, Android, web |
+| URL | https://trello.com/ |
