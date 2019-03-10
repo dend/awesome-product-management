@@ -7,6 +7,11 @@ A curated list of awesome resources for product/program managers to learn and gr
 ## Table of Contents
 
 * [Tools](#tools)
+    * [OneNote](#onenote)
+    * [Bear](#bear)
+    * [Trello](#trello)
+    * [Balsamiq](#balsamiq)
+    * [Sketch](#sketch)
 * [Articles](#articles)
 * [Books](#books)
 * [Podcasts](#podcasts)
