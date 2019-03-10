@@ -122,5 +122,5 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 |---------|-------|-----|
 | <img src="/media/pod-masters-of-scale.jpeg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/ |
 | <img src="/media/pod-product.jpg" width="100px" /> | Multiple | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 |
-| <img src="/media/pod-startup.jpg" width="100px" /> | Multiple | https://www.gimletmedia.com/startup |
+| <img src="/media/pod-startup.webp" width="100px" /> | Multiple | https://www.gimletmedia.com/startup |
 | <img src="/media/pod-how-i-built.jpg" width="100px" />| Guy Raz | https://www.npr.org/podcasts/510313/how-i-built-this |
