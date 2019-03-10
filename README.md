@@ -120,7 +120,9 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 
 | Podcast | Hosts | Url |
 |---------|-------|-----|
-| <img src="/media/pod-masters-of-scale.jpeg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/ |
-| <img src="/media/pod-product.jpg" width="100px" /> | Multiple | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 |
-| <img src="/media/pod-startup.webp" width="100px" /> | Multiple | https://www.gimletmedia.com/startup |
-| <img src="/media/pod-how-i-built.jpg" width="100px" />| Guy Raz | https://www.npr.org/podcasts/510313/how-i-built-this |
+| <img alt="Masters of Scale" src="/media/pod-masters-of-scale.jpeg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/ |
+| <img alt="The Product Podcast" src="/media/pod-product.jpg" width="100px" /> | Multiple | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 |
+| <img alt="StartUp" src="/media/pod-startup.webp" width="100px" /> | Multiple | https://www.gimletmedia.com/startup |
+| <img alt="How I Built This" src="/media/pod-how-i-built.jpg" width="100px" />| Guy Raz | https://www.npr.org/podcasts/510313/how-i-built-this |
+| <img alt="The Pitch" src="/media/pod-pitch.webp" width="100px" /> | Multiple | https://www.gimletmedia.com/the-pitch |
+| <img alt="ReWork" src="/media/pod-rework.png" width="100px" /> | Multiple | https://rework.fm/ |
