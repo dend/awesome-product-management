@@ -83,6 +83,8 @@ Wireframing tool that allows building mocks without a strong focus on details. E
 
 Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences.
 
+![OneNote](/media/tool-sketch.gif)
+
 | Property | Value |
 |-----------|------|
 | Developer | [Bohemian B.V.](https://www.sketchapp.com/about-us/) |
@@ -135,3 +137,16 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 | <img alt="How I Built This" src="/media/pod-how-i-built.jpg" width="100px" />| Guy Raz | https://www.npr.org/podcasts/510313/how-i-built-this |
 | <img alt="The Pitch" src="/media/pod-pitch.webp" width="100px" /> | Multiple | https://www.gimletmedia.com/the-pitch |
 | <img alt="ReWork" src="/media/pod-rework.png" width="100px" /> | Multiple | https://rework.fm/ |
+
+## Communities
+
+* [Women in Product](https://www.womenpm.org/) (_using [Facebook](https://facebook.com)_)
+* [Product School](https://www.productschool.com/) (_using [Slack](https://slack.com/)_)
+* [PMTrack](https://pmtrack.co) (_using [Slack](https://slack.com/)_)
+* [The Product Coalition](https://productcoalition.com/) (_using [Slack](https://slack.com/)_)
+* [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
+
+## Conferences
+
+* [Industry](https://industryconference.com/)
+* [ProductCon](https://www.productschool.com/productcon/)
