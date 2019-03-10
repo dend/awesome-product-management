@@ -32,6 +32,8 @@ Efficient note-taking with superior organizational capabilities. Integrates easi
 
 Note-taking in Markdown format, with tag-based organizational capabilities.
 
+![Bear](/media/tool-bear.gif)
+
 | Property | Value |
 |-----------|------|
 | Developer | [Shiny Frog](http://www.shinyfrog.net/) |
