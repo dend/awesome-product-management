@@ -100,7 +100,7 @@ Wireframing tool that allows building mocks without a strong focus on details. E
 
 Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences.
 
-![OneNote](/media/tool-sketch.gif)
+![Sketch](/media/tool-sketch.gif)
 
 | Property | Value |
 |-----------|------|
