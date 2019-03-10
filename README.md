@@ -7,7 +7,7 @@ A curated list of awesome resources for product/program managers to learn and gr
 ## Table of Contents
 
 * [Tools](#tools)
-* Articles
+* [Articles](#articles)
 * Books
 * Podcasts
 * Communities
@@ -17,7 +17,7 @@ A curated list of awesome resources for product/program managers to learn and gr
 
 ### OneNote
 
-Efficient note-taking with superior organizational capabilities.
+Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals.
 
 | Property | Value |
 |-----------|------|
@@ -88,3 +88,6 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 * [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) by [Marc Andresssen](https://twitter.com/pmarca)
 * [PM at Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) by [Steven Sinofsky](https://twitter.com/stevesi)
 * [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) by [Steven Sinofsky](https://twitter.com/stevesi)
+* [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/) by [Tren Griffin](https://twitter.com/trengriffin)
+* [Relentlessly Resourcefull](http://www.paulgraham.com/relres.html) by [Paul Graham](https://twitter.com/paulg)
+* [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) by [Paul Graham](https://twitter.com/paulg)
