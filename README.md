@@ -116,4 +116,8 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) by John Doerr
 * [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) by Don Norman
 
+## Podcasts
 
+| Podcast | Hosts | Url |
+|---------|-------|-----|
+| ![Masters of Scale](https://content.production.cdn.art19.com/images/26/72/78/e3/267278e3-d103-42af-85f8-ab90ce316661/3156a418f4db34f8c868fc8f8ebed16712a6cca272361cdd5ce4faf54cb503b630594dc6b08a5b696b84af25dd6603e2fbec63fd7f45c9860f759bf466a68bbf.jpeg | width=100) | Reid Hoffman | https://mastersofscale.com/ |
