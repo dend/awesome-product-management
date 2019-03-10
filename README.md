@@ -6,17 +6,21 @@ A curated list of awesome resources for product/program managers to learn and gr
 
 ## Table of Contents
 
-* [Tools](#tools)
-    * [OneNote](#onenote)
-    * [Bear](#bear)
-    * [Trello](#trello)
-    * [Balsamiq](#balsamiq)
-    * [Sketch](#sketch)
-* [Articles](#articles)
-* [Books](#books)
-* [Podcasts](#podcasts)
-* [Communities](#communities)
-* [Conferences](#conferences)
+- [Awesome Resources for Product/Program Managers](#awesome-resources-for-productprogram-managers)
+  - [Table of Contents](#table-of-contents)
+  - [Tools](#tools)
+    - [OneNote](#onenote)
+    - [Bear](#bear)
+    - [Trello](#trello)
+    - [To-Do](#to-do)
+    - [Notion](#notion)
+    - [Balsamiq](#balsamiq)
+    - [Sketch](#sketch)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Podcasts](#podcasts)
+  - [Communities](#communities)
+  - [Conferences](#conferences)
 
 ## Tools
 
@@ -67,6 +71,19 @@ A tool to quickly manage "to-dos".
 | Cost | Free |
 | Platform | macOS, Windows, iOS, Android, web |
 | URL | https://to-do.microsoft.com/ |
+
+### Notion
+
+All-in-one workspace for teams and individuals.
+
+![Notion](/media/tool-notion.gif)
+
+| Property | Value |
+|-----------|------|
+| Developer | [Notion Labs](https://notion.so/) |
+| Cost | Freemium (_$4/mo/user individual, $8/mo/user teams_) |
+| Platform | macOS, Windows, iOS, Android, web |
+| URL | https://notion.so/ |
 
 ### Balsamiq
 
