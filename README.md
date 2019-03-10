@@ -16,6 +16,7 @@ A curated list of awesome resources for product/program managers to learn and gr
     - [Notion](#notion)
     - [Balsamiq](#balsamiq)
     - [Sketch](#sketch)
+    - [Figma](#figma)
   - [Articles](#articles)
   - [Books](#books)
   - [Podcasts](#podcasts)
@@ -108,6 +109,20 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 | Cost | Paid (_$99/year_) |
 | Platform | macOS |
 | URL | https://www.sketchapp.com/ |
+
+### Figma
+
+A better way to design.
+Design, prototype, and collaborate all in the browser—with Figma.
+
+![Sketch](/media/tool-figma.gif)
+
+| Property | Value |
+|-----------|------|
+| Developer | [Figma]([https://www.sketchapp.com/about-us/](https://www.figma.com/blog/)) |
+| Cost | Freemium (_$0-45/month_) |
+| Platform | macOS, Windows, web |
+| URL | https://www.figma.com |
 
 ## Articles
 
