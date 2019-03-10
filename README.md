@@ -80,3 +80,11 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 | Cost | Paid (_$99/year_) |
 | Platform | macOS |
 | URL | https://www.sketchapp.com/ |
+
+## Articles
+
+* [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) by [Ben Horowitz](https://twitter.com/bhorowitz)
+* [Guide to Career Planning](https://pmarchive.com/guide_to_career_planning_part0.html) by [Marc Andresssen](https://twitter.com/pmarca)
+* [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) by [Marc Andresssen](https://twitter.com/pmarca)
+* [PM at Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) by [Steven Sinofsky](https://twitter.com/stevesi)
+* [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) by [Steven Sinofsky](https://twitter.com/stevesi)
