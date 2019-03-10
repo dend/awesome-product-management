@@ -8,10 +8,10 @@ A curated list of awesome resources for product/program managers to learn and gr
 
 * [Tools](#tools)
 * [Articles](#articles)
-* Books
-* Podcasts
-* Communities
-* Conferences
+* [Books](#books)
+* [Podcasts](#podcasts)
+* [Communities](#communities)
+* [Conferences](#conferences)
 
 ## Tools
 
@@ -91,3 +91,19 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 * [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/) by [Tren Griffin](https://twitter.com/trengriffin)
 * [Relentlessly Resourcefull](http://www.paulgraham.com/relres.html) by [Paul Graham](https://twitter.com/paulg)
 * [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) by [Paul Graham](https://twitter.com/paulg)
+* [The Time Value of Shipping](https://blackboxofpm.com/the-time-value-of-shipping-6deaf8d7d565) by [Brandon Chu](https://twitter.com/brandonmchu)
+* [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) by [Paul Graham](https://twitter.com/paulg)
+* [Deadlines](https://blackboxofpm.com/deadlines-d6925e5c694f) by [Brandon Chu](https://twitter.com/brandonmchu)
+* [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) by [Brandon Chu](https://twitter.com/brandonmchu)
+* [Understanding How The Innovator’s Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) by [Mark Suster](https://twitter.com/msuster)
+* [Do Things that Don't Scale](http://paulgraham.com/ds.html) by [Paul Graham](https://twitter.com/paulg)
+* [Navigating Mid-Success](https://blog.ycombinator.com/navigating-mid-success/) by [Sam Altman](https://twitter.com/sama)
+
+## Books
+
+* [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) by Chip Heath and Dan Heath
+* [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) by Chip Heath and Dan Heath
+* [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) by Steve Blank and Bob Dorf
+* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) by Alexander Osterwalder and Yves Pigneur
+* [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) by Alexander Osterwalder and Yves Pigneur
+
