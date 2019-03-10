@@ -120,4 +120,4 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 
 | Podcast | Hosts | Url |
 |---------|-------|-----|
-| <img src="https://content.production.cdn.art19.com/images/26/72/78/e3/267278e3-d103-42af-85f8-ab90ce316661/3156a418f4db34f8c868fc8f8ebed16712a6cca272361cdd5ce4faf54cb503b630594dc6b08a5b696b84af25dd6603e2fbec63fd7f45c9860f759bf466a68bbf.jpeg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/ |
+| <img src="/media/pod-masters-of-scale.jpeg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/ |
