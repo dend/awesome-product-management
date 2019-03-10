@@ -115,7 +115,7 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 A better way to design.
 Design, prototype, and collaborate all in the browser—with Figma.
 
-![Sketch](/media/tool-figma.gif)
+![Figma](/media/tool-figma.gif)
 
 | Property | Value |
 |-----------|------|
