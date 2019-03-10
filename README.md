@@ -19,6 +19,8 @@ A curated list of awesome resources for product/program managers to learn and gr
 
 Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals.
 
+![OneNote](/media/tool-onennote.gif)
+
 | Property | Value |
 |-----------|------|
 | Developer | [Microsoft](https://microsoft.com) |
