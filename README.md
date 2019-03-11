@@ -6,17 +6,22 @@ A curated list of awesome resources for product/program managers to learn and gr
 
 ## Table of Contents
 
-* [Tools](#tools)
-    * [OneNote](#onenote)
-    * [Bear](#bear)
-    * [Trello](#trello)
-    * [Balsamiq](#balsamiq)
-    * [Sketch](#sketch)
-* [Articles](#articles)
-* [Books](#books)
-* [Podcasts](#podcasts)
-* [Communities](#communities)
-* [Conferences](#conferences)
+- [Awesome Resources for Product/Program Managers](#awesome-resources-for-productprogram-managers)
+  - [Table of Contents](#table-of-contents)
+  - [Tools](#tools)
+    - [OneNote](#onenote)
+    - [Bear](#bear)
+    - [Trello](#trello)
+    - [To-Do](#to-do)
+    - [Notion](#notion)
+    - [Balsamiq](#balsamiq)
+    - [Sketch](#sketch)
+    - [Figma](#figma)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Podcasts](#podcasts)
+  - [Communities](#communities)
+  - [Conferences](#conferences)
 
 ## Tools
 
@@ -68,6 +73,19 @@ A tool to quickly manage "to-dos".
 | Platform | macOS, Windows, iOS, Android, web |
 | URL | https://to-do.microsoft.com/ |
 
+### Notion
+
+All-in-one workspace for teams and individuals.
+
+![Notion](/media/tool-notion.gif)
+
+| Property | Value |
+|-----------|------|
+| Developer | [Notion Labs](https://notion.so/) |
+| Cost | Freemium (_$4/mo/user individual, $8/mo/user teams_) |
+| Platform | macOS, Windows, iOS, Android, web |
+| URL | https://notion.so/ |
+
 ### Balsamiq
 
 Wireframing tool that allows building mocks without a strong focus on details. Extremely useful for situations where you don't want others to over-index on pixels and instead focus on the content.
@@ -83,7 +101,7 @@ Wireframing tool that allows building mocks without a strong focus on details. E
 
 Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences.
 
-![OneNote](/media/tool-sketch.gif)
+![Sketch](/media/tool-sketch.gif)
 
 | Property | Value |
 |-----------|------|
@@ -91,6 +109,20 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 | Cost | Paid (_$99/year_) |
 | Platform | macOS |
 | URL | https://www.sketchapp.com/ |
+
+### Figma
+
+A better way to design.
+Design, prototype, and collaborate all in the browser—with Figma.
+
+![Figma](/media/tool-figma.gif)
+
+| Property | Value |
+|-----------|------|
+| Developer | [Figma]([https://www.sketchapp.com/about-us/](https://www.figma.com/blog/)) |
+| Cost | Freemium (_$0-45/month_) |
+| Platform | macOS, Windows, web |
+| URL | https://www.figma.com |
 
 ## Articles
 
