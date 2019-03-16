@@ -94,6 +94,9 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 
 ## Articles
 
+* [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://blog.usejournal.com/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) by [Wayne Chang](https://twitter.com/Wayne)
+* [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) by [Wayne Chang](https://twitter.com/Wayne)
+* [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) by [Jason Fried](https://twitter.com/jasonfried)
 * [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) by [Ben Horowitz](https://twitter.com/bhorowitz)
 * [Guide to Career Planning](https://pmarchive.com/guide_to_career_planning_part0.html) by [Marc Andresssen](https://twitter.com/pmarca)
 * [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) by [Marc Andresssen](https://twitter.com/pmarca)
