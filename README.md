@@ -17,6 +17,7 @@ A curated list of awesome resources for product/program managers to learn and gr
     - [Balsamiq](#balsamiq)
     - [Sketch](#sketch)
     - [Figma](#figma)
+    - [Taskade](#taskade)
   - [Articles](#articles)
   - [Books](#books)
   - [Podcasts](#podcasts)
@@ -123,6 +124,20 @@ Design, prototype, and collaborate all in the browser—with Figma.
 | Cost | Freemium (_$0-45/month_) |
 | Platform | macOS, Windows, web |
 | URL | https://www.figma.com |
+
+### Taskade
+
+Team productivity, reimagined.
+Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams.
+
+![Figma](/media/tool-taskade.gif)
+
+| Property | Value |
+|-----------|------|
+| Developer | [Taskcade Inc.](https://taskade.com/about) |
+| Cost | Freemium (_$0-10/month_) |
+| Platform | macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, web |
+| URL | https://www.taskade.com |
 
 ## Articles
 
