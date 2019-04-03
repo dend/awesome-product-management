@@ -127,7 +127,6 @@ Design, prototype, and collaborate all in the browser—with Figma.
 
 ### Taskade
 
-Team productivity, reimagined.
 Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams.
 
 ![Figma](/media/tool-taskade.gif)
