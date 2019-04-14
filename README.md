@@ -133,7 +133,7 @@ Get work done with collaborative task lists, notes and video chat. Taskade is be
 
 | Property | Value |
 |-----------|------|
-| Developer | [Taskcade Inc.](https://taskade.com/about) |
+| Developer | [Taskade Inc.](https://taskade.com/about) |
 | Cost | Freemium (_$0-10/month_) |
 | Platform | macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, web |
 | URL | https://www.taskade.com |
