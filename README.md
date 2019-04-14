@@ -158,6 +158,9 @@ Get work done with collaborative task lists, notes and video chat. Taskade is be
 * [Understanding How The Innovator’s Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) by [Mark Suster](https://twitter.com/msuster)
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html) by [Paul Graham](https://twitter.com/paulg)
 * [Navigating Mid-Success](https://blog.ycombinator.com/navigating-mid-success/) by [Sam Altman](https://twitter.com/sama)
+* [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) by [Alice Boyes](https://twitter.com/draliceboyes)
+* [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) by [Dave Girouard](https://www.linkedin.com/in/davegirouard)
+* [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) by [Nick Babich](https://www.smashingmagazine.com/author/nickbabich)
 
 ## Books
 
