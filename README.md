@@ -1,6 +1,6 @@
 # Awesome Product Management [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome resources for product/program managers to learn and grow.
+A curated list of awesome resources for product/program managers to learn and grow. By definition, a product manager is an individual who drives the product vision and has a deep understanding of customer needs. PMs generally are considered to be at the intersection of the business, technology and and design spaces - they are the experts in the problem space, and are able to learn and iterate quickly to deliver valuable experiences to consumers.
 
 ## Contents
 
