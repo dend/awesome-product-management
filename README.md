@@ -180,14 +180,14 @@ Get work done with collaborative task lists, notes and video chat. Taskade is be
 
 ## Podcasts
 
-| Podcast                                                                             | Hosts        | URL                                                                       |
-|-------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|
-| <img alt="Masters of Scale" src="/media/pod-masters-of-scale.jpeg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/                                               |
-| <img alt="The Product Podcast" src="/media/pod-product.jpg" width="100px" />        | Multiple     | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 |
-| <img alt="StartUp" src="/media/pod-startup.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/startup                                       |
-| <img alt="How I Built This" src="/media/pod-how-i-built.jpg" width="100px" />       | Guy Raz      | https://www.npr.org/podcasts/510313/how-i-built-this                      |
-| <img alt="The Pitch" src="/media/pod-pitch.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/the-pitch                                     |
-| <img alt="ReWork" src="/media/pod-rework.png" width="100px" />                      | Multiple     | https://rework.fm/                                                        |
+| Podcast                                                                             | Hosts        | URL                                                                       | Description |
+|-------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|-------------|
+| <img alt="Masters of Scale" src="/media/pod-masters-of-scale.jpeg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/                                               | How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders. Guests include Facebook’s Mark Zuckerberg & Sheryl Sandberg, Netflix’s Reed Hastings, Google’s Eric Schmidt, Spanx’s Sara Blakely. With original music and hilariously honest stories, the show sounds like nothing you’ve ever heard. |
+| <img alt="The Product Podcast" src="/media/pod-product.jpg" width="100px" />        | Multiple     | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 | This is your Product Management podcast featuring PMs from Google, Facebook, LinkedIn, Spotify, Twitter and other tech companies/ startups. Tune in if you’re a manager, designer, engineer, entrepreneur or marketer who wants to learn the latest best pra? |
+| <img alt="StartUp" src="/media/pod-startup.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/startup                                       | The business origin story you never get to hear. |
+| <img alt="How I Built This" src="/media/pod-how-i-built.jpg" width="100px" />       | Guy Raz      | https://www.npr.org/podcasts/510313/how-i-built-this                      | Guy Raz dives into the stories behind some of the world’s best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. |
+| <img alt="The Pitch" src="/media/pod-pitch.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/the-pitch                                     | Where real entrepreneurs pitch to real investors—for real money. |
+| <img alt="ReWork" src="/media/pod-rework.png" width="100px" />                      | Multiple     | https://rework.fm/                                                        | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners. |
 
 ## Communities
 
