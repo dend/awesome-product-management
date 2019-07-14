@@ -18,6 +18,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [Sketch](#sketch)
   - [Figma](#figma)
   - [Taskade](#taskade)
+  - [Notejoy](#notejoy)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -136,6 +137,17 @@ Get work done with collaborative task lists, notes and video chat. Taskade is be
 | Cost      | Freemium (_$0-10/month_)                                           |
 | Platform  | macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, web |
 | URL       | https://www.taskade.com                                            |
+
+### Notejoy
+
+A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those.
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/)                                           |
+| Cost      | Freemium (_$0-12/month_)                                           |
+| Platform  | macOS, Windows, iOS, Android, web                                  |
+| URL       | https://notejoy.com                                                |
 
 ## Articles
 
