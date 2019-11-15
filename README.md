@@ -172,6 +172,7 @@ A collaborative note-taking application that is simple, intuitive and allows you
 - [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://twitter.com/draliceboyes).
 - [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
 - [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - By [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
+- [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) by [Marty Cagan](https://svpg.com/author/marty/).
 
 ## Books
 
