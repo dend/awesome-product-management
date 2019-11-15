@@ -24,6 +24,7 @@ By definition, a product manager is an individual who drives the product vision 
 - [Podcasts](#podcasts)
 - [Communities](#communities)
 - [Conferences](#conferences)
+- [Additional resources](#additional-resources)
 
 ## Tools
 
@@ -216,6 +217,10 @@ A collaborative note-taking application that is simple, intuitive and allows you
 
 - [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
 - [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
+
+## Additional resources
+
+- [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 
 ## License
 
