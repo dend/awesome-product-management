@@ -174,6 +174,7 @@ A collaborative note-taking application that is simple, intuitive and allows you
 - [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
 - [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - By [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
 - [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://svpg.com/author/marty/).
+- [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
 
 ## Books
 
