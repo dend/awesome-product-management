@@ -176,6 +176,7 @@ A collaborative note-taking application that is simple, intuitive and allows you
 - [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://svpg.com/author/marty/).
 - [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
+- [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://twitter.com/ckindel).
 
 ## Books
 
