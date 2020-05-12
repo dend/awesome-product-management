@@ -19,6 +19,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [Figma](#figma)
   - [Taskade](#taskade)
   - [Notejoy](#notejoy)
+  - [productboard](#productboard)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -149,7 +150,20 @@ A collaborative note-taking application that is simple, intuitive and allows you
 | Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/)                                           |
 | Cost      | Freemium (_$0-12/month_)                                           |
 | Platform  | macOS, Windows, iOS, Android, web                                  |
-| URL       | https://notejoy.com                                                |
+| URL       | https://notejoy.com   
+
+### productboard
+
+productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap.
+
+![productboard](/media/tool-productboard.png)
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| Developer | [productboard](https://www.productboard.com/)                      |
+| Cost      | Paid (starts at _$49/month_)                                        |
+| Platform  | web                                                                |
+| URL       | https://productboard.com                                           |
 
 ## Articles
 
