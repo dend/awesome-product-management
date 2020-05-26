@@ -19,6 +19,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [Figma](#figma)
   - [Taskade](#taskade)
   - [Notejoy](#notejoy)
+  - [productboard](#productboard)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -131,7 +132,7 @@ A better way to design. Design, prototype, and collaborate all in the browser—
 
 Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams.
 
-![Figma](/media/tool-taskade.gif)
+![Taskade](/media/tool-taskade.gif)
 
 | Property  | Value                                                              |
 |-----------|--------------------------------------------------------------------|
@@ -150,6 +151,19 @@ A collaborative note-taking application that is simple, intuitive and allows you
 | Cost      | Freemium (_$0-12/month_)                                           |
 | Platform  | macOS, Windows, iOS, Android, web                                  |
 | URL       | https://notejoy.com                                                |
+
+### productboard
+
+productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap.
+
+![productboard](/media/tool-productboard.png)
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| Developer | [productboard](https://www.productboard.com/)                      |
+| Cost      | Paid (starts at _$49/month_)                                       |
+| Platform  | web                                                                |
+| URL       | https://productboard.com                                           |
 
 ## Articles
 
@@ -198,6 +212,7 @@ A collaborative note-taking application that is simple, intuitive and allows you
 - [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kickass-Without-Humanity/dp/1250103509) - By Kim Scott.
 - [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/) - By Jake Knapp, John Zeratsky, Braden Kowitz.
 - [Creative Selection](http://creativeselection.io/) - By Ken Kocienda.
+- [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) - By Marty Cagan.
 
 ## Podcasts
 
