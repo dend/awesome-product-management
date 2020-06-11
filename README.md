@@ -192,6 +192,7 @@ productboard is the product management system that helps you understand what use
 - [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://twitter.com/ckindel).
+- [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - By [Philipp Cannons](https://twitter.com/pcannons).
 
 ## Books
 
