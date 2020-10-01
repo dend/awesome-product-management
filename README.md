@@ -20,6 +20,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [Taskade](#taskade)
   - [Notejoy](#notejoy)
   - [productboard](#productboard)
+  - [Mobbin](#mobbin)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -164,6 +165,17 @@ productboard is the product management system that helps you understand what use
 | Cost      | Paid (starts at _$49/month_)                                       |
 | Platform  | web                                                                |
 | URL       | https://productboard.com                                           |
+
+### mobbin
+
+Mobbin is a hand-picked collection of latest design patterns from mobile apps that reflect the best in design.
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| Developer | [Jiho Lim](https://www.linkedin.com/in/jiho/)                      |
+| Cost      | Free                                     |
+| Platform  | web                                                                |
+| URL       | https://mobbin.design/                                       |
 
 ## Articles
 
