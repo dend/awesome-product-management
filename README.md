@@ -162,7 +162,7 @@ productboard is the product management system that helps you understand what use
 |-----------|--------------------------------------------------------------------|
 | Developer | [productboard](https://www.productboard.com/)                      |
 | Cost      | Paid (starts at _$49/month_)                                       |
-| Platform  | web                                                                |
+| Platform  | Web                                                                |
 | URL       | https://productboard.com                                           |
 
 ## Articles
