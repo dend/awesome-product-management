@@ -166,17 +166,6 @@ productboard is the product management system that helps you understand what use
 | Platform  | web                                                                |
 | URL       | https://productboard.com                                           |
 
-### mobbin
-
-Mobbin is a hand-picked collection of latest design patterns from mobile apps that reflect the best in design.
-
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [Jiho Lim](https://www.linkedin.com/in/jiho/)                      |
-| Cost      | Free                                     |
-| Platform  | web                                                                |
-| URL       | https://mobbin.design/                                       |
-
 ## Articles
 
 - [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://blog.usejournal.com/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://twitter.com/Wayne).
@@ -254,6 +243,7 @@ Mobbin is a hand-picked collection of latest design patterns from mobile apps th
 ## Additional resources
 
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
+- Mobbin (https://mobbin.design/) - hand-picked collection of latest design patterns from mobile apps that reflect the best in design.
 
 ## License
 
