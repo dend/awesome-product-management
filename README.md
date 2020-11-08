@@ -20,7 +20,6 @@ By definition, a product manager is an individual who drives the product vision 
   - [Taskade](#taskade)
   - [Notejoy](#notejoy)
   - [productboard](#productboard)
-  - [Mobbin](#mobbin)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
