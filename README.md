@@ -242,6 +242,7 @@ productboard is the product management system that helps you understand what use
 ## Additional resources
 
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
+- [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 
 ## License
 
