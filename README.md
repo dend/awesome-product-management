@@ -233,6 +233,7 @@ productboard is the product management system that helps you understand what use
 - [PMTrack](https://pmtrack.co) (_using [Slack](https://slack.com/)_)
 - [The Product Coalition](https://productcoalition.com/) (_using [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
+- [Product Alliance](https://course.productalliance.com/a/33297/H65DPEzL) - All the tools you need to land your dream job as a product manager at any tech company.
 
 ## Conferences
 
@@ -243,6 +244,7 @@ productboard is the product management system that helps you understand what use
 
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
+- [Product Alliance's Hacking the PM Interview Course](https://course.productalliance.com/a/33299/H65DPEzL) - 16hrs of video lessons and 62 pages of strategy guides on how to answer ANY question thrown your way.
 
 ## License
 
