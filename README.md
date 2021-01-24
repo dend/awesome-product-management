@@ -230,7 +230,6 @@ productboard is the product management system that helps you understand what use
 
 - [Women in Product](https://www.womenpm.org/) (_using [Facebook](https://facebook.com)_)
 - [Product School](https://www.productschool.com/) (_using [Slack](https://slack.com/)_)
-- [PMTrack](https://pmtrack.co) (_using [Slack](https://slack.com/)_)
 - [The Product Coalition](https://productcoalition.com/) (_using [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
 
