@@ -20,6 +20,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [Taskade](#taskade)
   - [Notejoy](#notejoy)
   - [productboard](#productboard)
+  - [logchimp](#logchimp)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -164,6 +165,19 @@ productboard is the product management system that helps you understand what use
 | Cost      | Paid (starts at _$49/month_)                                       |
 | Platform  | Web                                                                |
 | URL       | https://productboard.com                                           |
+
+### logchimp
+
+LogChimp allows you to track your customers feedback to build better products.
+
+![logchimp](/media/pod-logchimp.jpg)
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| Developer | [LogChimp](https://logchimp.codecarrot.net/)                       |
+| Cost      | Open source.                                                       |
+| Platform  | Web                                                                |
+| URL       | https://logchimp.codecarrot.net                                    |
 
 ## Articles
 
