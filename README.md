@@ -1,6 +1,6 @@
 # Awesome Product Management [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome resources for product/program managers to learn and grow. 
+A curated list of awesome resources for product/program managers to learn and grow.
 
 ## Who's a product manager?
 
@@ -22,6 +22,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [productboard](#productboard)
   - [Focalboard](#focalboard)
   - [Launchnotes](#launchnotes)
+  - [logchimp](#logchimp)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -191,6 +192,19 @@ The #1 platform for product change communicators. LaunchNotes gives you a dedica
 | Cost      | SaaS, 14-days trial                                                |
 | Platform  | Web                                                                |
 
+
+### logchimp
+
+LogChimp allows you to track your customers feedback to build better products.
+
+![logchimp](/media/pod-logchimp.jpg)
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| Developer | [LogChimp](https://logchimp.codecarrot.net/)                       |
+| Cost      | Open source.                                                       |
+| Platform  | Web                                                                |
+| URL       | https://logchimp.codecarrot.net                                    |
 
 ## Articles
 
