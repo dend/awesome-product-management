@@ -20,6 +20,8 @@ By definition, a product manager is an individual who drives the product vision 
   - [Taskade](#taskade)
   - [Notejoy](#notejoy)
   - [productboard](#productboard)
+  - [Focalboard](#focalboard)
+  - [Launchnotes](#launchnotes)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -164,6 +166,31 @@ productboard is the product management system that helps you understand what use
 | Cost      | Paid (starts at _$49/month_)                                       |
 | Platform  | Web                                                                |
 | URL       | https://productboard.com                                           |
+
+### focalboard
+
+Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+
+![focalboard](/media/tool-focalboard.png)
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| URL       | [focalboard](https://www.focalboard.com/)                          |
+| Cost      | open source                                                        |
+| Platform  | Web                                                                |
+
+### launchnotes
+
+The #1 platform for product change communicators. LaunchNotes gives you a dedicated home to announce product changes, and tools to segment and notify the users that need to know about them.
+
+![launchnotes](/media/tool-launchnotes.png)
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| URL       | [launchnotes](https://www.launchnotes.com/)                        |
+| Cost      | SaaS, 14-days trial                                                |
+| Platform  | Web                                                                |
+
 
 ## Articles
 
