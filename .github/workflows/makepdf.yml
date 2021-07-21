@@ -27,7 +27,7 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Set up environment
-      run: apt-get install pandoc wkhtmltopdf
+      run: sudo apt-get install pandoc wkhtmltopdf
 
     - name: List files in folder
       run: ls
