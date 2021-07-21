@@ -45,10 +45,13 @@ jobs:
         name: apm-${{ steps.date.outputs.date }}.pdf
         path: awesome-product-management.pdf
 
+    - name: List files in folder
+      run: ls
+
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
-        tag_name: steps.date.outputs.date
+        tag_name: ${{ steps.date.outputs.date }}
         files: apm-${{ steps.date.outputs.date }}.pdf
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
