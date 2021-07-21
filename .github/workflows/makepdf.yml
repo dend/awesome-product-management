@@ -48,6 +48,7 @@ jobs:
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
+        tag_name: steps.date.outputs.date
         files: apm-${{ steps.date.outputs.date }}.pdf
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
