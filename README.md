@@ -34,7 +34,7 @@ By definition, a product manager is an individual who drives the product vision 
 
 Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals.
 
-![OneNote](/media/tool-onenote.gif)
+![OneNote](media/tool-onenote.gif)
 
 | Property  | Value                              |
 |-----------|------------------------------------|
@@ -47,7 +47,7 @@ Efficient note-taking with superior organizational capabilities. Integrates easi
 
 Note-taking in Markdown format, with tag-based organizational capabilities.
 
-![Bear](/media/tool-bear.gif)
+![Bear](media/tool-bear.gif)
 
 | Property  | Value                                      |
 |-----------|--------------------------------------------|
@@ -82,7 +82,7 @@ A tool to quickly manage "to-dos".
 
 All-in-one workspace for teams and individuals.
 
-![Notion](/media/tool-notion.gif)
+![Notion](media/tool-notion.gif)
 
 | Property  | Value                                                |
 |-----------|------------------------------------------------------|
@@ -106,7 +106,7 @@ Wireframing tool that allows building mocks without a strong focus on details. E
 
 Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences.
 
-![Sketch](/media/tool-sketch.gif)
+![Sketch](media/tool-sketch.gif)
 
 | Property  | Value                                                |
 |-----------|------------------------------------------------------|
@@ -119,7 +119,7 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 
 A better way to design. Design, prototype, and collaborate all in the browser—with Figma.
 
-![Figma](/media/tool-figma.gif)
+![Figma](media/tool-figma.gif)
 
 | Property  | Value                                |
 |-----------|--------------------------------------|
@@ -132,7 +132,7 @@ A better way to design. Design, prototype, and collaborate all in the browser—
 
 Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams.
 
-![Taskade](/media/tool-taskade.gif)
+![Taskade](media/tool-taskade.gif)
 
 | Property  | Value                                                              |
 |-----------|--------------------------------------------------------------------|
@@ -156,7 +156,7 @@ A collaborative note-taking application that is simple, intuitive and allows you
 
 productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap.
 
-![productboard](/media/tool-productboard.png)
+![productboard](media/tool-productboard.png)
 
 | Property  | Value                                                              |
 |-----------|--------------------------------------------------------------------|
@@ -219,12 +219,12 @@ productboard is the product management system that helps you understand what use
 
 | Podcast                                                                             | Hosts        | URL                                                                       | Description |
 |-------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|-------------|
-| <img alt="Masters of Scale" src="/media/pod-masters-of-scale.jpeg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/                                               | How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders. Guests include Facebook’s Mark Zuckerberg & Sheryl Sandberg, Netflix’s Reed Hastings, Google’s Eric Schmidt, Spanx’s Sara Blakely. With original music and hilariously honest stories, the show sounds like nothing you’ve ever heard. |
-| <img alt="The Product Podcast" src="/media/pod-product.jpg" width="100px" />        | Multiple     | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 | This is your Product Management podcast featuring PMs from Google, Facebook, LinkedIn, Spotify, Twitter and other tech companies/ startups. Tune in if you’re a manager, designer, engineer, entrepreneur or marketer who wants to learn the latest best practices. |
-| <img alt="StartUp" src="/media/pod-startup.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/startup                                       | The business origin story you never get to hear. |
-| <img alt="How I Built This" src="/media/pod-how-i-built.jpg" width="100px" />       | Guy Raz      | https://www.npr.org/podcasts/510313/how-i-built-this                      | Guy Raz dives into the stories behind some of the world’s best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. |
-| <img alt="The Pitch" src="/media/pod-pitch.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/the-pitch                                     | Where real entrepreneurs pitch to real investors—for real money. |
-| <img alt="ReWork" src="/media/pod-rework.png" width="100px" />                      | Multiple     | https://rework.fm/                                                        | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners. |
+| <img alt="Masters of Scale" src="media/pod-masters-of-scale.jpg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/                                               | How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders. Guests include Facebook’s Mark Zuckerberg & Sheryl Sandberg, Netflix’s Reed Hastings, Google’s Eric Schmidt, Spanx’s Sara Blakely. With original music and hilariously honest stories, the show sounds like nothing you’ve ever heard. |
+| <img alt="The Product Podcast" src="media/pod-product.jpg" width="100px" />        | Multiple     | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 | This is your Product Management podcast featuring PMs from Google, Facebook, LinkedIn, Spotify, Twitter and other tech companies/ startups. Tune in if you’re a manager, designer, engineer, entrepreneur or marketer who wants to learn the latest best practices. |
+| <img alt="StartUp" src="media/pod-startup.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/startup                                       | The business origin story you never get to hear. |
+| <img alt="How I Built This" src="media/pod-how-i-built.jpg" width="100px" />       | Guy Raz      | https://www.npr.org/podcasts/510313/how-i-built-this                      | Guy Raz dives into the stories behind some of the world’s best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. |
+| <img alt="The Pitch" src="media/pod-pitch.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/the-pitch                                     | Where real entrepreneurs pitch to real investors—for real money. |
+| <img alt="ReWork" src="media/pod-rework.png" width="100px" />                      | Multiple     | https://rework.fm/                                                        | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners. |
 
 ## Communities
 
