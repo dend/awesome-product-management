@@ -216,6 +216,7 @@ productboard is the product management system that helps you understand what use
 - [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) - By Marty Cagan.
 - [The Customer-Driven Playbook](https://www.oreilly.com/library/view/the-customer-driven-playbook/9781491981269/) - By Jessica Rich and Travis Lowdermilk.
 - [Escaping The Build Trap](https://www.oreilly.com/library/view/escaping-the-build/9781491973783/) - By Melissa Perri.
+- [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - By Camille Fournier.
 
 ## Podcasts
 
