@@ -37,7 +37,7 @@ jobs:
 
     - name: Get current date
       id: date
-      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H_%M')"
 
     - name: Release
       uses: softprops/action-gh-release@v1
