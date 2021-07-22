@@ -173,7 +173,7 @@ productboard is the product management system that helps you understand what use
 - [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) - By [Ben Horowitz](https://twitter.com/bhorowitz).
 - [Guide to Career Planning](https://pmarchive.com/guide_to_career_planning_part0.html) - By [Marc Andresssen](https://twitter.com/pmarca).
 - [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) - By [Marc Andresssen](https://twitter.com/pmarca).
-- [PM at Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://twitter.com/stevesi).
+- [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://twitter.com/stevesi).
 - [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) - By [Steven Sinofsky](https://twitter.com/stevesi).
 - [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://twitter.com/trengriffin).
 - [Relentlessly Resourcefull](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://twitter.com/paulg).
