@@ -170,12 +170,12 @@ productboard is the product management system that helps you understand what use
 
 LogChimp allows you to track your customers feedback to build better products.
 
-![logchimp](/media/pod-logchimp.jpg)
+![logchimp](/media/logchimp.png)
 
 | Property  | Value                                                              |
 |-----------|--------------------------------------------------------------------|
 | Developer | [LogChimp](https://logchimp.codecarrot.net/)                       |
-| Cost      | Open source.                                                       |
+| Cost      | Free (Open source)                                                 |
 | Platform  | Web                                                                |
 | URL       | https://logchimp.codecarrot.net                                    |
 
