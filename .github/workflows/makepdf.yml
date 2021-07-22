@@ -39,15 +39,6 @@ jobs:
       id: date
       run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
-    - name: Upload artifact
-      uses: actions/upload-artifact@v2
-      with:
-        name: apm-${{ steps.date.outputs.date }}.pdf
-        path: awesome-product-management.pdf
-
-    - name: List files in folder
-      run: ls
-
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
