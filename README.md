@@ -208,7 +208,7 @@ LogChimp allows you to track your customers feedback to build better products.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://twitter.com/ckindel).
 - [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - By [Philipp Cannons](https://twitter.com/pcannons).
 - [[Humor] So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - By [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
-- [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb?gi=5dfc8f819d27) by [Brandon Chu](https://twitter.com/brandonmchu).
+- [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb?gi=5dfc8f819d27) - By [Brandon Chu](https://twitter.com/brandonmchu).
 
 ## Books
 
