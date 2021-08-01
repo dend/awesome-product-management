@@ -243,6 +243,8 @@ LogChimp allows you to track your customers feedback to build better products.
 - [Escaping The Build Trap](https://www.oreilly.com/library/view/escaping-the-build/9781491973783/) - By Melissa Perri.
 - [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - By Camille Fournier.
 - [Intercom on Product Management](https://www.intercom.com/resources/books/intercom-product-management)
+- [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) - By Will Larson.
+- [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - by Richard W. Hamming.
 
 ## Podcasts
 
