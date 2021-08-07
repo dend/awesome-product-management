@@ -218,6 +218,8 @@ LogChimp allows you to track your customers feedback to build better products.
 - [How to Work With Software Engineers](https://www.bringthedonuts.com/essays/how-to-work-with-software-engineers.html) - By [Ken Norton](https://www.bringthedonuts.com/about/).
 - [Breaking into Product Management — Should you even consider it?](https://medium.com/@sshubhi/breaking-into-product-management-a-guide-c6fa3bc59449) - By [Shubhi Saxena](https://medium.com/@sshubhi).
 - [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - By [Charlie Kindel](https://twitter.com/ckindel).
+- [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - by [Hubert Palan](https://twitter.com/hpalan).
+- [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://twitter.com/ClontFont).
 
 ## Books
 
@@ -244,7 +246,8 @@ LogChimp allows you to track your customers feedback to build better products.
 - [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - By Camille Fournier.
 - [Intercom on Product Management](https://www.intercom.com/resources/books/intercom-product-management)
 - [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) - By Will Larson.
-- [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - by Richard W. Hamming.
+- [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - By Richard W. Hamming.
+- [Shape Up](https://basecamp.com/shapeup/webbook) - By Rian Singer.
 
 ## Podcasts
 
