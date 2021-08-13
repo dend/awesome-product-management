@@ -250,7 +250,8 @@ LogChimp allows you to track your customers feedback to build better products.
 - [Intercom on Product Management](https://www.intercom.com/resources/books/intercom-product-management)
 - [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) - By Will Larson.
 - [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - By Richard W. Hamming.
-- [Shape Up](https://basecamp.com/shapeup/webbook) - By Rian Singer.
+- [Shape Up](https://basecamp.com/shapeup/webbook) - By Ryan Singer.
+- [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.chapters.indigo.ca/en-ca/books/outcomes-over-output-why-customer/9781393721772-item.html) - By Joshua Seiden.
 
 ## Podcasts
 
