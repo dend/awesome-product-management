@@ -223,6 +223,8 @@ LogChimp allows you to track your customers feedback to build better products.
 - [What Makes a Great Product Manager](https://informedpm.com/posts/great-product-manager) - By [John Yeung](https://twitter.com/jhlyeung).
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By [Glenn Gillen](https://twitter.com/glenngillen).
 - [Persuasion for Product Managers](https://informedpm.com/posts/persuasion-product-manager) - By [John Yeung](https://twitter.com/jhlyeung).
+- [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - By [Roy Cobby](https://twitter.com/roycobby).
+- [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://twitter.com/christineitwaru).
 
 ## Books
 
@@ -271,6 +273,7 @@ LogChimp allows you to track your customers feedback to build better products.
 - [The Product Coalition](https://productcoalition.com/) (_using [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
 - [Ladder](https://ladder.to/)
+- [Product Circle](https://productcircle.to/)
 
 ## Conferences
 
