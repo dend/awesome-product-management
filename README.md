@@ -72,14 +72,14 @@ Kanban-style boards to manage work items. Integrates well with teams and other s
 
 Taiga is a project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface.
 
-![Taiga](media/tool-taiga.gif)
+![Switching zoom modes in Kanban section](media/tool-taiga.gif)
 
-| Property  | Value                              |
-|-----------|------------------------------------|
-| Developer | [Kaleidos](https://kaleidos.net/)  |
-| Cost      | Open Source - Freemium SaaS        |
-| Platform  | macOS, Windows, iOS, Android, web  |
-| URL       | https://www.taiga.io/              |
+| Property  | Value                                                                                   |
+|-----------|-----------------------------------------------------------------------------------------|
+| Developer | [Kaleidos](https://kaleidos.net/)                                                       |
+| Cost      | Free (self-hosted) or [Freemium](https://www.taiga.io/#UC8VFzDETWwTtlkEqQHR5SqHPcMRi1HL)|
+| Platform  | macOS, Windows, iOS, Android, Web                                                       |
+| URL       | https://www.taiga.io/                                                                   |
 
 ### To-Do
 
