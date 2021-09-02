@@ -12,6 +12,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [OneNote](#onenote)
   - [Bear](#bear)
   - [Trello](#trello)
+  - [Taiga](#taiga)
   - [To-Do](#to-do)
   - [Notion](#notion)
   - [Balsamiq](#balsamiq)
@@ -30,7 +31,6 @@ By definition, a product manager is an individual who drives the product vision 
 - [License](#license)
 
 ## Tools
-
 ### OneNote
 
 Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals.
@@ -67,6 +67,19 @@ Kanban-style boards to manage work items. Integrates well with teams and other s
 | Cost      | Freemium (_$9.99/mo+ subscriptions available_) |
 | Platform  | macOS, Windows, iOS, Android, web              |
 | URL       | https://trello.com/                            |
+
+### Taiga
+
+Taiga is a project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface.
+
+![Switching zoom modes in Kanban section](media/tool-taiga.gif)
+
+| Property  | Value                                                                                   |
+|-----------|-----------------------------------------------------------------------------------------|
+| Developer | [Kaleidos](https://kaleidos.net/)                                                       |
+| Cost      | Free (self-hosted) or [Freemium](https://www.taiga.io/#UC8VFzDETWwTtlkEqQHR5SqHPcMRi1HL)|
+| Platform  | macOS, Windows, iOS, Android, Web                                                       |
+| URL       | https://www.taiga.io/                                                                   |
 
 ### To-Do
 
