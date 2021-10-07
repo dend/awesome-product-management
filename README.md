@@ -77,9 +77,9 @@ Taiga is a project management tool for multi-functional agile teams. It has a ri
 | Property  | Value                                                                                   |
 |-----------|-----------------------------------------------------------------------------------------|
 | Developer | [Kaleidos](https://kaleidos.net/)                                                       |
-| Cost      | Free (self-hosted) or [Freemium](https://www.taiga.io/)|
+| Cost      | Free (self-hosted) or [Freemium](https://tree.taiga.io/)|
 | Platform  | macOS, Windows, iOS, Android, Web                                                       |
-| URL       | https://www.taiga.io/                                                                   |
+| URL       | https://tree.taiga.io                                                                   |
 
 ### To-Do
 
