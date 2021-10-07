@@ -233,9 +233,7 @@ LogChimp allows you to track your customers feedback to build better products.
 - [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - By [Charlie Kindel](https://twitter.com/ckindel).
 - [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - by [Hubert Palan](https://twitter.com/hpalan).
 - [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://twitter.com/ClontFont).
-- [What Makes a Great Product Manager](https://informedpm.com/posts/great-product-manager) - By [John Yeung](https://twitter.com/jhlyeung).
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By [Glenn Gillen](https://twitter.com/glenngillen).
-- [Persuasion for Product Managers](https://informedpm.com/posts/persuasion-product-manager) - By [John Yeung](https://twitter.com/jhlyeung).
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - By [Roy Cobby](https://twitter.com/roycobby).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://twitter.com/christineitwaru).
 - [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - By [Ken Norton](https://twitter.com/kennethn).
