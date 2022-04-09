@@ -1,6 +1,6 @@
 # Awesome Product Management [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://den.dev/ukraine)
 
-A curated list of awesome resources for product/program managers to learn and grow. 
+A curated list of awesome resources for product/program managers to learn and grow.
 
 ## Who's a product manager?
 
@@ -22,6 +22,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [Notejoy](#notejoy)
   - [productboard](#productboard)
   - [logchimp](#logchimp)
+  - [Product Specs Template](https://www.notion.so/Product-Specs-Template-aa23b8e1fa304365baf0ff7e828246e8)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -31,6 +32,7 @@ By definition, a product manager is an individual who drives the product vision 
 - [License](#license)
 
 ## Tools
+
 ### OneNote
 
 Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals.
@@ -38,7 +40,7 @@ Efficient note-taking with superior organizational capabilities. Integrates easi
 ![OneNote](media/tool-onenote.gif)
 
 | Property  | Value                              |
-|-----------|------------------------------------|
+| --------- | ---------------------------------- |
 | Developer | [Microsoft](https://microsoft.com) |
 | Cost      | Free                               |
 | Platform  | macOS, Windows, iOS, Android, web  |
@@ -51,7 +53,7 @@ Note-taking in Markdown format, with tag-based organizational capabilities.
 ![Bear](media/tool-bear.gif)
 
 | Property  | Value                                      |
-|-----------|--------------------------------------------|
+| --------- | ------------------------------------------ |
 | Developer | [Shiny Frog](http://www.shinyfrog.net/)    |
 | Cost      | Freemium (_$16/yr subscription available_) |
 | Platform  | macOS, iOS                                 |
@@ -62,7 +64,7 @@ Note-taking in Markdown format, with tag-based organizational capabilities.
 Kanban-style boards to manage work items. Integrates well with teams and other services. Has a rich extensibility platform.
 
 | Property  | Value                                          |
-|-----------|------------------------------------------------|
+| --------- | ---------------------------------------------- |
 | Developer | [Atlassian](https://www.atlassian.com/)        |
 | Cost      | Freemium (_$9.99/mo+ subscriptions available_) |
 | Platform  | macOS, Windows, iOS, Android, web              |
@@ -74,19 +76,19 @@ Taiga is a project management tool for multi-functional agile teams. It has a ri
 
 ![Switching zoom modes in Kanban section](media/tool-taiga.gif)
 
-| Property  | Value                                                                                   |
-|-----------|-----------------------------------------------------------------------------------------|
-| Developer | [Kaleidos](https://kaleidos.net/)                                                       |
-| Cost      | Free (self-hosted) or [Freemium](https://tree.taiga.io/)|
-| Platform  | macOS, Windows, iOS, Android, Web                                                       |
-| URL       | https://tree.taiga.io                                                                   |
+| Property  | Value                                                    |
+| --------- | -------------------------------------------------------- |
+| Developer | [Kaleidos](https://kaleidos.net/)                        |
+| Cost      | Free (self-hosted) or [Freemium](https://tree.taiga.io/) |
+| Platform  | macOS, Windows, iOS, Android, Web                        |
+| URL       | https://tree.taiga.io                                    |
 
 ### To-Do
 
 A tool to quickly manage "to-dos".
 
 | Property  | Value                                   |
-|-----------|-----------------------------------------|
+| --------- | --------------------------------------- |
 | Developer | [Microsoft](https://www.microsoft.com/) |
 | Cost      | Free                                    |
 | Platform  | macOS, Windows, iOS, Android, web       |
@@ -99,7 +101,7 @@ All-in-one workspace for teams and individuals.
 ![Notion](media/tool-notion.gif)
 
 | Property  | Value                                                |
-|-----------|------------------------------------------------------|
+| --------- | ---------------------------------------------------- |
 | Developer | [Notion Labs](https://notion.so/)                    |
 | Cost      | Freemium (_$4/mo/user individual, $8/mo/user teams_) |
 | Platform  | macOS, Windows, iOS, Android, web                    |
@@ -110,7 +112,7 @@ All-in-one workspace for teams and individuals.
 Wireframing tool that allows building mocks without a strong focus on details. Extremely useful for situations where you don't want others to over-index on pixels and instead focus on the content.
 
 | Property  | Value                                          |
-|-----------|------------------------------------------------|
+| --------- | ---------------------------------------------- |
 | Developer | [Balsamiq Studios, LLC](https://balsamiq.com/) |
 | Cost      | Paid (_$89/person - permanent license_)        |
 | Platform  | macOS, Windows, web                            |
@@ -123,7 +125,7 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 ![Sketch](media/tool-sketch.gif)
 
 | Property  | Value                                                |
-|-----------|------------------------------------------------------|
+| --------- | ---------------------------------------------------- |
 | Developer | [Bohemian B.V.](https://www.sketchapp.com/about-us/) |
 | Cost      | Paid (_$99/year_)                                    |
 | Platform  | macOS                                                |
@@ -136,7 +138,7 @@ A better way to design. Design, prototype, and collaborate all in the browser—
 ![Figma](media/tool-figma.gif)
 
 | Property  | Value                                |
-|-----------|--------------------------------------|
+| --------- | ------------------------------------ |
 | Developer | [Figma](https://www.figma.com/blog/) |
 | Cost      | Freemium (_$0-45/month_)             |
 | Platform  | macOS, Windows, web                  |
@@ -149,7 +151,7 @@ Get work done with collaborative task lists, notes and video chat. Taskade is be
 ![Taskade](media/tool-taskade.gif)
 
 | Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
+| --------- | ------------------------------------------------------------------ |
 | Developer | [Taskade Inc.](https://taskade.com/about)                          |
 | Cost      | Freemium (_$0-10/month_)                                           |
 | Platform  | macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, web |
@@ -159,12 +161,12 @@ Get work done with collaborative task lists, notes and video chat. Taskade is be
 
 A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those.
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/)                                           |
-| Cost      | Freemium (_$0-12/month_)                                           |
-| Platform  | macOS, Windows, iOS, Android, web                                  |
-| URL       | https://notejoy.com                                                |
+| Property  | Value                                                                                                            |
+| --------- | ---------------------------------------------------------------------------------------------------------------- |
+| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/) |
+| Cost      | Freemium (_$0-12/month_)                                                                                         |
+| Platform  | macOS, Windows, iOS, Android, web                                                                                |
+| URL       | https://notejoy.com                                                                                              |
 
 ### productboard
 
@@ -172,12 +174,12 @@ productboard is the product management system that helps you understand what use
 
 ![productboard](media/tool-productboard.png)
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [productboard](https://www.productboard.com/)                      |
-| Cost      | Paid (starts at _$49/month_)                                       |
-| Platform  | Web                                                                |
-| URL       | https://productboard.com                                           |
+| Property  | Value                                         |
+| --------- | --------------------------------------------- |
+| Developer | [productboard](https://www.productboard.com/) |
+| Cost      | Paid (starts at _$49/month_)                  |
+| Platform  | Web                                           |
+| URL       | https://productboard.com                      |
 
 ### logchimp
 
@@ -185,12 +187,12 @@ LogChimp allows you to track your customers feedback to build better products.
 
 ![logchimp](media/logchimp.png)
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [LogChimp](https://logchimp.codecarrot.net/)                       |
-| Cost      | Free (Open source)                                                 |
-| Platform  | Web                                                                |
-| URL       | https://logchimp.codecarrot.net                                    |
+| Property  | Value                                        |
+| --------- | -------------------------------------------- |
+| Developer | [LogChimp](https://logchimp.codecarrot.net/) |
+| Cost      | Free (Open source)                           |
+| Platform  | Web                                          |
+| URL       | https://logchimp.codecarrot.net              |
 
 ## Articles
 
@@ -271,15 +273,15 @@ LogChimp allows you to track your customers feedback to build better products.
 
 ## Podcasts
 
-| Podcast                                                                             | Hosts        | URL                                                                       | Description |
-|-------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|-------------|
-| <img alt="Masters of Scale" src="media/pod-masters-of-scale.jpg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/                                               | How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders. Guests include Facebook’s Mark Zuckerberg & Sheryl Sandberg, Netflix’s Reed Hastings, Google’s Eric Schmidt, Spanx’s Sara Blakely. With original music and hilariously honest stories, the show sounds like nothing you’ve ever heard. |
-| <img alt="The Product Podcast" src="media/pod-product.jpg" width="100px" />        | Multiple     | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787 | This is your Product Management podcast featuring PMs from Google, Facebook, LinkedIn, Spotify, Twitter and other tech companies/ startups. Tune in if you’re a manager, designer, engineer, entrepreneur or marketer who wants to learn the latest best practices. |
-| <img alt="StartUp" src="media/pod-startup.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/startup                                       | The business origin story you never get to hear. |
-| <img alt="How I Built This" src="media/pod-how-i-built.jpg" width="100px" />       | Guy Raz      | https://www.npr.org/podcasts/510313/how-i-built-this                      | Guy Raz dives into the stories behind some of the world’s best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. |
-| <img alt="The Pitch" src="media/pod-pitch.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/the-pitch                                     | Where real entrepreneurs pitch to real investors—for real money. |
-| <img alt="ReWork" src="media/pod-rework.png" width="100px" />                      | Multiple     | https://rework.fm/                                                        | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners. |
-| <img alt="Art Of Product" src="media/pod-art-of-product.jpg" width="100px" />      | Multiple     | https://artofproductpodcast.com/                                          | Chronicling the journeys of two entrepreneurs building software companies. |
+| Podcast                                                                           | Hosts        | URL                                                                  | Description                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Masters of Scale" src="media/pod-masters-of-scale.jpg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/                                          | How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders. Guests include Facebook’s Mark Zuckerberg & Sheryl Sandberg, Netflix’s Reed Hastings, Google’s Eric Schmidt, Spanx’s Sara Blakely. With original music and hilariously honest stories, the show sounds like nothing you’ve ever heard. |
+| <img alt="The Product Podcast" src="media/pod-product.jpg" width="100px" />       | Multiple     | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787 | This is your Product Management podcast featuring PMs from Google, Facebook, LinkedIn, Spotify, Twitter and other tech companies/ startups. Tune in if you’re a manager, designer, engineer, entrepreneur or marketer who wants to learn the latest best practices.                                                                                                                           |
+| <img alt="StartUp" src="media/pod-startup.webp" width="100px" />                  | Multiple     | https://www.gimletmedia.com/startup                                  | The business origin story you never get to hear.                                                                                                                                                                                                                                                                                                                                              |
+| <img alt="How I Built This" src="media/pod-how-i-built.jpg" width="100px" />      | Guy Raz      | https://www.npr.org/podcasts/510313/how-i-built-this                 | Guy Raz dives into the stories behind some of the world’s best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built.                                                                                                                                                                                       |
+| <img alt="The Pitch" src="media/pod-pitch.webp" width="100px" />                  | Multiple     | https://www.gimletmedia.com/the-pitch                                | Where real entrepreneurs pitch to real investors—for real money.                                                                                                                                                                                                                                                                                                                              |
+| <img alt="ReWork" src="media/pod-rework.png" width="100px" />                     | Multiple     | https://rework.fm/                                                   | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners.                                                                                                                                                                                                               |
+| <img alt="Art Of Product" src="media/pod-art-of-product.jpg" width="100px" />     | Multiple     | https://artofproductpodcast.com/                                     | Chronicling the journeys of two entrepreneurs building software companies.                                                                                                                                                                                                                                                                                                                    |
 
 ## Communities
 
