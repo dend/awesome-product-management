@@ -22,7 +22,6 @@ By definition, a product manager is an individual who drives the product vision 
   - [Notejoy](#notejoy)
   - [productboard](#productboard)
   - [logchimp](#logchimp)
-  - [Product Specs Template](https://www.notion.so/Product-Specs-Template-aa23b8e1fa304365baf0ff7e828246e8)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -301,6 +300,7 @@ LogChimp allows you to track your customers feedback to build better products.
 
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
+- [Product Specs Template](https://www.notion.so/Product-Specs-Template-aa23b8e1fa304365baf0ff7e828246e8)
 
 ## License
 
