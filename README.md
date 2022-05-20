@@ -15,6 +15,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [Taiga](#taiga)
   - [To-Do](#to-do)
   - [Notion](#notion)
+  - [Hellonext](#hellonext)
   - [Balsamiq](#balsamiq)
   - [Sketch](#sketch)
   - [Figma](#figma)
@@ -192,12 +193,27 @@ LogChimp allows you to track your customers feedback to build better products.
 | Platform  | Web                                                                |
 | URL       | https://logchimp.codecarrot.net                                    |
 
+
+### Hellonext
+
+Hellonext helps you close the user feedback loop. Comes with feedback portal, roadmap, and changelog.
+
+![hellonext](media/hellonext.png)
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| Developer | [Hellonext, Inc.](https://hellonext.co)                            |
+| Cost      | Paid ($19/month)                                                   |
+| Platform  | Web                                                                |
+| URL       | https://hellonext.co                                               |
+
 ## Articles
 
 - [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://twitter.com/Wayne).
 - [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - By [Wayne Chang](https://twitter.com/Wayne).
 - [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - By [Jason Fried](https://twitter.com/jasonfried).
 - [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) - By [Ben Horowitz](https://twitter.com/bhorowitz).
+- [Guide to building a product roadmap](https://hellonext.co/blog/how-to-build-great-product-roadmap) - By Hellonext, Inc.
 - [Guide to Career Planning](https://pmarchive.com/guide_to_career_planning_part0.html) - By [Marc Andresssen](https://twitter.com/pmarca).
 - [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) - By [Marc Andresssen](https://twitter.com/pmarca).
 - [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://twitter.com/stevesi).
