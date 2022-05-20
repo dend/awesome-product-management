@@ -284,6 +284,10 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 - [Shape Up](https://basecamp.com/shapeup/webbook) - By Ryan Singer.
 - [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.chapters.indigo.ca/en-ca/books/outcomes-over-output-why-customer/9781393721772-item.html) - By Joshua Seiden.
 - [Difficult Conversations](https://www.chapters.indigo.ca/en-ca/books/difficult-conversations-how-to-discuss/9780143118442-item.html) - By Douglas Stone.
+- [Good Strategy, Bad Strategy](https://www.barnesandnoble.com/w/good-strategy-bad-strategy-richard-rumelt/1101087922?ean=9780307886231) - By Richard Rumelt.
+- [Crossing The Chasm](https://www.barnesandnoble.com/w/crossing-the-chasm-3rd-edition-geoffrey-a-moore/1116092388?ean=9780062292988) - By Geoffrey A. Moore.
+- [Inspired: How to Create Tech Products Customers Love](https://www.barnesandnoble.com/w/inspired-marty-cagan/1127308294?ean=9781119387503) - By Marty Cagan.
+- [EMPOWERED: Ordinary People, Extraordinary Products](https://www.barnesandnoble.com/w/empowered-marty-cagan/1137059391?ean=9781119691297) - By Marty Cagan, Chris Jones.
 
 ## Podcasts
 
