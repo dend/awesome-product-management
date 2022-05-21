@@ -286,8 +286,8 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 - [Difficult Conversations](https://www.chapters.indigo.ca/en-ca/books/difficult-conversations-how-to-discuss/9780143118442-item.html) - By Douglas Stone.
 - [Good Strategy, Bad Strategy](https://www.barnesandnoble.com/w/good-strategy-bad-strategy-richard-rumelt/1101087922?ean=9780307886231) - By Richard Rumelt.
 - [Crossing The Chasm](https://www.barnesandnoble.com/w/crossing-the-chasm-3rd-edition-geoffrey-a-moore/1116092388?ean=9780062292988) - By Geoffrey A. Moore.
-- [Inspired: How to Create Tech Products Customers Love](https://www.barnesandnoble.com/w/inspired-marty-cagan/1127308294?ean=9781119387503) - By Marty Cagan.
 - [EMPOWERED: Ordinary People, Extraordinary Products](https://www.barnesandnoble.com/w/empowered-marty-cagan/1137059391?ean=9781119691297) - By Marty Cagan, Chris Jones.
+- [The Power of Habit: Why We Do What We Do in Life and Business](https://www.barnesandnoble.com/w/the-power-of-habit-charles-duhigg/1103588638) - By Charles Duhigg.
 
 ## Podcasts
 
