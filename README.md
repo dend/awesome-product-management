@@ -235,7 +235,7 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 - [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://twitter.com/ckindel).
-- [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - By [Philipp Cannons](https://twitter.com/pcannons).
+- [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - By Philipp Cannons.
 - [So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - By [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
 - [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb) - By [Brandon Chu](https://twitter.com/brandonmchu).
 - [The Art of Persuasion Hasn’t Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - By [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
@@ -249,7 +249,7 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 - [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - By [Charlie Kindel](https://twitter.com/ckindel).
 - [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - by [Hubert Palan](https://twitter.com/hpalan).
 - [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://twitter.com/ClontFont).
-- [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By [Glenn Gillen](https://twitter.com/glenngillen).
+- [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By Glenn Gillen.
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - By [Roy Cobby](https://twitter.com/roycobby).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://twitter.com/christineitwaru).
 - [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - By [Ken Norton](https://twitter.com/kennethn).
@@ -308,7 +308,6 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 - [The Product Coalition](https://productcoalition.com/) (_using [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
 - [Ladder](https://ladder.to/)
-- [Product Circle](https://productcircle.to/)
 
 ## Conferences
 
