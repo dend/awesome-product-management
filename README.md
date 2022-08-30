@@ -231,7 +231,7 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 - [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://twitter.com/draliceboyes).
 - [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
 - [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - By [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
-- [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://svpg.com/author/marty/).
+- [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://www.svpg.com/team/marty-cagan/).
 - [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://twitter.com/ckindel).
