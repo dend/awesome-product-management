@@ -203,7 +203,7 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 | Property  | Value                                                              |
 |-----------|--------------------------------------------------------------------|
 | Developer | [Hellonext, Inc.](https://hellonext.co)                            |
-| Cost      | Paid ($19/month)                                                   |
+| Cost      | Freemium (_$0-99/month_)                                                   |
 | Platform  | Web                                                                |
 | URL       | https://hellonext.co                                               |
 
