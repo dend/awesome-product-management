@@ -210,14 +210,16 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 
 ### Screeb
 
-Screeb is a Product-Led User Research: Product Analytics, In-App Survey, User Recruitment...
+Screeb is a Product-Led User Research platform helping product teams to build better products by better knowing their users. 
+
+Product Analytics, In-App Surveys, Community, Web & Mobile SDKs... Screeb is a full featured platform to increase your growth, adoption and retention.
 
 ![screeb](media/screeb.png)
 
 | Property  | Value                                                              |
 |-----------|--------------------------------------------------------------------|
 | Developer | [Screeb, Inc.](https://screeb.app)                            |
-| Cost      | Freemium (_start $39/month_)                                                   |
+| Cost      | Freemium (_start $0-39/month_)                                                   |
 | Platform  | Web                                                                |
 | URL       | https://screeb.app                                               |
 
