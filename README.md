@@ -23,6 +23,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [productboard](#productboard)
   - [logchimp](#logchimp)
   - [Hellonext](#hellonext)
+  - [Screeb](#screeb)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -206,6 +207,19 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 | Cost      | Freemium (_$0-99/month_)                                                   |
 | Platform  | Web                                                                |
 | URL       | https://hellonext.co                                               |
+
+### Screeb
+
+Screeb is a product-led user research platform helping product teams to build better products by helping understand their users.
+
+![screeb](media/screeb.png)
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| Developer | [Screeb, Inc.](https://screeb.app)                            |
+| Cost      | Freemium (_start $0-39/month_)                                                   |
+| Platform  | Web                                                                |
+| URL       | https://screeb.app                                               |
 
 ## Articles
 
