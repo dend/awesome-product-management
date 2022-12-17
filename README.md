@@ -210,9 +210,7 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 
 ### Screeb
 
-Screeb is a Product-Led User Research platform helping product teams to build better products by better knowing their users. 
-
-Product Analytics, In-App Surveys, Community, Web & Mobile SDKs... Screeb is a full featured platform to increase your growth, adoption and retention.
+Screeb is a product-led user research platform helping product teams to build better products by helping understand their users.
 
 ![screeb](media/screeb.png)
 
