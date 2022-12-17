@@ -35,7 +35,7 @@ jobs:
       run: ls
 
     - name: Generate PDF
-      run: pandoc -f markdown -t html5 README.md -o awesome-product-management.pdf --metadata pagetitle="apm" --css compilation/github-pandoc.css -V margin-top=5mm -V margin-left=5mm -V margin-right=5mm -V margin-bottom=5mm -V papersize=letter
+      run: pandoc -f markdown -t html5 README.md -o awesome-product-management.pdf --metadata pagetitle="apm" --css compilation/github-pandoc.css -V margin-top=5mm -V margin-left=5mm -V margin-right=5mm -V margin-bottom=5mm -V papersize=letter -V enable-local-file-access=true
 
     - name: Get current date
       id: date
