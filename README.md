@@ -249,7 +249,7 @@ Screeb is a product-led user research platform helping product teams to build be
 - [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - By [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
 - [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://www.svpg.com/team/marty-cagan/).
 - [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
-- [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
+- [Remote teams](https://managershandbook.notion.site/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://www.linkedin.com/in/ckindel/).
 - [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - By [Charlie Kindel](https://www.linkedin.com/in/ckindel/).
 - [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - By [Philipp Cannons](https://philippcannons.com).
