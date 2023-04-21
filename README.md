@@ -265,9 +265,9 @@ Screeb is a product-led user research platform helping product teams to build be
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By Glenn Gillen.
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - By [Roy Cobby](https://www.linkedin.com/in/roycobby/).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://productschool.com/product-leaders/christine-itwaru).
-- [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - By [Ken Norton](https://www.bringthedonuts.com/).
+- [It’s Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 - [How to Work With Software Engineers](https://www.bringthedonuts.com/essays/how-to-work-with-software-engineers.html) - By [Ken Norton](https://www.bringthedonuts.com/).
-- [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - By [Ken Norton](https://www.bringthedonuts.com/).
+- [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
 
 ## Books
 
