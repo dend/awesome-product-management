@@ -223,6 +223,7 @@ Screeb is a product-led user research platform helping product teams to build be
 
 ## Articles
 
+- [Being Glue](https://noidea.dog/glue) - By [Tanya Reilly](https://noidea.dog/about).
 - [How to build great products](https://www.defmacro.org/2013/09/26/products.html) - By [Slava Akhmechet](https://www.defmacro.org).
 - [If your product is Great, it doesn't need to be Good](https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html) - By [Paul Bucheit](http://en.wikipedia.org/wiki/Paul_Buchheit).
 - [Finding and Fostering Great Product Sense](https://staysaasy.com/product/2023/05/14/product-sense.html) - By [Stay SaaSy](https://staysaasy.com/about.html).
