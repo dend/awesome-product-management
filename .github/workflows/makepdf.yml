@@ -1,10 +1,6 @@
 name: "Build"
 
 on:
-  pull_request:
-    paths-ignore:
-      - '**/*.gitignore'
-      - '**/*.gitattributes'
   push:
     paths-ignore:
       - '**/*.gitignore'
