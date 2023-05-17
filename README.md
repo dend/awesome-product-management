@@ -76,12 +76,12 @@ Taiga is a project management tool for multi-functional agile teams. It has a ri
 
 ![Switching zoom modes in Kanban section](media/tool-taiga.gif)
 
-| Property  | Value                                                                                   |
-|-----------|-----------------------------------------------------------------------------------------|
-| Developer | [Kaleidos](https://kaleidos.net/)                                                       |
-| Cost      | Free (self-hosted) or [Freemium](https://tree.taiga.io/)|
-| Platform  | macOS, Windows, iOS, Android, Web                                                       |
-| URL       | https://tree.taiga.io                                                                   |
+| Property  | Value                                                    |
+|-----------|----------------------------------------------------------|
+| Developer | [Kaleidos](https://kaleidos.net/)                        |
+| Cost      | Free (self-hosted) or [Freemium](https://tree.taiga.io/) |
+| Platform  | macOS, Windows, iOS, Android, Web                        |
+| URL       | https://tree.taiga.io                                    |
 
 ### To-Do
 
@@ -154,19 +154,19 @@ Get work done with collaborative task lists, notes and video chat. Taskade is be
 |-----------|--------------------------------------------------------------------|
 | Developer | [Taskade Inc.](https://taskade.com/about)                          |
 | Cost      | Freemium (_$0-10/month_)                                           |
-| Platform  | macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, web |
+| Platform  | macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, Web |
 | URL       | https://www.taskade.com                                            |
 
 ### Notejoy
 
 A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those.
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/)                                           |
-| Cost      | Freemium (_$0-12/month_)                                           |
-| Platform  | macOS, Windows, iOS, Android, web                                  |
-| URL       | https://notejoy.com                                                |
+| Property  | Value                                                                                                            |
+|-----------|------------------------------------------------------------------------------------------------------------------|
+| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/) |
+| Cost      | Freemium (_$0-12/month_)                                                                                         |
+| Platform  | macOS, Windows, iOS, Android, web                                                                                |
+| URL       | https://notejoy.com                                                                                              |
 
 ### productboard
 
@@ -174,12 +174,12 @@ productboard is the product management system that helps you understand what use
 
 ![productboard](media/tool-productboard.png)
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [productboard](https://www.productboard.com/)                      |
-| Cost      | Paid (starts at _$49/month_)                                       |
-| Platform  | Web                                                                |
-| URL       | https://productboard.com                                           |
+| Property  | Value                                         |
+|-----------|-----------------------------------------------|
+| Developer | [productboard](https://www.productboard.com/) |
+| Cost      | Paid (starts at _$49/month_)                  |
+| Platform  | Web                                           |
+| URL       | https://productboard.com                      |
 
 ### logchimp
 
@@ -187,12 +187,12 @@ LogChimp allows you to track your customers feedback to build better products.
 
 ![logchimp](media/logchimp.png)
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [LogChimp](https://logchimp.codecarrot.net/)                       |
-| Cost      | Free (Open source)                                                 |
-| Platform  | Web                                                                |
-| URL       | https://logchimp.codecarrot.net                                    |
+| Property  | Value                                        |
+|-----------|----------------------------------------------|
+| Developer | [LogChimp](https://logchimp.codecarrot.net/) |
+| Cost      | Free (Open source)                           |
+| Platform  | Web                                          |
+| URL       | https://logchimp.codecarrot.net              |
 
 
 ### Hellonext
@@ -201,12 +201,12 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 
 ![hellonext](media/hellonext.png)
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [Hellonext, Inc.](https://hellonext.co)                            |
-| Cost      | Freemium (_$0-99/month_)                                                   |
-| Platform  | Web                                                                |
-| URL       | https://hellonext.co                                               |
+| Property  | Value                                    |
+|-----------|------------------------------------------|
+| Developer | [Hellonext, Inc.](https://hellonext.co)  |
+| Cost      | Freemium (_$0-99/month_)                 |
+| Platform  | Web                                      |
+| URL       | https://hellonext.co                     |
 
 ### Screeb
 
@@ -214,15 +214,18 @@ Screeb is a product-led user research platform helping product teams to build be
 
 ![screeb](media/screeb.png)
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [Screeb, Inc.](https://screeb.app)                            |
-| Cost      | Freemium (_start $0-39/month_)                                                   |
-| Platform  | Web                                                                |
-| URL       | https://screeb.app                                               |
+| Property  | Value                              |
+|-----------|------------------------------------|
+| Developer | [Screeb, Inc.](https://screeb.app) |
+| Cost      | Freemium (_start $0-39/month_)     |
+| Platform  | Web                                |
+| URL       | https://screeb.app                 |
 
 ## Articles
 
+- [How to build great products](https://www.defmacro.org/2013/09/26/products.html) - By [Slava Akhmechet](https://www.defmacro.org).
+- [If your product is Great, it doesn't need to be Good](https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html) - By [Paul Bucheit](http://en.wikipedia.org/wiki/Paul_Buchheit).
+- [Finding and Fostering Great Product Sense](https://staysaasy.com/product/2023/05/14/product-sense.html) - By [Stay SaaSy](https://staysaasy.com/about.html).
 - [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://chang.com/).
 - [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - By [Wayne Chang](https://chang.com/).
 - [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - By [Jason Fried](https://world.hey.com/jason).
@@ -233,7 +236,7 @@ Screeb is a product-led user research platform helping product teams to build be
 - [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
 - [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
 - [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
-- [Relentlessly Resourcefull](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://www.paulgraham.com/).
+- [Relentlessly Resourceful](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://www.paulgraham.com/).
 - [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) - By [Paul Graham](https://www.paulgraham.com/).
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - By [Paul Graham](https://www.paulgraham.com/).
 - [Do Things that Don't Scale](http://paulgraham.com/ds.html) - By [Paul Graham](https://www.paulgraham.com/).
@@ -242,7 +245,7 @@ Screeb is a product-led user research platform helping product teams to build be
 - [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - By [Brandon Chu](https://medium.com/@brandonmchu).
 - [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb) - By [Brandon Chu](https://medium.com/@brandonmchu).
 - [Product Management Mental Models for Everyone](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) - By [Brandon Chu](https://medium.com/@brandonmchu).
-- [Understanding How The Innovator’s Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
+- [Understanding How The Innovator's Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 - [Navigating Mid-Success](https://blog.ycombinator.com/navigating-mid-success/) - By [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman).
 - [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://www.aliceboyes.com/).
 - [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
@@ -254,7 +257,7 @@ Screeb is a product-led user research platform helping product teams to build be
 - [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - By [Charlie Kindel](https://www.linkedin.com/in/ckindel/).
 - [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - By [Philipp Cannons](https://philippcannons.com).
 - [So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - By [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
-- [The Art of Persuasion Hasn’t Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - By [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
+- [The Art of Persuasion Hasn't Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - By [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
 - [Mastering Effective Communication as a Product Manager](https://www.sachinrekhi.com/mastering-effective-communication-as-a-product-manager) - By [Sachin Rekhi](https://www.sachinrekhi.com/about).
 - [The Top 10 Deliverables of Product Managers](https://www.sachinrekhi.com/top-10-deliverables-of-product-managers) - By [Sachin Rekhi](https://www.sachinrekhi.com/about).
 - [Great Product Managers are “Outcome Thinkers”](https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac) - By [Max Bennett](https://medium.com/@max.bennett).
@@ -265,7 +268,7 @@ Screeb is a product-led user research platform helping product teams to build be
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By Glenn Gillen.
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - By [Roy Cobby](https://www.linkedin.com/in/roycobby/).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://productschool.com/product-leaders/christine-itwaru).
-- [It’s Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
+- [It's Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 - [How to Work With Software Engineers](https://www.bringthedonuts.com/essays/how-to-work-with-software-engineers.html) - By [Ken Norton](https://www.bringthedonuts.com/).
 - [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
 
@@ -309,12 +312,12 @@ Screeb is a product-led user research platform helping product teams to build be
 | Podcast                                                                                | Hosts                         | URL                                                                       | Description |
 |----------------------------------------------------------------------------------------|-------------------------------|---------------------------------------------------------------------------|-------------|
 | <img alt="The Work Item" src="media/pod-the-work-item.png" width="100px" />            | Den Delimarsky                | https://theworkitem.com                                                   | Every week, Den Delimarsky sits down with folks from a range of industries, roles, and backgrounds to learn more about their career journey, lessons learned, and what it takes to map out your own very unique track. |
-| <img alt="Masters of Scale" src="media/pod-masters-of-scale.jpg" width="100px" />      | Reid Hoffman                  | https://mastersofscale.com/                                               | How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders. Guests include Facebook’s Mark Zuckerberg & Sheryl Sandberg, Netflix’s Reed Hastings, Google’s Eric Schmidt, Spanx’s Sara Blakely. With original music and hilariously honest stories, the show sounds like nothing you’ve ever heard. |
-| <img alt="The Product Podcast" src="media/pod-product.jpg" width="100px" />            | Multiple                      | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787      | This is your Product Management podcast featuring PMs from Google, Facebook, LinkedIn, Spotify, Twitter and other tech companies/ startups. Tune in if you’re a manager, designer, engineer, entrepreneur or marketer who wants to learn the latest best practices. |
+| <img alt="Masters of Scale" src="media/pod-masters-of-scale.jpg" width="100px" />      | Reid Hoffman                  | https://mastersofscale.com/                                               | How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders. Guests include Facebook's Mark Zuckerberg & Sheryl Sandberg, Netflix's Reed Hastings, Google's Eric Schmidt, Spanx's Sara Blakely. With original music and hilariously honest stories, the show sounds like nothing you've ever heard. |
+| <img alt="The Product Podcast" src="media/pod-product.jpg" width="100px" />            | Multiple                      | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787      | This is your Product Management podcast featuring PMs from Google, Facebook, LinkedIn, Spotify, Twitter and other tech companies/ startups. Tune in if you're a manager, designer, engineer, entrepreneur or marketer who wants to learn the latest best practices. |
 | <img alt="StartUp" src="media/pod-startup.webp" width="100px" />                       | Multiple                      | https://www.gimletmedia.com/startup                                       | The business origin story you never get to hear. |
-| <img alt="How I Built This" src="media/pod-how-i-built.jpg" width="100px" />           | Guy Raz                       | https://www.npr.org/podcasts/510313/how-i-built-this                      | Guy Raz dives into the stories behind some of the world’s best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. |
+| <img alt="How I Built This" src="media/pod-how-i-built.jpg" width="100px" />           | Guy Raz                       | https://www.npr.org/podcasts/510313/how-i-built-this                      | Guy Raz dives into the stories behind some of the world's best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. |
 | <img alt="The Pitch" src="media/pod-pitch.webp" width="100px" />                       | Multiple                      | https://www.gimletmedia.com/the-pitch                                     | Where real entrepreneurs pitch to real investors—for real money. |
-| <img alt="ReWork" src="media/pod-rework.png" width="100px" />                          | Multiple                      | https://rework.fm/                                                        | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners. |
+| <img alt="ReWork" src="media/pod-rework.png" width="100px" />                          | Multiple                      | https://rework.fm/                                                        | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp's co-founders and other business owners. |
 | <img alt="Art Of Product" src="media/pod-art-of-product.jpg" width="100px" />          | Multiple                      | https://artofproductpodcast.com/                                          | Chronicling the journeys of two entrepreneurs building software companies. |
 | <img alt="Lenny's Podcast" src="media/pod-lennys-podcast.webp" width="100px" />        | Lenny Rachitsky               | https://www.lennyspodcast.com/                                            | Lenny Rachitsky (author of #1 business newsletter on Substack, with 200k+ subscribers) interviews world-class product leaders and growth experts to uncover concrete, actionable, and tactical advice to help you build, launch, and grow your own product. |
 | <img alt="Design Details" src="media/pod-design-details.jpg" width="100px" />          | Marshall Bock, Brian Lovin    | https://designdetails.fm                                                  | A weekly conversation about design process and culture. Hosted by Marshall Bock and Brian Lovin. |
@@ -332,7 +335,6 @@ Screeb is a product-led user research platform helping product teams to build be
 - [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
 - [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
 - [La Product Conf](https://www.laproductconf.com/) - Organized by Thiga, La Product Conf (LPC) takes place once a year with events in Paris (France) and Madrid (Spain). The speaker lineup features product leaders from Pinterest, Carrefour, Payfit, Google, Meetic and more.
-
 
 ## Additional resources
 
