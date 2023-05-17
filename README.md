@@ -33,6 +33,9 @@ By definition, a product manager is an individual who drives the product vision 
 - [License](#license)
 
 ## Tools
+
+In day-to-day activities, product managers need to rely on tools to help them make sense of the information and insights they're handling. The list below represents _some_ of those tools. A product manager doesn't need to use every single one of them, and neither is one better than the other. These are just pointers to some of the instruments that can be used to be effective at organizing and sharing PM expertise. None of them, standalone, will make one a better product manager.
+
 ### OneNote
 
 Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals.
@@ -223,6 +226,10 @@ Screeb is a product-led user research platform helping product teams to build be
 
 ## Articles
 
+There are a lot of folks that write great content that can help those wanting to excel and grow in the product management field to gain new perspectives. Treat the list below as an amalgamation of opinions, experiences, and patterns rather than as a definitive "list of things to always do."
+
+- [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - By [Zach Holman](https://zachholman.com).
+- [A Minimum Viable Product Is Not a Product, It's a Process](https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
 - [Being Glue](https://noidea.dog/glue) - By [Tanya Reilly](https://noidea.dog/about).
 - [How to build great products](https://www.defmacro.org/2013/09/26/products.html) - By [Slava Akhmechet](https://www.defmacro.org).
 - [If your product is Great, it doesn't need to be Good](https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html) - By [Paul Bucheit](http://en.wikipedia.org/wiki/Paul_Buchheit).
