@@ -76,12 +76,12 @@ Taiga is a project management tool for multi-functional agile teams. It has a ri
 
 ![Switching zoom modes in Kanban section](media/tool-taiga.gif)
 
-| Property  | Value                                                                                   |
-|-----------|-----------------------------------------------------------------------------------------|
-| Developer | [Kaleidos](https://kaleidos.net/)                                                       |
-| Cost      | Free (self-hosted) or [Freemium](https://tree.taiga.io/)|
-| Platform  | macOS, Windows, iOS, Android, Web                                                       |
-| URL       | https://tree.taiga.io                                                                   |
+| Property  | Value                                                    |
+|-----------|----------------------------------------------------------|
+| Developer | [Kaleidos](https://kaleidos.net/)                        |
+| Cost      | Free (self-hosted) or [Freemium](https://tree.taiga.io/) |
+| Platform  | macOS, Windows, iOS, Android, Web                        |
+| URL       | https://tree.taiga.io                                    |
 
 ### To-Do
 
@@ -154,19 +154,19 @@ Get work done with collaborative task lists, notes and video chat. Taskade is be
 |-----------|--------------------------------------------------------------------|
 | Developer | [Taskade Inc.](https://taskade.com/about)                          |
 | Cost      | Freemium (_$0-10/month_)                                           |
-| Platform  | macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, web |
+| Platform  | macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, Web |
 | URL       | https://www.taskade.com                                            |
 
 ### Notejoy
 
 A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those.
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/)                                           |
-| Cost      | Freemium (_$0-12/month_)                                           |
-| Platform  | macOS, Windows, iOS, Android, web                                  |
-| URL       | https://notejoy.com                                                |
+| Property  | Value                                                                                                            |
+|-----------|------------------------------------------------------------------------------------------------------------------|
+| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/) |
+| Cost      | Freemium (_$0-12/month_)                                                                                         |
+| Platform  | macOS, Windows, iOS, Android, web                                                                                |
+| URL       | https://notejoy.com                                                                                              |
 
 ### productboard
 
@@ -174,12 +174,12 @@ productboard is the product management system that helps you understand what use
 
 ![productboard](media/tool-productboard.png)
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [productboard](https://www.productboard.com/)                      |
-| Cost      | Paid (starts at _$49/month_)                                       |
-| Platform  | Web                                                                |
-| URL       | https://productboard.com                                           |
+| Property  | Value                                         |
+|-----------|-----------------------------------------------|
+| Developer | [productboard](https://www.productboard.com/) |
+| Cost      | Paid (starts at _$49/month_)                  |
+| Platform  | Web                                           |
+| URL       | https://productboard.com                      |
 
 ### logchimp
 
@@ -187,12 +187,12 @@ LogChimp allows you to track your customers feedback to build better products.
 
 ![logchimp](media/logchimp.png)
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [LogChimp](https://logchimp.codecarrot.net/)                       |
-| Cost      | Free (Open source)                                                 |
-| Platform  | Web                                                                |
-| URL       | https://logchimp.codecarrot.net                                    |
+| Property  | Value                                        |
+|-----------|----------------------------------------------|
+| Developer | [LogChimp](https://logchimp.codecarrot.net/) |
+| Cost      | Free (Open source)                           |
+| Platform  | Web                                          |
+| URL       | https://logchimp.codecarrot.net              |
 
 
 ### Hellonext
@@ -201,12 +201,12 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 
 ![hellonext](media/hellonext.png)
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [Hellonext, Inc.](https://hellonext.co)                            |
-| Cost      | Freemium (_$0-99/month_)                                                   |
-| Platform  | Web                                                                |
-| URL       | https://hellonext.co                                               |
+| Property  | Value                                    |
+|-----------|------------------------------------------|
+| Developer | [Hellonext, Inc.](https://hellonext.co)  |
+| Cost      | Freemium (_$0-99/month_)                 |
+| Platform  | Web                                      |
+| URL       | https://hellonext.co                     |
 
 ### Screeb
 
@@ -214,15 +214,18 @@ Screeb is a product-led user research platform helping product teams to build be
 
 ![screeb](media/screeb.png)
 
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [Screeb, Inc.](https://screeb.app)                            |
-| Cost      | Freemium (_start $0-39/month_)                                                   |
-| Platform  | Web                                                                |
-| URL       | https://screeb.app                                               |
+| Property  | Value                              |
+|-----------|------------------------------------|
+| Developer | [Screeb, Inc.](https://screeb.app) |
+| Cost      | Freemium (_start $0-39/month_)     |
+| Platform  | Web                                |
+| URL       | https://screeb.app                 |
 
 ## Articles
 
+- [How to build great products](https://www.defmacro.org/2013/09/26/products.html) - By [Slava Akhmechet](https://www.defmacro.org).
+- [If your product is Great, it doesn't need to be Good](https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html) - By [Paul Bucheit](http://en.wikipedia.org/wiki/Paul_Buchheit).
+- [Finding and Fostering Great Product Sense](https://staysaasy.com/product/2023/05/14/product-sense.html) - By [Stay SaaSy](https://staysaasy.com/about.html).
 - [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://chang.com/).
 - [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - By [Wayne Chang](https://chang.com/).
 - [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - By [Jason Fried](https://world.hey.com/jason).
