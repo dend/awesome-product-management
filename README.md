@@ -228,6 +228,14 @@ Screeb is a product-led user research platform helping product teams to build be
 
 There are a lot of folks that write great content that can help those wanting to excel and grow in the product management field to gain new perspectives. Treat the list below as an amalgamation of opinions, experiences, and patterns rather than as a definitive "list of things to always do."
 
+- [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) - By [Joel Spolsky](https://www.joelonsoftware.com).
+- [Painless Functional Specifications – Part 2: What’s a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/) - By [Joel Spolsky](https://www.joelonsoftware.com).
+- [Painless Functional Specifications – Part 3: But… How?](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/) - By [Joel Spolsky](https://www.joelonsoftware.com).
+- [Painless Functional Specifications – Part 4: Tips](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/) - By [Joel Spolsky](https://www.joelonsoftware.com).
+- [How Am I Going To Move My Product Forward Today?](https://www.sachinrekhi.com/how-am-i-going-to-move-my-product-forward-today) - By [Sachin Rekhi](https://www.sachinrekhi.com/).
+- [How to Listen to Customers](https://www.bringthedonuts.com/essays/how-to-listen-to-customers.html) - By [Ken Norton](https://www.bringthedonuts.com/).
+- [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - By [Julie Zhuo](https://www.juliezhuo.com/).
+- [The work is never just “the work”](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/) - By [Dave Stewart](https://davestewart.co.uk/).
 - [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - By [Zach Holman](https://zachholman.com).
 - [A Minimum Viable Product Is Not a Product, It's a Process](https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
 - [Being Glue](https://noidea.dog/glue) - By [Tanya Reilly](https://noidea.dog/about).
