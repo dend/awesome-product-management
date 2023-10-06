@@ -227,14 +227,14 @@ Screeb is a product-led user research platform helping product teams to build be
 
 ### Obsidian
 
-Obsidian is the private and flexible writing app that adapts to the way you think. From personal notes to journaling, knowledge bases, and project management, Obsidian gives you the tools to come up with ideas and organize them. Turn your notes into an online wiki, knowledge base, documentation, or digital garden.
+Obsidian is a private and flexible writing app that adapts to the way you think. From personal notes to journaling, knowledge bases, and project management, Obsidian gives you the tools to come up with ideas and organize them. Turn your notes into an online wiki, knowledge base, documentation, or digital garden.
 
 ![Obsidian](media/obsidian.png)
 
 | Property  | Value                                                                   |
 |-----------|-------------------------------------------------------------------------|
 | Developer | [Obsidian, Inc.](https://obsidian.md)                                   |
-| Cost      | Only pay if you use Obsidian commercially (50$ Per user, per year)      |
+| Cost      | Paid if used commercially ($50/user/year)                               |
 | Platform  | iOS, Android, Windows, Mac, Linux                                       |
 | URL       | https://obsidian.md/                                                    |
 
