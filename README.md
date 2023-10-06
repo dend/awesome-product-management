@@ -24,6 +24,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [logchimp](#logchimp)
   - [Hellonext](#hellonext)
   - [Screeb](#screeb)
+  - [Obsidian](#Obsidian)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -223,6 +224,19 @@ Screeb is a product-led user research platform helping product teams to build be
 | Cost      | Freemium (_start $0-39/month_)     |
 | Platform  | Web                                |
 | URL       | https://screeb.app                 |
+
+### Obsidian
+
+Obsidian is a private and flexible writing app that adapts to the way you think. From personal notes to journaling, knowledge bases, and project management, Obsidian gives you the tools to come up with ideas and organize them. Turn your notes into an online wiki, knowledge base, documentation, or digital garden.
+
+![Obsidian](media/obsidian.png)
+
+| Property  | Value                                                                   |
+|-----------|-------------------------------------------------------------------------|
+| Developer | [Obsidian, Inc.](https://obsidian.md)                                   |
+| Cost      | Paid if used commercially ($50/user/year)                               |
+| Platform  | iOS, Android, Windows, Mac, Linux                                       |
+| URL       | https://obsidian.md/                                                    |
 
 ## Articles
 
