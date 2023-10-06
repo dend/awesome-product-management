@@ -231,12 +231,12 @@ Obsidian is a private and flexible writing app that adapts to the way you think.
 
 ![Obsidian](media/obsidian.png)
 
-| Property  | Value                                                                   |
-|-----------|-------------------------------------------------------------------------|
-| Developer | [Obsidian, Inc.](https://obsidian.md)                                   |
-| Cost      | Paid if used commercially ($50/user/year)                               |
-| Platform  | iOS, Android, Windows, Mac, Linux                                       |
-| URL       | https://obsidian.md/                                                    |
+| Property  | Value                                       |
+|-----------|---------------------------------------------|
+| Developer | [Obsidian, Inc.](https://obsidian.md)       |
+| Cost      | Paid if used commercially (_$50/user/year_) |
+| Platform  | iOS, Android, Windows, Mac, Linux           |
+| URL       | https://obsidian.md/                        |
 
 ## Articles
 
