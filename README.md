@@ -304,6 +304,7 @@ There are a lot of folks that write great content that can help those wanting to
 - [How to Work With Software Engineers](https://www.bringthedonuts.com/essays/how-to-work-with-software-engineers.html) - By [Ken Norton](https://www.bringthedonuts.com/).
 - [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
 - [Don't Give Your Users Shit Work ](https://zachholman.com/posts/shit-work/) - By [Zach Holman](https://zachholman.com/about).
+- [Mud Rooms, Red Letters, and Real Priorities](https://www.43folders.com/2009/04/28/priorities) - By [Merlin Mann](https://www.43folders.com/about).
 
 ## Books
 
