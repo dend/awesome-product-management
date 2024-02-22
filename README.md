@@ -242,7 +242,7 @@ Obsidian is a private and flexible writing app that adapts to the way you think.
 
 There are a lot of folks that write great content that can help those wanting to excel and grow in the product management field to gain new perspectives. Treat the list below as an amalgamation of opinions, experiences, and patterns rather than as a definitive "list of things to always do."
 
-- [How to Deliver More Software Projects on Time](https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
+- [How to Deliver More Software Projects on Time](https://web.archive.org/web/20151029064330/https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 - [Shipping is a Feature: Some Guiding Principles for People That Build Things](https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - By [Michael Copeland](https://www.linkedin.com/in/mcopeland/).
 - [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) - By [Joel Spolsky](https://www.joelonsoftware.com).
 - [Painless Functional Specifications – Part 2: What’s a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/) - By [Joel Spolsky](https://www.joelonsoftware.com).
@@ -253,7 +253,7 @@ There are a lot of folks that write great content that can help those wanting to
 - [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - By [Julie Zhuo](https://www.juliezhuo.com/).
 - [The work is never just “the work”](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/) - By [Dave Stewart](https://davestewart.co.uk/).
 - [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - By [Zach Holman](https://zachholman.com).
-- [A Minimum Viable Product Is Not a Product, It's a Process](https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
+- [A Minimum Viable Product Is Not a Product, It's a Process](https://web.archive.org/web/20201004000942/https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
 - [Being Glue](https://noidea.dog/glue) - By [Tanya Reilly](https://noidea.dog/about).
 - [How to build great products](https://www.defmacro.org/2013/09/26/products.html) - By [Slava Akhmechet](https://www.defmacro.org).
 - [If your product is Great, it doesn't need to be Good](https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html) - By [Paul Bucheit](http://en.wikipedia.org/wiki/Paul_Buchheit).
@@ -267,7 +267,7 @@ There are a lot of folks that write great content that can help those wanting to
 - [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) - By [Marc Andresssen](https://en.wikipedia.org/wiki/Marc_Andreessen).
 - [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
 - [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
-- [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
+- [12 Things about Product-Market Fit](https://web.archive.org/web/20180629011058/https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
 - [Relentlessly Resourceful](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://www.paulgraham.com/).
 - [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) - By [Paul Graham](https://www.paulgraham.com/).
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - By [Paul Graham](https://www.paulgraham.com/).
@@ -296,7 +296,7 @@ There are a lot of folks that write great content that can help those wanting to
 - [How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.e81zu5ql7) - By [Julie Zhuo](https://joulee.medium.com/).
 - [Breaking into Product Management — Should you even consider it?](https://medium.com/@sshubhi/breaking-into-product-management-a-guide-c6fa3bc59449) - By [Shubhi Saxena](https://medium.com/@sshubhi).
 - [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - by [Hubert Palan](https://www.linkedin.com/in/hubertpalan/).
-- [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://www.linkedin.com/in/clint-fontanella-973271140/).
+- [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://www.pedaling4pups.com/).
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By Glenn Gillen.
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - By [Roy Cobby](https://www.linkedin.com/in/roycobby/).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://productschool.com/product-leaders/christine-itwaru).
