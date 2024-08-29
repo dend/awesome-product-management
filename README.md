@@ -311,6 +311,9 @@ There are a lot of folks that write great content that can help those wanting to
 Clement Kao](https://producthq.org/author/clementkao/).
 - [Inside the 6 Hypotheses that Doubled Patreon’s Activation Success](https://brianbalfour.com/essays/patreon-onboarding-growth) - By [Brian Balfour](https://brianbalfour.com).
 - [Product Management Job Hunt: How to get an Interview and Nail it](https://mtp2017.wpenginepowered.com/product-management-job-hunt-how-to-get-an-interview-and-nail-it/) - By [Kostas Sirvydis](https://mtp2017.wpenginepowered.com/profile/KostasSirvydis203).
+- [User Onboarding Examples: Analyzing 6 Real-Life Onboarding Flows](https://cxl.com/blog/6-user-onboarding-flows/) - By [Shanelle Mullin](https://cxl.com/blog/author/shanelle-mullin/).
+- [How to Use the Google HEART Framework to Measure and Improve Your App’s UX](https://web.archive.org/web/20190714162138/https://clevertap.com/blog/google-heart-framework/) - By [Emily Bonnie](https://web.archive.org/web/20200320142602/https://clevertap.com/blog/author/emily/).
+- [10-30-50 Product Management](https://www.tryexponent.com/blog/10-30-50-product-management) - By [Stephen Cognetta](https://www.linkedin.com/in/stephencognetta/).
 
 ## Books
 
