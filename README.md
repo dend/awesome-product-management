@@ -302,6 +302,15 @@ There are a lot of folks that write great content that can help those wanting to
 - [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
 - [Don't Give Your Users Shit Work ](https://zachholman.com/posts/shit-work/) - By [Zach Holman](https://zachholman.com/about).
 - [Mud Rooms, Red Letters, and Real Priorities](https://www.43folders.com/2009/04/28/priorities) - By [Merlin Mann](https://www.43folders.com/about).
+- [My product is my garden](https://herman.bearblog.dev/my-product-is-my-garden/) - By [Herman Martinus](https://herman.bearblog.dev/).
+- [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/) - By [Gergely Orosz](https://blog.pragmaticengineer.com/).
+- [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) - By [Ryan Hoover](https://www.fastcompany.com/user/ryan-hoover).
+- [How To Get Media Coverage for Your Brand](https://www.shopify.com/blog/15973132-hacking-the-press-clever-ways-to-get-free-press-coverage-with-zero-budget#) - By [Michael Keenan](https://www.shopify.com/blog/authors/michael-keenan).
+- [Great PM Interview Answers Include Tradeoffs. Here's How.](https://www.tryexponent.com/blog/the-key-to-a-successful-pm-interview-answer-tradeoffs) - By [Sushanth Raman](https://www.linkedin.com/in/sushanth-raman/).
+- [Professional Development as a Product Manager](https://www.productmanagerhq.com/career/product-manager/professional-development-as-a-product-manager/) - By [Clement Kao
+Clement Kao](https://producthq.org/author/clementkao/).
+- [Inside the 6 Hypotheses that Doubled Patreon’s Activation Success](https://brianbalfour.com/essays/patreon-onboarding-growth) - By [Brian Balfour](https://brianbalfour.com).
+- [Product Management Job Hunt: How to get an Interview and Nail it](https://mtp2017.wpenginepowered.com/product-management-job-hunt-how-to-get-an-interview-and-nail-it/) - By [Kostas Sirvydis](https://mtp2017.wpenginepowered.com/profile/KostasSirvydis203).
 
 ## Books
 
@@ -370,6 +379,7 @@ There are a lot of folks that write great content that can help those wanting to
 
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
+- [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
 
 ## License
 
