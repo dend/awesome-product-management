@@ -26,7 +26,7 @@ jobs:
         continue-on-error: true
         
       - name: Create Issue From File
-        if: always() && env.exit_code != '0' && github.event_name != 'pull_request'
+        if: always() && steps.lychee.conclusion != 'success' && github.event_name != 'pull_request'
         uses: peter-evans/create-issue-from-file@main
         with:
           title: Link Checker Report
