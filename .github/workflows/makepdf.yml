@@ -1,0 +1,46 @@
+name: "Build"
+
+on:
+  push:
+    paths-ignore:
+      - '**/*.gitignore'
+      - '**/*.gitattributes'
+  workflow_dispatch:
+    paths-ignore:
+      - '**/*.gitignore'
+      - '**/*.gitattributes'
+      
+jobs:
+  build:
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+    if: (github.event_name != 'pull_request' && github.event_name == 'push' && contains(toJson(github.event.commits), '***NO_CI***')) == false && contains(toJson(github.event.commits), '[ci skip]') == false && contains(toJson(github.event.commits), '[skip ci]') == false
+    name: Build 
+    runs-on: ${{ matrix.os }}
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up environment
+      run: |
+        sudo apt-get update
+        sudo apt-get install pandoc wkhtmltopdf
+
+    - name: List files in folder
+      run: ls
+
+    - name: Generate PDF
+      run: pandoc --pdf-engine-opt=--enable-local-file-access -f markdown -t html5 README.md -o awesome-product-management.pdf --metadata pagetitle="apm" --css compilation/github-pandoc.css -V margin-top=5mm -V margin-left=5mm -V margin-right=5mm -V margin-bottom=5mm -V papersize=letter
+
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H_%M')"
+
+    - name: Release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: ${{ steps.date.outputs.date }}
+        files: awesome-product-management.pdf
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
