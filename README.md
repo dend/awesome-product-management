@@ -4,27 +4,33 @@ A curated list of awesome resources for product/program managers to learn and gr
 
 ## Who's a product manager?
 
-By definition, a product manager is an individual who drives the product vision and has a deep understanding of customer needs. PMs generally are considered to be at the intersection of the business, technology and and design spaces - they are the experts in the problem space, and are able to learn and iterate quickly to deliver valuable experiences to consumers.
+By definition, a product manager is an individual who drives the product vision and has a deep understanding of customer needs. PMs generally are considered to be at the intersection of the business, technology and design spaces - they are the experts in the problem space, and are able to learn and iterate quickly to deliver valuable experiences to consumers.
 
 ## Contents
 
 - [Tools](#tools)
-  - [OneNote](#onenote)
-  - [Bear](#bear)
-  - [Trello](#trello)
-  - [Taiga](#taiga)
-  - [To-Do](#to-do)
-  - [Notion](#notion)
-  - [Balsamiq](#balsamiq)
-  - [Sketch](#sketch)
-  - [Figma](#figma)
-  - [Taskade](#taskade)
-  - [Notejoy](#notejoy)
-  - [productboard](#productboard)
-  - [logchimp](#logchimp)
-  - [Hellonext](#hellonext)
-  - [Screeb](#screeb)
-  - [Obsidian](#Obsidian)
+  - [Note-Taking & Documentation](#note-taking--documentation)
+    - [OneNote](#onenote)
+    - [Bear](#bear)
+    - [Obsidian](#Obsidian)
+    - [Notion](#notion)
+    - [Notejoy](#notejoy)
+  - [Task & Project Management](#task--project-management)
+    - [Trello](#trello)
+    - [Taiga](#taiga)
+    - [To-Do](#to-do)
+    - [Taskade](#taskade)
+  - [Design & Prototyping](#design--prototyping)
+    - [Balsamiq](#balsamiq)
+    - [Sketch](#sketch)
+    - [Figma](#figma)
+  - [Product Roadmapping & Feedback](#product-roadmapping--feedback)
+    - [productboard](#productboard)
+    - [logchimp](#logchimp)
+    - [Hellonext](#hellonext)
+    - [Screeb](#screeb)
+  - [OKRs & Outcome Tracking](#okrs--outcome-tracking)
+    - [Tability](#tability)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -37,7 +43,10 @@ By definition, a product manager is an individual who drives the product vision 
 
 In day-to-day activities, product managers need to rely on tools to help them make sense of the information and insights they're handling. The list below represents _some_ of those tools. A product manager doesn't need to use every single one of them, and neither is one better than the other. These are just pointers to some of the instruments that can be used to be effective at organizing and sharing PM expertise. None of them, standalone, will make one a better product manager.
 
-### OneNote
+### Note-taking & Knowledge Management
+Tools in this section help product managers capture meeting notes, ideas, research, and product knowledge efficiently.
+
+#### OneNote
 
 Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals.
 
@@ -50,7 +59,7 @@ Efficient note-taking with superior organizational capabilities. Integrates easi
 | Platform  | macOS, Windows, iOS, Android, web  |
 | URL       | https://onenote.com                |
 
-### Bear
+#### Bear
 
 Note-taking in Markdown format, with tag-based organizational capabilities.
 
@@ -63,42 +72,31 @@ Note-taking in Markdown format, with tag-based organizational capabilities.
 | Platform  | macOS, iOS                                 |
 | URL       | https://bear.app/                          |
 
-### Trello
+#### Obsidian
 
-Kanban-style boards to manage work items. Integrates well with teams and other services. Has a rich extensibility platform.
+Obsidian is a private and flexible writing app that adapts to the way you think. From personal notes to journaling, knowledge bases, and project management, Obsidian gives you the tools to come up with ideas and organize them. Turn your notes into an online wiki, knowledge base, documentation, or digital garden.
 
-| Property  | Value                                          |
-|-----------|------------------------------------------------|
-| Developer | [Atlassian](https://www.atlassian.com/)        |
-| Cost      | Freemium (_$9.99/mo+ subscriptions available_) |
-| Platform  | macOS, Windows, iOS, Android, web              |
-| URL       | https://trello.com/                            |
+![Obsidian](media/obsidian.png)
 
-### Taiga
+| Property  | Value                                       |
+|-----------|---------------------------------------------|
+| Developer | [Obsidian, Inc.](https://obsidian.md)       |
+| Cost      | Paid if used commercially (_$50/user/year_) |
+| Platform  | iOS, Android, Windows, Mac, Linux           |
+| URL       | https://obsidian.md/                        |
 
-Taiga is a project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface.
+#### Notejoy
 
-![Switching zoom modes in Kanban section](media/tool-taiga.gif)
+A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those.
 
-| Property  | Value                                                    |
-|-----------|----------------------------------------------------------|
-| Developer | [Kaleidos](https://kaleidos.net/)                        |
-| Cost      | Free (self-hosted) or [Freemium](https://taiga.io/) |
-| Platform  | macOS, Windows, iOS, Android, Web                        |
-| URL       | https://taiga.io                                    |
+| Property  | Value                                                                                                            |
+|-----------|------------------------------------------------------------------------------------------------------------------|
+| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/) |
+| Cost      | Freemium (_$0-12/month_)                                                                                         |
+| Platform  | macOS, Windows, iOS, Android, web                                                                                |
+| URL       | https://notejoy.com                                                                                              |
 
-### To-Do
-
-A tool to quickly manage "to-dos".
-
-| Property  | Value                                   |
-|-----------|-----------------------------------------|
-| Developer | [Microsoft](https://www.microsoft.com/) |
-| Cost      | Free                                    |
-| Platform  | macOS, Windows, iOS, Android, web       |
-| URL       | https://to-do.microsoft.com/            |
-
-### Notion
+#### Notion
 
 All-in-one workspace for teams and individuals.
 
@@ -111,44 +109,45 @@ All-in-one workspace for teams and individuals.
 | Platform  | macOS, Windows, iOS, Android, web                    |
 | URL       | https://notion.so/                                   |
 
-### Balsamiq
+### Task & Project Management
+Use these tools to manage team tasks, backlogs, sprints, and collaboration efficiently across product development cycles.
 
-Wireframing tool that allows building mocks without a strong focus on details. Extremely useful for situations where you don't want others to over-index on pixels and instead focus on the content.
+#### Trello
+
+A visual project and task management tool based on Kanban boards. Suitable for lightweight workflows and collaborative product planning. Offers integrations with Slack, Jira, GitHub, and more.
 
 | Property  | Value                                          |
 |-----------|------------------------------------------------|
-| Developer | [Balsamiq Studios, LLC](https://balsamiq.com/) |
-| Cost      | Paid (_$89/person - permanent license_)        |
-| Platform  | macOS, Windows, web                            |
-| URL       | https://balsamiq.com/                          |
+| Developer | [Atlassian](https://www.atlassian.com/)        |
+| Cost      | Freemium (_$9.99/mo+ subscriptions available_) |
+| Platform  | macOS, Windows, iOS, Android, web              |
+| URL       | https://trello.com/                            |
 
-### Sketch
+#### Taiga
 
-Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences.
+Taiga is a project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface.
 
-![Sketch](media/tool-sketch.gif)
+![Switching zoom modes in Kanban section](media/tool-taiga.gif)
 
-| Property  | Value                                                |
-|-----------|------------------------------------------------------|
-| Developer | [Bohemian B.V.](https://www.sketchapp.com/about-us/) |
-| Cost      | Paid (_$99/year_)                                    |
-| Platform  | macOS                                                |
-| URL       | https://www.sketchapp.com/                           |
+| Property  | Value                                                    |
+|-----------|----------------------------------------------------------|
+| Developer | [Kaleidos](https://kaleidos.net/)                        |
+| Cost      | Free (self-hosted) or [Freemium](https://taiga.io/) |
+| Platform  | macOS, Windows, iOS, Android, Web                        |
+| URL       | https://taiga.io                                    |
 
-### Figma
+#### To-Do
 
-A better way to design. Design, prototype, and collaborate all in the browser—with Figma.
+A tool to quickly manage "to-dos".
 
-![Figma](media/tool-figma.gif)
+| Property  | Value                                   |
+|-----------|-----------------------------------------|
+| Developer | [Microsoft](https://www.microsoft.com/) |
+| Cost      | Free                                    |
+| Platform  | macOS, Windows, iOS, Android, web       |
+| URL       | https://to-do.microsoft.com/            |
 
-| Property  | Value                                |
-|-----------|--------------------------------------|
-| Developer | [Figma](https://www.figma.com/blog/) |
-| Cost      | Freemium (_$0-45/month_)             |
-| Platform  | macOS, Windows, web                  |
-| URL       | https://www.figma.com                |
-
-### Taskade
+#### Taskade
 
 Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams.
 
@@ -161,18 +160,54 @@ Get work done with collaborative task lists, notes and video chat. Taskade is be
 | Platform  | macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, Web |
 | URL       | https://www.taskade.com                                            |
 
-### Notejoy
 
-A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those.
+### Design & Prototyping
+Design interfaces and prototypes to visualize and test user experiences before development begins.
 
-| Property  | Value                                                                                                            |
-|-----------|------------------------------------------------------------------------------------------------------------------|
-| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/) |
-| Cost      | Freemium (_$0-12/month_)                                                                                         |
-| Platform  | macOS, Windows, iOS, Android, web                                                                                |
-| URL       | https://notejoy.com                                                                                              |
 
-### productboard
+#### Balsamiq
+
+Wireframing tool that allows building mocks without a strong focus on details. Extremely useful for situations where you don't want others to over-index on pixels and instead focus on the content.
+
+| Property  | Value                                          |
+|-----------|------------------------------------------------|
+| Developer | [Balsamiq Studios, LLC](https://balsamiq.com/) |
+| Cost      | Paid (_$89/person - permanent license_)        |
+| Platform  | macOS, Windows, web                            |
+| URL       | https://balsamiq.com/                          |
+
+#### Sketch
+
+Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences.
+
+![Sketch](media/tool-sketch.gif)
+
+| Property  | Value                                                |
+|-----------|------------------------------------------------------|
+| Developer | [Bohemian B.V.](https://www.sketchapp.com/about-us/) |
+| Cost      | Paid (_$99/year_)                                    |
+| Platform  | macOS                                                |
+| URL       | https://www.sketchapp.com/                           |
+
+#### Figma
+
+A better way to design. Design, prototype, and collaborate all in the browser—with Figma.
+
+![Figma](media/tool-figma.gif)
+
+| Property  | Value                                |
+|-----------|--------------------------------------|
+| Developer | [Figma](https://www.figma.com/blog/) |
+| Cost      | Freemium (_$0-45/month_)             |
+| Platform  | macOS, Windows, web                  |
+| URL       | https://www.figma.com                |
+
+
+### Product Roadmapping & Feedback
+These tools help PMs collect feedback, define product direction, and share strategic roadmaps.
+
+
+#### productboard
 
 productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap.
 
@@ -185,7 +220,7 @@ productboard is the product management system that helps you understand what use
 | Platform  | Web                                           |
 | URL       | https://productboard.com                      |
 
-### logchimp
+#### logchimp
 
 LogChimp allows you to track your customers feedback to build better products.
 
@@ -199,7 +234,7 @@ LogChimp allows you to track your customers feedback to build better products.
 | URL       | https://logchimp.codecarrot.net              |
 
 
-### Hellonext
+#### Hellonext
 
 Hellonext helps you close the user feedback loop. Comes with feedback portal, roadmap, and changelog.
 
@@ -212,7 +247,7 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 | Platform  | Web                                      |
 | URL       | https://hellonext.co                     |
 
-### Screeb
+#### Screeb
 
 Screeb is a product-led user research platform helping product teams to build better products by helping understand their users.
 
@@ -225,18 +260,21 @@ Screeb is a product-led user research platform helping product teams to build be
 | Platform  | Web                                |
 | URL       | https://screeb.app                 |
 
-### Obsidian
 
-Obsidian is a private and flexible writing app that adapts to the way you think. From personal notes to journaling, knowledge bases, and project management, Obsidian gives you the tools to come up with ideas and organize them. Turn your notes into an online wiki, knowledge base, documentation, or digital garden.
+### OKRs & Outcome Tracking
+Track team goals and outcomes, not just output. These tools help PMs maintain focus on measurable impact.
 
-![Obsidian](media/obsidian.png)
 
-| Property  | Value                                       |
-|-----------|---------------------------------------------|
-| Developer | [Obsidian, Inc.](https://obsidian.md)       |
-| Cost      | Paid if used commercially (_$50/user/year_) |
-| Platform  | iOS, Android, Windows, Mac, Linux           |
-| URL       | https://obsidian.md/                        |
+#### Tability  
+A lightweight OKR tracking tool that helps product teams stay focused on outcomes, not outputs. Great for async check-ins and remote teams.
+
+
+| Property   | Value                              |
+|------------|------------------------------------|
+| Developer  | Tability                           |
+| Cost       | Freemium (Paid plans from $35/mo)  |
+| Platform   | Web                                |
+| URL        | https://tability.io                |
 
 ## Articles
 
@@ -399,3 +437,5 @@ Clement Kao](https://producthq.org/author/clementkao/).
 ## License
 
 Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+
