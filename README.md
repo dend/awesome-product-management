@@ -351,7 +351,6 @@ Clement Kao](https://producthq.org/author/clementkao/).
 - [Product Management Job Hunt: How to get an Interview and Nail it](https://mtp2017.wpenginepowered.com/product-management-job-hunt-how-to-get-an-interview-and-nail-it/) - By [Kostas Sirvydis](https://mtp2017.wpenginepowered.com/profile/KostasSirvydis203).
 - [User Onboarding Examples: Analyzing 6 Real-Life Onboarding Flows](https://cxl.com/blog/6-user-onboarding-flows/) - By [Shanelle Mullin](https://cxl.com/blog/author/shanelle-mullin/).
 - [How to Use the Google HEART Framework to Measure and Improve Your App’s UX](https://web.archive.org/web/20190714162138/https://clevertap.com/blog/google-heart-framework/) - By [Emily Bonnie](https://web.archive.org/web/20200320142602/https://clevertap.com/blog/author/emily/).
-- [10-30-50 Product Management](https://www.tryexponent.com/blog/10-30-50-product-management) - By [Stephen Cognetta](https://www.linkedin.com/in/stephencognetta/).
 - [Analytics should be an Assembly Line](https://tayloramurphy.substack.com/p/analytics-should-be-an-assembly-line) - By [Taylor A. Murphy](https://substack.com/@tayloramurphy).
 - [Is or Is Not The Opposite Stupid on its Face?](https://rogermartin.medium.com/is-or-is-not-the-opposite-stupid-on-its-face-ab635b9c5582) - By [Roger Martin](https://rogermartin.medium.com/).
 - [Guy Kawasaki, proto-evangelist](http://scripting.com/2024/10/08/155702.html) - By [Dave Winer](https://en.wikipedia.org/wiki/Dave_Winer).
