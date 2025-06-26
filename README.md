@@ -334,7 +334,7 @@ Strategic thinking, roadmapping, prioritization, and long-term product planning 
 - [Deadlines](https://blackboxofpm.com/deadlines-d6925e5c694f) - By [Brandon Chu](https://medium.com/@brandonmchu).
 - [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - By [Brandon Chu](https://medium.com/@brandonmchu).
 - [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://www.aliceboyes.com/).
-- [Mud Rooms, Red Letters, and Real Priorities](https://www.43folders.com/2009/04/28/priorities) - By [Merlin Mann](https://www.43folders.com/about).
+- [Mud Rooms, Red Letters, and Real Priorities](https://web.archive.org/web/20090710004515/https://www.43folders.com/2009/04/28/priorities) - By [Merlin Mann](https://web.archive.org/web/20090707094417/http://www.43folders.com/).
 - [Good strategy understands affect, not just cognition](https://vaughntan.org/strataffect) - By [Vaughn Tan](https://www.linkedin.com/in/vaughntan/).
 - [Seven strategy tensions … and misunderstandings](https://vaughntan.org/strategy) - By [Vaughn Tan](https://www.linkedin.com/in/vaughntan/).
 - [Is or Is Not The Opposite Stupid on its Face?](https://rogermartin.medium.com/is-or-is-not-the-opposite-stupid-on-its-face-ab635b9c5582) - By [Roger Martin](https://rogermartin.medium.com/).
@@ -435,7 +435,6 @@ Product marketing, growth strategies, and customer acquisition approaches.
 - [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) - By Will Larson.
 - [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - By Richard W. Hamming.
 - [Shape Up](https://basecamp.com/shapeup) - By Ryan Singer.
-- [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.senseandrespondpress.com/managing-outcomes) - By Joshua Seiden.
 - [Difficult Conversations](https://www.stoneandheen.com/difficult-conversations) - By Douglas Stone.
 - [Good Strategy, Bad Strategy](https://www.barnesandnoble.com/w/good-strategy-bad-strategy-richard-rumelt/1101087922?ean=9780307886231) - By Richard Rumelt.
 - [Crossing The Chasm](https://www.barnesandnoble.com/w/crossing-the-chasm-3rd-edition-geoffrey-a-moore/1116092388?ean=9780062292988) - By Geoffrey A. Moore.
