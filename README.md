@@ -32,6 +32,14 @@ By definition, a product manager is an individual who drives the product vision 
   - [OKRs & Outcome Tracking](#okrs--outcome-tracking)
     - [Tability](#tability)
 - [Articles](#articles)
+  - [Product Fundamentals & Philosophy](#product-fundamentals--philosophy)
+  - [Product Development & Process](#product-development--process)
+  - [Product Strategy & Planning](#product-strategy--planning)
+  - [Customer Research & User Experience](#customer-research--user-experience)
+  - [Team Collaboration & Leadership](#team-collaboration--leadership)
+  - [Product Metrics & Analytics](#product-metrics--analytics)
+  - [Career Development & Skills](#career-development--skills)
+  - [Growth & Marketing](#growth--marketing)
 - [Books](#books)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
@@ -280,89 +288,128 @@ A lightweight OKR tracking tool that helps product teams stay focused on outcome
 
 There are a lot of folks that write great content that can help those wanting to excel and grow in the product management field to gain new perspectives. Treat the list below as an amalgamation of opinions, experiences, and patterns rather than as a definitive "list of things to always do."
 
-- [How to Deliver More Software Projects on Time](https://web.archive.org/web/20151029064330/https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
-- [Shipping is a Feature: Some Guiding Principles for People That Build Things](https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - By [Michael Copeland](https://www.linkedin.com/in/mcopeland/).
-- [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) - By [Joel Spolsky](https://www.joelonsoftware.com).
-- [Painless Functional Specifications – Part 2: What’s a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/) - By [Joel Spolsky](https://www.joelonsoftware.com).
-- [Painless Functional Specifications – Part 3: But… How?](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/) - By [Joel Spolsky](https://www.joelonsoftware.com).
-- [Painless Functional Specifications – Part 4: Tips](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/) - By [Joel Spolsky](https://www.joelonsoftware.com).
-- [How Am I Going To Move My Product Forward Today?](https://www.sachinrekhi.com/how-am-i-going-to-move-my-product-forward-today) - By [Sachin Rekhi](https://www.sachinrekhi.com/).
-- [How to Listen to Customers](https://www.bringthedonuts.com/essays/how-to-listen-to-customers.html) - By [Ken Norton](https://www.bringthedonuts.com/).
-- [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - By [Julie Zhuo](https://www.juliezhuo.com/).
-- [The work is never just “the work”](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/) - By [Dave Stewart](https://davestewart.co.uk/).
-- [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - By [Zach Holman](https://zachholman.com).
-- [A Minimum Viable Product Is Not a Product, It's a Process](https://web.archive.org/web/20201004000942/https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
-- [Being Glue](https://noidea.dog/glue) - By [Tanya Reilly](https://noidea.dog/about).
+### Product Fundamentals & Philosophy
+
+Core principles and mental models that shape effective product thinking and decision-making.
+
 - [How to build great products](https://www.defmacro.org/2013/09/26/products.html) - By [Slava Akhmechet](https://www.defmacro.org).
 - [If your product is Great, it doesn't need to be Good](https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html) - By [Paul Bucheit](http://en.wikipedia.org/wiki/Paul_Buchheit).
 - [Finding and Fostering Great Product Sense](https://staysaasy.com/product/2023/05/14/product-sense.html) - By [Stay SaaSy](https://staysaasy.com/about.html).
-- [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://chang.com/).
-- [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - By [Wayne Chang](https://chang.com/).
-- [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - By [Jason Fried](https://world.hey.com/jason).
-- [Guide to building a product roadmap](https://hellonext.co/blog/how-to-build-great-product-roadmap) - By Hellonext, Inc.
-- [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
-- [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
-- [12 Things about Product-Market Fit](https://web.archive.org/web/20180629011058/https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
-- [Relentlessly Resourceful](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://www.paulgraham.com/).
-- [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) - By [Paul Graham](https://www.paulgraham.com/).
-- [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - By [Paul Graham](https://www.paulgraham.com/).
-- [Do Things that Don't Scale](http://paulgraham.com/ds.html) - By [Paul Graham](https://www.paulgraham.com/).
-- [The Time Value of Shipping](https://blackboxofpm.com/the-time-value-of-shipping-6deaf8d7d565) - By [Brandon Chu](https://medium.com/@brandonmchu).
-- [Deadlines](https://blackboxofpm.com/deadlines-d6925e5c694f) - By [Brandon Chu](https://medium.com/@brandonmchu).
-- [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - By [Brandon Chu](https://medium.com/@brandonmchu).
+- [Want To Build An Incredible Product? Strive For The Delta Of "Wow"](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://chang.com/).
+- [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - By [Julie Zhuo](https://www.juliezhuo.com/).
 - [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb) - By [Brandon Chu](https://medium.com/@brandonmchu).
 - [Product Management Mental Models for Everyone](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) - By [Brandon Chu](https://medium.com/@brandonmchu).
-- [Understanding How The Innovator's Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
-- [Navigating Mid-Success](https://blog.ycombinator.com/navigating-mid-success/) - By [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman).
-- [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://www.aliceboyes.com/).
+- [Great Product Managers are "Outcome Thinkers"](https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac) - By [Max Bennett](https://medium.com/@max.bennett).
+- [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - by [Hubert Palan](https://www.linkedin.com/in/hubertpalan/).
+- [My product is my garden](https://herman.bearblog.dev/my-product-is-my-garden/) - By [Herman Martinus](https://herman.bearblog.dev/).
+- [Solution-space taste](https://grantslatton.com/solution-space-taste) - By [Grant Slatton](https://grantslatton.com/).
+- [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
+
+### Product Development & Process
+
+Methodologies, processes, and best practices for building and shipping products effectively.
+
+- [How to Deliver More Software Projects on Time](https://web.archive.org/web/20151029064330/https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
+- [Shipping is a Feature: Some Guiding Principles for People That Build Things](https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - By [Michael Copeland](https://www.linkedin.com/in/mcopeland/).
+- [The Time Value of Shipping](https://blackboxofpm.com/the-time-value-of-shipping-6deaf8d7d565) - By [Brandon Chu](https://medium.com/@brandonmchu).
+- [A Minimum Viable Product Is Not a Product, It's a Process](https://web.archive.org/web/20201004000942/https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
+- [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) - By [Joel Spolsky](https://www.joelonsoftware.com).
+- [Painless Functional Specifications – Part 2: What's a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/) - By [Joel Spolsky](https://www.joelonsoftware.com).
+- [Painless Functional Specifications – Part 3: But… How?](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/) - By [Joel Spolsky](https://www.joelonsoftware.com).
+- [Painless Functional Specifications – Part 4: Tips](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/) - By [Joel Spolsky](https://www.joelonsoftware.com).
+- [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - By [Jason Fried](https://world.hey.com/jason).
+- [Do Things that Don't Scale](http://paulgraham.com/ds.html) - By [Paul Graham](https://www.paulgraham.com/).
 - [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
 - [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - By [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
-- [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://www.svpg.com/team/marty-cagan/).
-- [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
-- [Remote teams](https://managershandbook.notion.site/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
-- [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://www.linkedin.com/in/ckindel/).
+- [Don't Give Your Users Shit Work ](https://zachholman.com/posts/shit-work/) - By [Zach Holman](https://zachholman.com/about).
+- [Don't start a tech-enabled service](https://waseem.substack.com/p/tech-enabled-services) - By [Waseem Daher](https://substack.com/@waseem).
+
+### Product Strategy & Planning
+
+Strategic thinking, roadmapping, prioritization, and long-term product planning approaches.
+
+- [Guide to building a product roadmap](https://hellonext.co/blog/how-to-build-great-product-roadmap) - By Hellonext, Inc.
+- [12 Things about Product-Market Fit](https://web.archive.org/web/20180629011058/https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
+- [Understanding How The Innovator's Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
+- [Deadlines](https://blackboxofpm.com/deadlines-d6925e5c694f) - By [Brandon Chu](https://medium.com/@brandonmchu).
+- [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - By [Brandon Chu](https://medium.com/@brandonmchu).
+- [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://www.aliceboyes.com/).
+- [Mud Rooms, Red Letters, and Real Priorities](https://www.43folders.com/2009/04/28/priorities) - By [Merlin Mann](https://www.43folders.com/about).
+- [Good strategy understands affect, not just cognition](https://vaughntan.org/strataffect) - By [Vaughn Tan](https://www.linkedin.com/in/vaughntan/).
+- [Seven strategy tensions … and misunderstandings](https://vaughntan.org/strategy) - By [Vaughn Tan](https://www.linkedin.com/in/vaughntan/).
+- [Is or Is Not The Opposite Stupid on its Face?](https://rogermartin.medium.com/is-or-is-not-the-opposite-stupid-on-its-face-ab635b9c5582) - By [Roger Martin](https://rogermartin.medium.com/).
 - [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - By [Charlie Kindel](https://www.linkedin.com/in/ckindel/).
 - [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - By [Philipp Cannons](https://philippcannons.com).
-- [So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - By [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
+- [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://www.linkedin.com/in/ckindel/).
+- [Navigating Mid-Success](https://blog.ycombinator.com/navigating-mid-success/) - By [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman).
+- [Startup Exercise: What can't be solved with money?](https://longform.asmartbear.com/startup-money/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
+- [Product Purgatory: When they love it but still don't buy](https://longform.asmartbear.com/purgatory/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
+
+### Customer Research & User Experience
+
+Understanding users, conducting research, and designing better customer experiences.
+
+- [How to Listen to Customers](https://www.bringthedonuts.com/essays/how-to-listen-to-customers.html) - By [Ken Norton](https://www.bringthedonuts.com/).
+- [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - By [Wayne Chang](https://chang.com/).
+- [User Onboarding Examples: Analyzing 6 Real-Life Onboarding Flows](https://cxl.com/blog/6-user-onboarding-flows/) - By [Shanelle Mullin](https://cxl.com/blog/author/shanelle-mullin/).
+- [Inside the 6 Hypotheses that Doubled Patreon's Activation Success](https://brianbalfour.com/essays/patreon-onboarding-growth) - By [Brian Balfour](https://brianbalfour.com).
+- [How to Use the Google HEART Framework to Measure and Improve Your App's UX](https://web.archive.org/web/20190714162138/https://clevertap.com/blog/google-heart-framework/) - By [Emily Bonnie](https://web.archive.org/web/20200320142602/https://clevertap.com/blog/author/emily/).
+
+### Team Collaboration & Leadership
+
+Working effectively with cross-functional teams, leadership, and communication strategies.
+
+- [How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.e81zu5ql7) - By [Julie Zhuo](https://joulee.medium.com/).
+- [How to Work With Software Engineers](https://www.bringthedonuts.com/essays/how-to-work-with-software-engineers.html) - By [Ken Norton](https://www.bringthedonuts.com/).
+- [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/) - By [Gergely Orosz](https://blog.pragmaticengineer.com/).
+- [Being Glue](https://noidea.dog/glue) - By [Tanya Reilly](https://noidea.dog/about).
+- [The work is never just "the work"](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/) - By [Dave Stewart](https://davestewart.co.uk/).
+- [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - By [Zach Holman](https://zachholman.com).
+- [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - By [Paul Graham](https://www.paulgraham.com/).
 - [The Art of Persuasion Hasn't Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - By [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
 - [Mastering Effective Communication as a Product Manager](https://www.sachinrekhi.com/mastering-effective-communication-as-a-product-manager) - By [Sachin Rekhi](https://www.sachinrekhi.com/about).
 - [The Top 10 Deliverables of Product Managers](https://www.sachinrekhi.com/top-10-deliverables-of-product-managers) - By [Sachin Rekhi](https://www.sachinrekhi.com/about).
-- [Great Product Managers are “Outcome Thinkers”](https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac) - By [Max Bennett](https://medium.com/@max.bennett).
-- [How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.e81zu5ql7) - By [Julie Zhuo](https://joulee.medium.com/).
-- [Breaking into Product Management — Should you even consider it?](https://medium.com/@sshubhi/breaking-into-product-management-a-guide-c6fa3bc59449) - By [Shubhi Saxena](https://medium.com/@sshubhi).
-- [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - by [Hubert Palan](https://www.linkedin.com/in/hubertpalan/).
+- [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://www.svpg.com/team/marty-cagan/).
+- [Remote teams](https://managershandbook.notion.site/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
+- [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a) - By [Lily Ottinger](https://substack.com/@voidpoliticstaiwan) and [Charles Yang](https://substack.com/@charlesyang).
+
+### Product Metrics & Analytics
+
+Measuring success, understanding data, and making data-driven product decisions.
+
 - [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://www.pedaling4pups.com/).
+- [Analytics should be an Assembly Line](https://tayloramurphy.substack.com/p/analytics-should-be-an-assembly-line) - By [Taylor A. Murphy](https://substack.com/@tayloramurphy).
+- [SSEBITDA—A steady-state profit metric for SaaS companies](https://longform.asmartbear.com/ssebitda/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
+
+### Career Development & Skills
+
+Professional growth, skill development, and career advancement in product management.
+
+- [How Am I Going To Move My Product Forward Today?](https://www.sachinrekhi.com/how-am-i-going-to-move-my-product-forward-today) - By [Sachin Rekhi](https://www.sachinrekhi.com/).
+- [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
+- [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
+- [Relentlessly Resourceful](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://www.paulgraham.com/).
+- [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) - By [Paul Graham](https://www.paulgraham.com/).
+- [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
+- [So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - By [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
+- [Breaking into Product Management — Should you even consider it?](https://medium.com/@sshubhi/breaking-into-product-management-a-guide-c6fa3bc59449) - By [Shubhi Saxena](https://medium.com/@sshubhi).
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By Glenn Gillen.
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - By [Roy Cobby](https://www.linkedin.com/in/roycobby/).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://productschool.com/product-leaders/christine-itwaru).
 - [It's Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
-- [How to Work With Software Engineers](https://www.bringthedonuts.com/essays/how-to-work-with-software-engineers.html) - By [Ken Norton](https://www.bringthedonuts.com/).
-- [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
-- [Don't Give Your Users Shit Work ](https://zachholman.com/posts/shit-work/) - By [Zach Holman](https://zachholman.com/about).
-- [Mud Rooms, Red Letters, and Real Priorities](https://www.43folders.com/2009/04/28/priorities) - By [Merlin Mann](https://www.43folders.com/about).
-- [My product is my garden](https://herman.bearblog.dev/my-product-is-my-garden/) - By [Herman Martinus](https://herman.bearblog.dev/).
-- [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/) - By [Gergely Orosz](https://blog.pragmaticengineer.com/).
-- [How We Got Our First 2,000 Users Doing Things That Don’t Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) - By [Ryan Hoover](https://www.fastcompany.com/user/ryan-hoover).
-- [How To Get Media Coverage for Your Brand](https://www.shopify.com/blog/15973132-hacking-the-press-clever-ways-to-get-free-press-coverage-with-zero-budget#) - By [Michael Keenan](https://www.shopify.com/blog/authors/michael-keenan).
 - [Great PM Interview Answers Include Tradeoffs. Here's How.](https://www.tryexponent.com/blog/the-key-to-a-successful-pm-interview-answer-tradeoffs) - By [Sushanth Raman](https://www.linkedin.com/in/sushanth-raman/).
 - [Professional Development as a Product Manager](https://www.productmanagerhq.com/career/product-manager/professional-development-as-a-product-manager/) - By [Clement Kao
 Clement Kao](https://producthq.org/author/clementkao/).
-- [Inside the 6 Hypotheses that Doubled Patreon’s Activation Success](https://brianbalfour.com/essays/patreon-onboarding-growth) - By [Brian Balfour](https://brianbalfour.com).
 - [Product Management Job Hunt: How to get an Interview and Nail it](https://mtp2017.wpenginepowered.com/product-management-job-hunt-how-to-get-an-interview-and-nail-it/) - By [Kostas Sirvydis](https://mtp2017.wpenginepowered.com/profile/KostasSirvydis203).
-- [User Onboarding Examples: Analyzing 6 Real-Life Onboarding Flows](https://cxl.com/blog/6-user-onboarding-flows/) - By [Shanelle Mullin](https://cxl.com/blog/author/shanelle-mullin/).
-- [How to Use the Google HEART Framework to Measure and Improve Your App’s UX](https://web.archive.org/web/20190714162138/https://clevertap.com/blog/google-heart-framework/) - By [Emily Bonnie](https://web.archive.org/web/20200320142602/https://clevertap.com/blog/author/emily/).
-- [Analytics should be an Assembly Line](https://tayloramurphy.substack.com/p/analytics-should-be-an-assembly-line) - By [Taylor A. Murphy](https://substack.com/@tayloramurphy).
-- [Is or Is Not The Opposite Stupid on its Face?](https://rogermartin.medium.com/is-or-is-not-the-opposite-stupid-on-its-face-ab635b9c5582) - By [Roger Martin](https://rogermartin.medium.com/).
+
+### Growth & Marketing
+
+Product marketing, growth strategies, and customer acquisition approaches.
+
+- [How We Got Our First 2,000 Users Doing Things That Don't Scale](https://www.fastcompany.com/3024472/how-we-got-our-first-2000-users-doing-things-that-dont-scale) - By [Ryan Hoover](https://www.fastcompany.com/user/ryan-hoover).
+- [How To Get Media Coverage for Your Brand](https://www.shopify.com/blog/15973132-hacking-the-press-clever-ways-to-get-free-press-coverage-with-zero-budget#) - By [Michael Keenan](https://www.shopify.com/blog/authors/michael-keenan).
 - [Guy Kawasaki, proto-evangelist](http://scripting.com/2024/10/08/155702.html) - By [Dave Winer](https://en.wikipedia.org/wiki/Dave_Winer).
 - [The Art of Evangelism](https://hbr.org/2015/05/the-art-of-evangelism) - By [Guy Kawasaki](https://guykawasaki.com/).
-- [Product Purgatory: When they love it but still don't buy](https://longform.asmartbear.com/purgatory/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
-- [SSEBITDA—A steady-state profit metric for SaaS companies](https://longform.asmartbear.com/ssebitda/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
-- [Startup Exercise: What can't be solved with money?](https://longform.asmartbear.com/startup-money/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
-- [Good strategy understands affect, not just cognition](https://vaughntan.org/strataffect) - By [Vaughn Tan](https://www.linkedin.com/in/vaughntan/).
-- [Seven strategy tensions … and misunderstandings](https://vaughntan.org/strategy) - By [Vaughn Tan](https://www.linkedin.com/in/vaughntan/).
-- [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a) - By [Lily Ottinger](https://substack.com/@voidpoliticstaiwan) and [Charles Yang](https://substack.com/@charlesyang).
-- [Solution-space taste](https://grantslatton.com/solution-space-taste) - By [Grant Slatton](https://grantslatton.com/).
-- [Don't start a tech-enabled service](https://waseem.substack.com/p/tech-enabled-services) - By [Waseem Daher](https://substack.com/@waseem).
 
 ## Books
 
