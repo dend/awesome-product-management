@@ -318,6 +318,14 @@ Clement Kao](https://producthq.org/author/clementkao/).
 - [Is or Is Not The Opposite Stupid on its Face?](https://rogermartin.medium.com/is-or-is-not-the-opposite-stupid-on-its-face-ab635b9c5582) - By [Roger Martin](https://rogermartin.medium.com/).
 - [Guy Kawasaki, proto-evangelist](http://scripting.com/2024/10/08/155702.html) - By [Dave Winer](https://en.wikipedia.org/wiki/Dave_Winer).
 - [The Art of Evangelism](https://hbr.org/2015/05/the-art-of-evangelism) - By [Guy Kawasaki](https://guykawasaki.com/).
+- [Product Purgatory: When they love it but still don't buy](https://longform.asmartbear.com/purgatory/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
+- [SSEBITDA—A steady-state profit metric for SaaS companies](https://longform.asmartbear.com/ssebitda/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
+- [Startup Exercise: What can't be solved with money?](https://longform.asmartbear.com/startup-money/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
+- [Good strategy understands affect, not just cognition](https://vaughntan.org/strataffect) - By [Vaughn Tan](https://www.linkedin.com/in/vaughntan/).
+- [Seven strategy tensions … and misunderstandings](https://vaughntan.org/strategy) - By [Vaughn Tan](https://www.linkedin.com/in/vaughntan/).
+- [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a) - By [Lily Ottinger](https://substack.com/@voidpoliticstaiwan) and [Charles Yang](https://substack.com/@charlesyang).
+- [Solution-space taste](https://grantslatton.com/solution-space-taste) - By [Grant Slatton](https://grantslatton.com/).
+- [Don't start a tech-enabled service](https://waseem.substack.com/p/tech-enabled-services) - By [Waseem Daher](https://substack.com/@waseem).
 
 ## Books
 
