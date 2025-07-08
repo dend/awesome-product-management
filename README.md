@@ -331,6 +331,8 @@ Strategic thinking, roadmapping, prioritization, and long-term product planning 
 - [Guide to building a product roadmap](https://hellonext.co/blog/how-to-build-great-product-roadmap) - By Hellonext, Inc.
 - [12 Things about Product-Market Fit](https://web.archive.org/web/20180629011058/https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
 - [Understanding How The Innovator's Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
+- [OKRs and Product Roadmaps](https://www.romanpichler.com/blog/okrs-and-product-roadmaps/) - By [Roman Pichler](https://www.romanpichler.com/).
+- [Product OKRs: Driving Outcomes Over Outputs](https://productschool.com/blog/product-strategy/product-okrs) - By [Carlos Gonzalez de Villaumbrosia](https://www.linkedin.com/in/villaumbrosia/).
 - [Deadlines](https://blackboxofpm.com/deadlines-d6925e5c694f) - By [Brandon Chu](https://medium.com/@brandonmchu).
 - [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - By [Brandon Chu](https://medium.com/@brandonmchu).
 - [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://www.aliceboyes.com/).
@@ -344,12 +346,18 @@ Strategic thinking, roadmapping, prioritization, and long-term product planning 
 - [Navigating Mid-Success](https://blog.ycombinator.com/navigating-mid-success/) - By [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman).
 - [Startup Exercise: What can't be solved with money?](https://longform.asmartbear.com/startup-money/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
 - [Product Purgatory: When they love it but still don't buy](https://longform.asmartbear.com/purgatory/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
+- [Product Discovery Basics](https://www.producttalk.org/2021/08/product-discovery/) - By [Teresa Torres](https://www.producttalk.org/).
+- [Remote Product Management Tips](https://www.atlassian.com/agile/product-management/remote-product-management) - By [Atlassian](https://www.atlassian.com/).
 
 ### Customer Research & User Experience
 
 Understanding users, conducting research, and designing better customer experiences.
 
 - [How to Listen to Customers](https://www.bringthedonuts.com/essays/how-to-listen-to-customers.html) - By [Ken Norton](https://www.bringthedonuts.com/).
+- [The Product Manager's Guide to UX Research](https://www.userinterviews.com/blog/ux-research-for-product-managers) - By [Katryna Balboni](https://katryna-balboni.com/).
+- [Effective User Interviews](https://producthq.org/agile/product-management/effective-user-interviews/) - By [Product HQ](https://producthq.org/).
+- [Story-Based Customer Interviews](https://www.producttalk.org/2024/04/story-based-customer-interviews/) - By [Teresa Torres](https://www.producttalk.org/).
+- [Product Management Skills: User Research](https://productschool.com/blog/user-experience/product-management-skills-user-research) - By [Carlos Gonzalez de Villaumbrosia](https://www.linkedin.com/in/villaumbrosia/).
 - [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - By [Wayne Chang](https://chang.com/).
 - [User Onboarding Examples: Analyzing 6 Real-Life Onboarding Flows](https://cxl.com/blog/6-user-onboarding-flows/) - By [Shanelle Mullin](https://cxl.com/blog/author/shanelle-mullin/).
 - [Inside the 6 Hypotheses that Doubled Patreon's Activation Success](https://brianbalfour.com/essays/patreon-onboarding-growth) - By [Brian Balfour](https://brianbalfour.com).
@@ -371,6 +379,7 @@ Working effectively with cross-functional teams, leadership, and communication s
 - [The Top 10 Deliverables of Product Managers](https://www.sachinrekhi.com/top-10-deliverables-of-product-managers) - By [Sachin Rekhi](https://www.sachinrekhi.com/about).
 - [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://www.svpg.com/team/marty-cagan/).
 - [Remote teams](https://managershandbook.notion.site/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
+- [The Dos and Don'ts of Mentoring in Product](https://www.mindtheproduct.com/the-dos-and-donts-of-mentoring-in-product/) - By [Eira Hayward](https://www.mindtheproduct.com/profile/eira-hayward/).
 - [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a) - By [Lily Ottinger](https://substack.com/@voidpoliticstaiwan) and [Charles Yang](https://substack.com/@charlesyang).
 
 ### Product Metrics & Analytics
@@ -413,7 +422,7 @@ Product marketing, growth strategies, and customer acquisition approaches.
 
 - [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - By Chip Heath and Dan Heath.
 - [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) - By Chip Heath and Dan Heath.
-- [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) - By Steve Blank and Bob Dorf.
+- [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.com/Startup-Owners-Manual-Step-By-Step/dp/0984999302) - By Steve Blank and Bob Dorf.
 - [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - By Alexander Osterwalder and Yves Pigneur.
 - [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) - By Alexander Osterwalder and Yves Pigneur.
 - [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) - By Eric Ries.
