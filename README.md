@@ -304,6 +304,7 @@ Core principles and mental models that shape effective product thinking and deci
 - [My product is my garden](https://herman.bearblog.dev/my-product-is-my-garden/) - By [Herman Martinus](https://herman.bearblog.dev/).
 - [Solution-space taste](https://grantslatton.com/solution-space-taste) - By [Grant Slatton](https://grantslatton.com/).
 - [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
+- [Building a Great Product Management Organization](https://melissaperri.com/blog/2024/7/16/building-a-great-product-management-organization) - By [Melissa Perri](https://melissaperri.com/).
 
 ### Product Development & Process
 
@@ -348,6 +349,7 @@ Strategic thinking, roadmapping, prioritization, and long-term product planning 
 - [Product Purgatory: When they love it but still don't buy](https://longform.asmartbear.com/purgatory/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
 - [Product Discovery Basics](https://www.producttalk.org/2021/08/product-discovery/) - By [Teresa Torres](https://www.producttalk.org/).
 - [Remote Product Management Tips](https://www.atlassian.com/agile/product-management/remote-product-management) - By [Atlassian](https://www.atlassian.com/).
+- [How to Craft Your Product Management Team Structure at Every Stage](https://review.firstround.com/how-to-craft-your-product-team-at-every-stage-from-pre-product-market-fit-to-hypergrowth/) - By [Nikhyl Singhal](https://www.linkedin.com/in/nikhylsinghal/).
 
 ### Customer Research & User Experience
 
@@ -450,6 +452,11 @@ Product marketing, growth strategies, and customer acquisition approaches.
 - [EMPOWERED: Ordinary People, Extraordinary Products](https://www.barnesandnoble.com/w/empowered-marty-cagan/1137059391?ean=9781119691297) - By Marty Cagan, Chris Jones.
 - [The Power of Habit: Why We Do What We Do in Life and Business](https://www.barnesandnoble.com/w/the-power-of-habit-charles-duhigg/1103588638) - By Charles Duhigg.
 - [Staff Engineer](https://staffeng.com/book) - By Will Larson.
+- [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://www.barnesandnoble.com/w/continuous-discovery-habits-teresa-torres/1139454943) - By Teresa Torres.
+- [Product Operations: How successful companies build better products at scale](https://www.barnesandnoble.com/w/product-operations-melissa-perri/1144201706) - By Melissa Perri and Denise Tilles.
+- [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://www.barnesandnoble.com/w/the-mom-test-rob-fitzpatrick/1138124916) - By Rob Fitzpatrick.
+- [Evidence-Guided: Creating High Impact Products in the Face of Uncertainty](https://www.barnesandnoble.com/w/evidence-guided-itamar-gilad/1144237485) - By Itamar Gilad.
+- [Transformed: Moving to the Product Operating Model](https://www.barnesandnoble.com/w/transformed-marty-cagan/1143825957) - By Marty Cagan.
 
 ## Podcasts
 
