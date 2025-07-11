@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Build](https://github.com/dend/awesome-product-management/actions/workflows/makepdf.yml/badge.svg)](https://github.com/dend/awesome-product-management/actions/workflows/makepdf.yml)
 [![Link Checker](https://github.com/dend/awesome-product-management/actions/workflows/linkchecker.yml/badge.svg)](https://github.com/dend/awesome-product-management/actions/workflows/linkchecker.yml)
-[![GitHub Repo stars](https://img.shields.io/github/stars/dend/awesome-product-management?style=flat)](https://github.com/dend/awesome-product-management/stargazers)
+![GitHub Repo stars](https://img.shields.io/github/stars/dend/awesome-product-management?style=flat)
 
 *A curated list of awesome resources for product/program managers to learn and grow.*
 
@@ -63,8 +63,7 @@ By definition, a product manager is an individual who drives the product vision 
 - [Additional resources](#additional-resources)
 - [License](#license)
 
-<details>
-<summary><h2>🛠️ Tools</h2></summary>
+## Tools
 
 In day-to-day activities, product managers need to rely on tools to help them make sense of the information and insights they're handling. The list below represents _some_ of those tools. A product manager doesn't need to use every single one of them, and neither is one better than the other. These are just pointers to some of the instruments that can be used to be effective at organizing and sharing PM expertise. None of them, standalone, will make one a better product manager.
 
@@ -301,10 +300,7 @@ A lightweight OKR tracking tool that helps product teams stay focused on outcome
 | Platform   | Web                                |
 | URL        | https://tability.io                |
 
-</details>
-
-<details>
-<summary><h2>📚 Articles</h2></summary>
+## Articles
 
 There are a lot of folks that write great content that can help those wanting to excel and grow in the product management field to gain new perspectives. Treat the list below as an amalgamation of opinions, experiences, and patterns rather than as a definitive "list of things to always do."
 
@@ -440,10 +436,7 @@ Product marketing, growth strategies, and customer acquisition approaches.
 - [Guy Kawasaki, proto-evangelist](http://scripting.com/2024/10/08/155702.html) - By [Dave Winer](https://en.wikipedia.org/wiki/Dave_Winer).
 - [The Art of Evangelism](https://hbr.org/2015/05/the-art-of-evangelism) - By [Guy Kawasaki](https://guykawasaki.com/).
 
-</details>
-
-<details>
-<summary><h2>📖 Books</h2></summary>
+## Books
 
 ### Product Management Fundamentals
 
@@ -515,10 +508,7 @@ Technical perspectives on product development and engineering practices.
 - [Creative Selection](http://creativeselection.io/) - By Ken Kocienda.
 - [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - By Richard W. Hamming.
 
-</details>
-
-<details>
-<summary><h2>🎧 Podcasts</h2></summary>
+## Podcasts
 
 | Podcast                                                                                | Hosts                         | URL                                                                       | Description |
 |----------------------------------------------------------------------------------------|-------------------------------|---------------------------------------------------------------------------|-------------|
@@ -534,35 +524,24 @@ Technical perspectives on product development and engineering practices.
 | <img alt="Design Details" src="media/pod-design-details.jpg" width="100px" />          | Marshall Bock, Brian Lovin    | https://designdetails.fm                                                  | A weekly conversation about design process and culture. Hosted by Marshall Bock and Brian Lovin. |
 | <img alt="Product Hunt Radio" src="media/pod-product-hunt-radio.webp" width="100px" /> | Ryan Hoover, Abadesi Osunsade | https://podcasts.apple.com/us/podcast/product-hunt-radio/id862714883      | Product Hunt Radio is a a weekly podcast with the people creating and exploring the future. Tune in every week with Ryan Hoover and Abadesi Osunsade as they're joined by founders, investors, journalists, and makers to discuss the latest in tech. |
 
-</details>
-
-<details>
-<summary><h2>👥 Communities</h2></summary>
+## Communities
 
 - [Women in Product](https://www.womenpm.org/) (_using [Facebook](https://facebook.com)_)
 - [Product School](https://www.productschool.com/) (_using [Slack](https://slack.com/)_)
 - [The Product Coalition](https://productcoalition.com/) (_using [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
 
-</details>
-
-<details>
-<summary><h2>🎪 Conferences</h2></summary>
+## Conferences
 
 - [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
 - [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
 - [La Product Conf](https://www.laproductconf.com/) - Organized by Thiga, La Product Conf (LPC) takes place once a year with events in Paris (France) and Madrid (Spain). The speaker lineup features product leaders from Pinterest, Carrefour, Payfit, Google, Meetic and more.
 
-</details>
-
-<details>
-<summary><h2>🔗 Additional Resources</h2></summary>
+## Additional resources
 
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 - [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
-
-</details>
 
 ## License
 
