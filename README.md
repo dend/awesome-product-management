@@ -321,6 +321,10 @@ Core principles and mental models that shape effective product thinking and deci
 - [Solution-space taste](https://grantslatton.com/solution-space-taste) - By [Grant Slatton](https://grantslatton.com/).
 - [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
 - [Building a Great Product Management Organization](https://melissaperri.com/blog/2024/7/16/building-a-great-product-management-organization) - By [Melissa Perri](https://melissaperri.com/).
+- [Relentlessly Resourceful](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://www.paulgraham.com/).
+- [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) - By [Paul Graham](https://www.paulgraham.com/).
+- [Hackers and Painters](http://www.paulgraham.com/hp.html) - By [Paul Graham](https://www.paulgraham.com/).
+- [The Product Manager](https://paulgraham.com/pmjob.html) - By [Paul Graham](https://www.paulgraham.com/).
 
 ### Product Development & Process
 
@@ -399,6 +403,7 @@ Working effectively with cross-functional teams, leadership, and communication s
 - [Remote teams](https://managershandbook.notion.site/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
 - [The Dos and Don'ts of Mentoring in Product](https://www.mindtheproduct.com/the-dos-and-donts-of-mentoring-in-product/) - By [Eira Hayward](https://www.mindtheproduct.com/profile/eira-hayward/).
 - [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a) - By [Lily Ottinger](https://substack.com/@voidpoliticstaiwan) and [Charles Yang](https://substack.com/@charlesyang).
+- [What is Good Product Strategy?](https://melissaperri.com/blog/2016/07/14/what-is-good-product-strategy) - By [Melissa Perri](https://melissaperri.com/).
 
 ### Product Metrics & Analytics
 
@@ -407,6 +412,7 @@ Measuring success, understanding data, and making data-driven product decisions.
 - [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://www.pedaling4pups.com/).
 - [Analytics should be an Assembly Line](https://tayloramurphy.substack.com/p/analytics-should-be-an-assembly-line) - By [Taylor A. Murphy](https://substack.com/@tayloramurphy).
 - [SSEBITDA—A steady-state profit metric for SaaS companies](https://longform.asmartbear.com/ssebitda/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
+- [In-depth: The AARRR pirate funnel explained](https://posthog.com/product-engineers/aarrr-pirate-funnel) - By [PostHog](https://posthog.com).
 
 ### Career Development & Skills
 
@@ -448,6 +454,9 @@ Essential reading for understanding core product management principles, roles, a
 - [Escaping The Build Trap](https://www.oreilly.com/library/view/escaping-the-build/9781491973783/) - By Melissa Perri.
 - [Product Operations: How successful companies build better products at scale](https://www.barnesandnoble.com/w/product-operations-melissa-perri/1144201706) - By Melissa Perri and Denise Tilles.
 - [Intercom on Product Management](https://www.intercom.com/resources/books/intercom-product-management)
+- [Building Products for the Enterprise](https://www.oreilly.com/library/view/building-products-for/9781492024774/) - By Blair Reeves and Benjamin Gaines.
+- [The Product Book](https://productschool.com/resources/ebooks/the-product-book) - By Carlos Gonzalez de Villaumbrosia and Josh Anon.
+- [Decode and Conquer](https://www.lewis-lin.com/decode-and-conquer) - By Lewis C. Lin.
 
 ### Product Strategy & Planning
 
@@ -462,6 +471,7 @@ Books focused on strategic thinking, roadmapping, prioritization, and long-term 
 - [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)](https://www.barnesandnoble.com/w/the-innovators-dilemma-clayton-m-christensen/1100196911) - By Clayton M. Christensen.
 - [Crossing The Chasm](https://www.barnesandnoble.com/w/crossing-the-chasm-3rd-edition-geoffrey-a-moore/1116092388?ean=9780062292988) - By Geoffrey A. Moore.
 - [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.barnesandnoble.com/w/measure-what-matters-john-doerr/1127681175) - By John Doerr.
+- [Positioning: The Battle for Your Mind](https://www.barnesandnoble.com/w/positioning-al-ries/1117107645) - By Al Ries and Jack Trout.
 
 ### Customer Research & User Experience
 
@@ -472,6 +482,8 @@ Understanding users, conducting research, and designing customer-centric product
 - [The Customer-Driven Playbook](https://www.oreilly.com/library/view/the-customer-driven-playbook/9781491981269/) - By Jessica Rich and Travis Lowdermilk.
 - [Evidence-Guided: Creating High Impact Products in the Face of Uncertainty](https://www.barnesandnoble.com/w/evidence-guided-itamar-gilad/1144237485) - By Itamar Gilad.
 - [The Design of Everyday Things: Revised and Expanded Edition](https://www.barnesandnoble.com/w/the-design-of-everyday-things-donald-a-norman/1114591337) - By Don Norman.
+- [Observing the User Experience: A Practitioner's Guide to User Research](https://www.barnesandnoble.com/w/observing-the-user-experience-mike-kuniavsky/1110784914) - By Mike Kuniavsky.
+- [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.barnesandnoble.com/w/dont-make-me-think-revisited-steve-krug/1116173905) - By Steve Krug.
 
 ### Product Development & Process
 
@@ -481,6 +493,9 @@ Methodologies, processes, and best practices for building and shipping products.
 - [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.barnesandnoble.com/w/sprint-jake-knapp/1123177843) - By Jake Knapp, John Zeratsky, Braden Kowitz.
 - [Shape Up](https://basecamp.com/shapeup) - By Ryan Singer.
 - [Hooked: How to Build Habit-Forming Products](https://www.barnesandnoble.com/w/hooked-nir-eyal/1119342753) - By Nir Eyal.
+- [Build: An Unorthodox Guide to Making Things Worth Making](https://www.barnesandnoble.com/w/build-tony-fadell/1140408161) - By Tony Fadell.
+- [The Mythical Man-Month: Essays on Software Engineering](https://www.barnesandnoble.com/w/the-mythical-man-month-frederick-brooks-jr/1126893908) - By Frederick P. Brooks Jr.
+- [Thinking in Systems: A Primer](https://www.barnesandnoble.com/w/thinking-in-systems-donella-meadows/1138462657) - By Donella H. Meadows.
 
 ### Team Leadership & Management
 
@@ -500,6 +515,7 @@ Understanding human behavior, decision-making, and driving organizational change
 - [Switch: How to Change Things When Change Is Hard](https://www.barnesandnoble.com/w/switch-chip-heath/1100203647) - By Chip Heath and Dan Heath.
 - [Made to Stick: Why Some Ideas Survive and Others Die](https://www.barnesandnoble.com/w/made-to-stick-chip-heath/1102808718) - By Chip Heath and Dan Heath.
 - [The Power of Habit: Why We Do What We Do in Life and Business](https://www.barnesandnoble.com/w/the-power-of-habit-charles-duhigg/1103588638) - By Charles Duhigg.
+- [Influence: The Psychology of Persuasion](https://www.barnesandnoble.com/w/influence-new-and-expanded-robert-b-cialdini-phd/1137838452) - By Robert B. Cialdini.
 
 ### Engineering & Technical
 
@@ -507,6 +523,8 @@ Technical perspectives on product development and engineering practices.
 
 - [Creative Selection](http://creativeselection.io/) - By Ken Kocienda.
 - [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - By Richard W. Hamming.
+- [High Output Management](https://www.barnesandnoble.com/w/high-output-management-andrew-s-grove/1000970775) - By Andrew S. Grove.
+- [7 Powers: The Foundations of Business Strategy](https://www.barnesandnoble.com/w/7-powers-hamilton-helmer/1125041039) - By Hamilton Helmer.
 
 ## Podcasts
 
