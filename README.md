@@ -3,7 +3,7 @@
 # Awesome Product Management
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Build](https://github.com/dend/awesome-product-management/actions/workflows/makepdf.yml/badge.svg)](https://github.com/dend/awesome-product-management/actions/workflows/makepdf.yml)
+[![PDF Build](https://github.com/dend/awesome-product-management/actions/workflows/makepdf.yml/badge.svg)](https://github.com/dend/awesome-product-management/actions/workflows/makepdf.yml)
 [![Link Checker](https://github.com/dend/awesome-product-management/actions/workflows/linkchecker.yml/badge.svg)](https://github.com/dend/awesome-product-management/actions/workflows/linkchecker.yml)
 [![GitHub Repo stars](https://img.shields.io/github/stars/dend/awesome-product-management?style=flat)](https://github.com/dend/awesome-product-management/stargazers)
 
