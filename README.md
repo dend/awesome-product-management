@@ -404,6 +404,8 @@ Working effectively with cross-functional teams, leadership, and communication s
 - [The Dos and Don'ts of Mentoring in Product](https://www.mindtheproduct.com/the-dos-and-donts-of-mentoring-in-product/) - By [Eira Hayward](https://www.mindtheproduct.com/profile/eira-hayward/).
 - [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a) - By [Lily Ottinger](https://substack.com/@voidpoliticstaiwan) and [Charles Yang](https://substack.com/@charlesyang).
 - [What is Good Product Strategy?](https://melissaperri.com/blog/2016/07/14/what-is-good-product-strategy) - By [Melissa Perri](https://melissaperri.com/).
+- [How to think strategically in your job](https://lesley.pizza/think-strategically-at-work/) - By [Lesley](https://lesley.pizza/about/).
+- [Fell in a hole, got out](https://medium.com/the-coach-life/fell-in-a-hole-got-out-381356ec8d7f) - By [Tony Stubblebine](https://medium.com/@coachtony).
 
 ### Product Metrics & Analytics
 
@@ -432,6 +434,10 @@ Professional growth, skill development, and career advancement in product manage
 - [It's Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 - [Great PM Interview Answers Include Tradeoffs. Here's How.](https://www.tryexponent.com/blog/the-key-to-a-successful-pm-interview-answer-tradeoffs) - By [Sushanth Raman](https://www.linkedin.com/in/sushanth-raman/).
 - [Product Management Job Hunt: How to get an Interview and Nail it](https://mtp2017.wpenginepowered.com/product-management-job-hunt-how-to-get-an-interview-and-nail-it/) - By [Kostas Sirvydis](https://mtp2017.wpenginepowered.com/profile/KostasSirvydis203).
+- [A Pyramid-shaped Career](https://jackdanger.com/pyramid-shaped-career/) - By [Jack Danger](https://jackdanger.com/about/).
+- [Career advice in 2025](https://lethain.com/career-advice-2025/) - By [Will Larson](https://lethain.com/about/).
+- [How to be more agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) - By [Cate Hall](https://substack.com/@usefulfictions).
+- [On agency](https://www.henrikkarlsson.xyz/p/agency) - By [Henrik Karlsson](https://substack.com/@henrikkarlsson) and [Johanna Karlsson](https://substack.com/@karlssonjohanna).
 
 ### Growth & Marketing
 
