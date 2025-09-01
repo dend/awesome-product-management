@@ -351,6 +351,7 @@ Strategic thinking, roadmapping, prioritization, and long-term product planning 
 
 - [Guide to building a product roadmap](https://hellonext.co/blog/how-to-build-great-product-roadmap) - By Hellonext, Inc.
 - [12 Things about Product-Market Fit](https://web.archive.org/web/20180629011058/https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
+- [Understanding How The Innovator's Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 - [OKRs and Product Roadmaps](https://www.romanpichler.com/blog/okrs-and-product-roadmaps/) - By [Roman Pichler](https://www.romanpichler.com/).
 - [Product OKRs: Driving Outcomes Over Outputs](https://productschool.com/blog/product-strategy/product-okrs) - By [Carlos Gonzalez de Villaumbrosia](https://www.linkedin.com/in/villaumbrosia/).
 - [Deadlines](https://blackboxofpm.com/deadlines-d6925e5c694f) - By [Brandon Chu](https://medium.com/@brandonmchu).
