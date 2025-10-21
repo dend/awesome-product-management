@@ -27,6 +27,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [Task & Project Management](#task--project-management)
     - [Trello](#trello)
     - [Taiga](#taiga)
+    - [Tenzu](#tenzu)
     - [To-Do](#to-do)
     - [Taskade](#taskade)
   - [Design & Prototyping](#design--prototyping)
@@ -159,6 +160,19 @@ Taiga is a project management tool for multi-functional agile teams. It has a ri
 | Cost      | Free (self-hosted) or [Freemium](https://taiga.io/) |
 | Platform  | macOS, Windows, iOS, Android, Web                        |
 | URL       | https://taiga.io                                    |
+
+#### Tenzu
+
+Lightweight project management tool for agile teams. Features workspaces creation and kanban boards.
+
+![Tenzu overview](media/tool-tenzu.gif)
+
+| Property  | Value                                                                 |
+|-----------|-----------------------------------------------------------------------|
+| Developer | [BIRU](https://biru.sh/)                                              |
+| Cost      | Free (self-hosted) or [Free contribution](https://tenzu.net/pricing/) |
+| Platform  | Web                                                                   |
+| URL       | https://tenzu.net                                                     |
 
 #### To-Do
 
