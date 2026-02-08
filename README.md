@@ -575,6 +575,7 @@ Technical perspectives on product development and engineering practices.
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 - [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
+- [PM-Skills](https://github.com/product-on-purpose/pm-skills) - 24 open-source PM skills for AI agents covering the Triple Diamond framework: discover, define, develop, deliver, measure, and iterate. Includes production-ready templates, workflow bundles, and comprehensive examples. Works with Claude Code, Claude Desktop, Claude.ai, GitHub Copilot, Cursor, and Windsurf. Apache 2.0 licensed.
 
 ## License
 
