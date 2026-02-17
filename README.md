@@ -272,6 +272,17 @@ LogChimp allows you to track your customers feedback to build better products.
 | URL       | https://logchimp.codecarrot.net              |
 
 
+#### Quackback
+
+Quackback is an open source feedback platform with voting boards, public roadmaps, changelogs, and a built-in MCP server for AI agents.
+
+| Property  | Value                                  |
+|-----------|----------------------------------------|
+| Developer | [Quackback](https://quackback.io/)     |
+| Cost      | Free (Open source)                     |
+| Platform  | Web                                    |
+| URL       | https://quackback.io                   |
+
 #### Hellonext
 
 Hellonext helps you close the user feedback loop. Comes with feedback portal, roadmap, and changelog.
