@@ -49,6 +49,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [Team Collaboration & Leadership](#team-collaboration--leadership)
   - [Product Metrics & Analytics](#product-metrics--analytics)
   - [Career Development & Skills](#career-development--skills)
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
   - [Growth & Marketing](#growth--marketing)
 - [Books](#books)
   - [Product Management Fundamentals](#product-management-fundamentals)
