@@ -41,6 +41,8 @@ By definition, a product manager is an individual who drives the product vision 
     - [Screeb](#screeb)
   - [OKRs & Outcome Tracking](#okrs--outcome-tracking)
     - [Tability](#tability)
+  - [AI Tools](#ai-tools)
+    - [product-manager-skills](#product-manager-skills)
 - [Articles](#articles)
   - [Product Fundamentals & Philosophy](#product-fundamentals--philosophy)
   - [Product Development & Process](#product-development--process)
@@ -313,6 +315,21 @@ A lightweight OKR tracking tool that helps product teams stay focused on outcome
 | Cost       | Freemium (Paid plans from $35/mo)  |
 | Platform   | Web                                |
 | URL        | https://tability.io                |
+
+### AI Tools
+AI-powered tools that augment product management workflows with intelligent automation, frameworks, and domain expertise.
+
+
+#### product-manager-skills
+
+A senior PM agent skill with 6 knowledge domains, 12 templates, and 30+ frameworks. Covers discovery, strategy, delivery, 32 SaaS metrics with formulas, PM career coaching (IC to CPO), and AI product craft. Pure Markdown, zero scripts, zero dependencies.
+
+| Property   | Value                                                          |
+|------------|----------------------------------------------------------------|
+| Developer  | [Digidai](https://github.com/Digidai)                         |
+| Cost       | Free (Open source)                                             |
+| Platform   | Claude Code, OpenClaw, Cursor, Windsurf                        |
+| URL        | https://github.com/Digidai/product-manager-skills              |
 
 ## Articles
 
