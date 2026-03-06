@@ -572,6 +572,7 @@ Technical perspectives on product development and engineering practices.
 
 ## Additional resources
 
+- [Learn Agentic Patterns](https://learnagenticpatterns.com) - Free interactive curriculum for PMs working with AI — covers agentic AI design patterns, tradeoffs, and decision-making through interactive games (architecture decisions, model budget allocation, stakeholder simulations).
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 - [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
