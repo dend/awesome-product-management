@@ -41,6 +41,8 @@ By definition, a product manager is an individual who drives the product vision 
     - [Screeb](#screeb)
   - [OKRs & Outcome Tracking](#okrs--outcome-tracking)
     - [Tability](#tability)
+  - [AI & Automation](#ai--automation)
+    - [PM AI Partner](#pm-ai-partner)
 - [Articles](#articles)
   - [Product Fundamentals & Philosophy](#product-fundamentals--philosophy)
   - [Product Development & Process](#product-development--process)
@@ -313,6 +315,20 @@ A lightweight OKR tracking tool that helps product teams stay focused on outcome
 | Cost       | Freemium (Paid plans from $35/mo)  |
 | Platform   | Web                                |
 | URL        | https://tability.io                |
+
+### AI & Automation
+Tools that use AI to augment product management workflows like brainstorming, writing, technical analysis, and decision-making.
+
+#### PM AI Partner
+
+Open-source Claude Code plugin with 12 agent skills, 6 workflow commands, and 3 automation hooks for Product Managers. Turns AI into a structured thinking partner for brainstorming, technical analysis, writing, and decision-making. Install via `npx pm-ai-partner@latest`.
+
+| Property  | Value                                                            |
+|-----------|------------------------------------------------------------------|
+| Developer | [Ahmed Khaled](https://github.com/ahmedkhaledmohamed)           |
+| Cost      | Free                                                             |
+| Platform  | CLI (macOS, Windows, Linux)                                      |
+| URL       | https://github.com/ahmedkhaledmohamed/PM-AI-Partner-Framework   |
 
 ## Articles
 
