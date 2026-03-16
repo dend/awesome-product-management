@@ -570,6 +570,10 @@ Technical perspectives on product development and engineering practices.
 - [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
 - [La Product Conf](https://www.laproductconf.com/) - Organized by Thiga, La Product Conf (LPC) takes place once a year with events in Paris (France) and Madrid (Spain). The speaker lineup features product leaders from Pinterest, Carrefour, Payfit, Google, Meetic and more.
 
+## AI & Claude Tools
+
+- [PM Skills for Claude](https://github.com/DipakMajhi/product-management-skills) - 82 expert Claude skills covering the full PM lifecycle: strategy, discovery, PRD writing, roadmapping, prioritization, growth, analytics, design, career development, and legal. Works with Claude Code (CLI) and Claude.ai desktop.
+
 ## Additional resources
 
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
