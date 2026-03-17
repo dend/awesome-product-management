@@ -444,6 +444,7 @@ Professional growth, skill development, and career advancement in product manage
 - [It's Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 - [Great PM Interview Answers Include Tradeoffs. Here's How.](https://www.tryexponent.com/blog/the-key-to-a-successful-pm-interview-answer-tradeoffs) - By [Sushanth Raman](https://www.linkedin.com/in/sushanth-raman/).
 - [A Pyramid-shaped Career](https://jackdanger.com/pyramid-shaped-career/) - By [Jack Danger](https://jackdanger.com/about/).
+- [AI PM Interview Kit](https://github.com/isumitsoni/ai-pm-interview-kit) - Interview prep for AI PM roles with practice prompts, rubrics, and real questions from 2024-2026 hiring loops.
 - [Career advice in 2025](https://lethain.com/career-advice-2025/) - By [Will Larson](https://lethain.com/about/).
 - [How to be more agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) - By [Cate Hall](https://substack.com/@usefulfictions).
 - [On agency](https://www.henrikkarlsson.xyz/p/agency) - By [Henrik Karlsson](https://substack.com/@henrikkarlsson) and [Johanna Karlsson](https://substack.com/@karlssonjohanna).
@@ -575,6 +576,8 @@ Technical perspectives on product development and engineering practices.
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 - [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
+- [Awesome AI PM](https://github.com/isumitsoni/awesome-ai-pm) - Curated list of resources for PMs navigating the AI era — tools, evals, learning resources, and practical guides.
+- [Tech for PMs](https://github.com/isumitsoni/tech-for-pms) - Technical fluency for Product Managers — mental models for systems, APIs, databases, AI products, and working better with engineers.
 
 ## License
 
