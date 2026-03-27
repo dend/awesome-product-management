@@ -299,6 +299,18 @@ Screeb is a product-led user research platform helping product teams to build be
 | URL       | https://screeb.app                 |
 
 
+
+#### ClosedLoop AI
+
+ClosedLoop AI turns customer conversations from Gong, Slack, Intercom, and 40+ sources into prioritized product intelligence. AI automatically extracts feature requests, pain points, and competitive signals — so product teams make roadmap decisions grounded in real customer evidence, not gut feeling.
+
+| Property  | Value                                                    |
+|-----------|----------------------------------------------------------|
+| Developer | [ClosedLoop Labs LLC](https://closedloop.sh)             |
+| Cost      | Freemium (_free tier available, paid from $49/month_)   |
+| Platform  | Web, CLI, MCP                                            |
+| URL       | https://closedloop.sh                                    |
+
 ### OKRs & Outcome Tracking
 Track team goals and outcomes, not just output. These tools help PMs maintain focus on measurable impact.
 
