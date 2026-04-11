@@ -24,6 +24,7 @@ By definition, a product manager is an individual who drives the product vision 
     - [Obsidian](#Obsidian)
     - [Notion](#notion)
     - [Notejoy](#notejoy)
+    - [Specsight](#specsight)
   - [Task & Project Management](#task--project-management)
     - [Trello](#trello)
     - [Taiga](#taiga)
@@ -133,6 +134,17 @@ All-in-one workspace for teams and individuals.
 | Cost      | Freemium (_$4/mo/user individual, $8/mo/user teams_) |
 | Platform  | macOS, Windows, iOS, Android, web                    |
 | URL       | https://notion.so/                                   |
+
+#### Specsight
+
+Product specs that never go stale. Specsight reads your codebase and maintains a plain-English specification of every feature — automatically updated with every release.
+
+| Property  | Value                                    |
+|-----------|------------------------------------------|
+| Developer | [Specsight](https://specsight.app)       |
+| Cost      | Freemium (_from €59/month_)              |
+| Platform  | Web                                      |
+| URL       | https://specsight.app                    |
 
 ### Task & Project Management
 Use these tools to manage team tasks, backlogs, sprints, and collaboration efficiently across product development cycles.
