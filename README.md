@@ -41,6 +41,8 @@ By definition, a product manager is an individual who drives the product vision 
     - [Screeb](#screeb)
   - [OKRs & Outcome Tracking](#okrs--outcome-tracking)
     - [Tability](#tability)
+  - [Customer Research & Persona Generation](#customer-research--persona-generation)
+    - [PersonaResearch](#personaresearch)
 - [Articles](#articles)
   - [Product Fundamentals & Philosophy](#product-fundamentals--philosophy)
   - [Product Development & Process](#product-development--process)
@@ -313,6 +315,20 @@ A lightweight OKR tracking tool that helps product teams stay focused on outcome
 | Cost       | Freemium (Paid plans from $35/mo)  |
 | Platform   | Web                                |
 | URL        | https://tability.io                |
+
+### Customer Research & Persona Generation
+Tools in this section help product managers and founders automate user research — turning raw reviews and feedback into actionable customer personas without weeks of manual analysis.
+
+#### PersonaResearch
+
+AI-powered customer persona generator. Paste an App Store app ID and receive 5 detailed customer personas synthesized from real user reviews, complete with goals, pain points, behavioral patterns, and representative quotes. Automates what would otherwise take days of manual review reading and synthesis.
+
+| Property  | Value                                                                       |
+|-----------|-----------------------------------------------------------------------------|
+| Developer | [PersonaResearch](https://personaresearch.dev)                             |
+| Cost      | Freemium (_Free: 3 jobs/month · Pro: $19/mo · Growth: $49/mo_)             |
+| Platform  | Web                                                                         |
+| URL       | https://personaresearch.dev                                                 |
 
 ## Articles
 
