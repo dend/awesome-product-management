@@ -4,7 +4,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ## Adding items to the list
 
-If you have something awesome to contribute to the list, simply [fork the repository](https://help.github.com/en/articles/fork-a-repo), make your changes, and [submit a pull request](https://help.github.com/en/articles/creating-a-pull-request).
+If you have something awesome to contribute to the list, simply [fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo), make your changes, and [submit a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 Some general guidelines to consider:
 
