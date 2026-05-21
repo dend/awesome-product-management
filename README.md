@@ -575,6 +575,7 @@ Technical perspectives on product development and engineering practices.
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 - [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
+- [PM AI Skills](https://github.com/Yoyogithup/pm-ai-skills) - Open-source collection of AI agent skills for product managers, including PRD writing, performance review generation, survey questionnaire design, and demo recording automation.
 
 ## License
 
