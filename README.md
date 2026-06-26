@@ -575,6 +575,7 @@ Technical perspectives on product development and engineering practices.
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 - [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
+- [Product Onboarding](https://productonboarding.com) - A free, curated gallery of user onboarding examples from leading SaaS products (Figma, Notion, Stripe, Linear, Slack, and more), categorized by pattern and by company.
 
 ## License
 
