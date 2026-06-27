@@ -66,6 +66,7 @@ By definition, a product manager is an individual who drives the product vision 
 
 ## Tools
 
+- [AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side Spec-Driven Delivery framework for PRDs, prototypes, acceptance criteria, lifecycle governance, and coding-agent handoff. Supports Chinese-native ToB/ToG delivery.
 In day-to-day activities, product managers need to rely on tools to help them make sense of the information and insights they're handling. The list below represents _some_ of those tools. A product manager doesn't need to use every single one of them, and neither is one better than the other. These are just pointers to some of the instruments that can be used to be effective at organizing and sharing PM expertise. None of them, standalone, will make one a better product manager.
 
 ### Note-taking & Knowledge Management
