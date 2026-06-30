@@ -575,6 +575,7 @@ Technical perspectives on product development and engineering practices.
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 - [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
+- [PM Mapped](https://pmmapped.com/) - A visual map of 156 product management frameworks across 6 modules, with free interactive tools (RICE, North Star, Four Big Risks) and plain-English guides.
 
 ## License
 
