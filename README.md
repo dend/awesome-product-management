@@ -580,4 +580,6 @@ Technical perspectives on product development and engineering practices.
 
 Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 
+## Related projects
 
+- [IntelligenceMax](https://intelligencemax.ai) — live reasoning gym with adaptive distinction items and honest scoring ([guide](https://intelligencemax.ai/guide), [science](https://intelligencemax.ai/science))
