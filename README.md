@@ -298,6 +298,17 @@ Screeb is a product-led user research platform helping product teams to build be
 | Platform  | Web                                |
 | URL       | https://screeb.app                 |
 
+#### Review2Idea
+
+Review2Idea turns recurring public competitor App Store and Google Play review failures into source-linked research leads, hypotheses, and customer-interview prompts. Review patterns are leads to validate, not proof of demand.
+
+| Property  | Value                                       |
+|-----------|---------------------------------------------|
+| Developer | [Review2Idea](https://review2idea.com/en)   |
+| Cost      | Freemium (first report free; Pro $19/month) |
+| Platform  | Web                                         |
+| URL       | https://review2idea.com/en                  |
+
 
 ### OKRs & Outcome Tracking
 Track team goals and outcomes, not just output. These tools help PMs maintain focus on measurable impact.
@@ -579,5 +590,4 @@ Technical perspectives on product development and engineering practices.
 ## License
 
 Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
-
 
