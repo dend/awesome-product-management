@@ -575,6 +575,7 @@ Technical perspectives on product development and engineering practices.
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 - [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
+- [Persona / Prompt Spec Template](https://github.com/prashibadkur11-creator/persona-spec-template) - A forkable spec format for defining AI persona behavior (identity, tone, constraints, failure modes, eval criteria) before the prompt is written - a PRD for AI behavior a PM can own.
 
 ## License
 
