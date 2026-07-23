@@ -116,7 +116,7 @@ A collaborative note-taking application that is simple, intuitive and allows you
 
 | Property  | Value                                                                                                            |
 |-----------|------------------------------------------------------------------------------------------------------------------|
-| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/) |
+| Developer | [Sachin Rekhi](https://linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://linkedin.com/in/adachen/) |
 | Cost      | Freemium (_$0-12/month_)                                                                                         |
 | Platform  | macOS, Windows, iOS, Android, web                                                                                |
 | URL       | https://notejoy.com                                                                                              |
