@@ -41,6 +41,8 @@ By definition, a product manager is an individual who drives the product vision 
     - [Screeb](#screeb)
   - [OKRs & Outcome Tracking](#okrs--outcome-tracking)
     - [Tability](#tability)
+  - [Experimentation & A/B Testing](#experimentation--ab-testing)
+    - [Klinky](#klinky)
 - [Articles](#articles)
   - [Product Fundamentals & Philosophy](#product-fundamentals--philosophy)
   - [Product Development & Process](#product-development--process)
@@ -313,6 +315,22 @@ A lightweight OKR tracking tool that helps product teams stay focused on outcome
 | Cost       | Freemium (Paid plans from $35/mo)  |
 | Platform   | Web                                |
 | URL        | https://tability.io                |
+
+
+### Experimentation & A/B Testing
+Test changes with real traffic before committing to them. These tools help PMs run controlled rollouts and compare variants with data.
+
+
+#### Klinky
+An A/B testing link shortener that splits one link between two destinations at configurable weights. Useful for sending a controlled share of traffic to a new page, workflow, or offer and comparing variants with real-time click analytics, without changing the link already distributed.
+
+
+| Property   | Value                              |
+|------------|------------------------------------|
+| Developer  | [Klinky](https://klinky.io)        |
+| Cost       | Freemium                           |
+| Platform   | Web                                |
+| URL        | https://klinky.io                  |
 
 ## Articles
 
