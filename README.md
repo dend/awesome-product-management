@@ -39,6 +39,7 @@ By definition, a product manager is an individual who drives the product vision 
     - [logchimp](#logchimp)
     - [Hellonext](#hellonext)
     - [Screeb](#screeb)
+    - [ProjectBook](#projectbook)
   - [OKRs & Outcome Tracking](#okrs--outcome-tracking)
     - [Tability](#tability)
 - [Articles](#articles)
@@ -297,6 +298,17 @@ Screeb is a product-led user research platform helping product teams to build be
 | Cost      | Freemium (_start $0-39/month_)     |
 | Platform  | Web                                |
 | URL       | https://screeb.app                 |
+
+#### ProjectBook
+
+ProjectBook is an open-source design-thinking workspace that enforces traceability from user insight to shipped outcome, linking stories, problems, ideas, tasks, and feedback so every task traces back to the research that justified it. Self-hostable via Docker Compose.
+
+| Property  | Value                                                        |
+|-----------|--------------------------------------------------------------|
+| Developer | [ProjectBook](https://github.com/MrEthical07/projectbook)    |
+| Cost      | Free (Open source, Apache-2.0)                               |
+| Platform  | Web, Self-hosted                                             |
+| URL       | https://projectbook.dev                                      |
 
 
 ### OKRs & Outcome Tracking
