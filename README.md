@@ -299,6 +299,20 @@ Screeb is a product-led user research platform helping product teams to build be
 | URL       | https://screeb.app                 |
 
 
+#### Fervio
+
+Fervio builds a user story map from the issues in a GitHub Project. User journeys run across the top, steps sit beneath them, and each row is a release taken from GitHub milestones, so one row shows what a release delivers. Moving a card updates the underlying issue and its milestone in GitHub.
+
+![Fervio](media/tool-fervio.png)
+
+| Property  | Value                       |
+|-----------|-----------------------------|
+| Developer | [Fervio](https://fervio.co) |
+| Cost      | Free while in beta          |
+| Platform  | Web                         |
+| URL       | https://fervio.co           |
+
+
 ### OKRs & Outcome Tracking
 Track team goals and outcomes, not just output. These tools help PMs maintain focus on measurable impact.
 
