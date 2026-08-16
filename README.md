@@ -575,6 +575,7 @@ Technical perspectives on product development and engineering practices.
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 - [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
+- [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) - Free learning hub for PMs who ship with AI coding agents — spec-driven PRD and task templates, agent skills, notebooks, and papers for those re-learning the engineering side.
 
 ## License
 
