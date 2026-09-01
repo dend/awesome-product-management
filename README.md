@@ -575,6 +575,7 @@ Technical perspectives on product development and engineering practices.
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 - [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
+- [Product Manager OS](https://github.com/RizwanZafaris/product-manager-OS) - Open MIT repository for running a product from discovery to sunset: lifecycle templates with review gates, product management framework cards, and AI prompts and skills that also work without any AI.
 
 ## License
 
