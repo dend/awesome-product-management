@@ -55,6 +55,16 @@ Every contribution should demonstrate that the author has put genuine thought an
 effort into it. If it looks like you spent more time prompting an AI than
 evaluating the resource, it will be closed.
 
+## Maintainer Discretion
+
+The maintainers reserve the right to close any contribution that looks or reads
+like unreviewed AI output, regardless of whether AI usage was disclosed and
+regardless of whether it technically satisfies the rest of these guidelines.
+This is a judgment call and it is not up for debate in the pull request. If a
+contribution is closed on these grounds, the correct response is to rewrite it
+in your own words with your own reasoning, not to argue that the AI did a good
+job.
+
 ## Enforcement
 
 Any violation of this policy will result in the contribution being closed and

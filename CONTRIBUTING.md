@@ -2,7 +2,7 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-This project also has an [AI Usage Policy](AI_POLICY.md). Any use of AI tools in a contribution must be disclosed in the pull request, and undisclosed or low-effort AI-generated submissions will be closed and the contributor blocked. Read it before opening a pull request.
+This project also has an [AI Usage Policy](AI_POLICY.md). Any use of AI tools in a contribution must be disclosed in the pull request. The maintainers reserve the right to close anything that reads like unreviewed AI output, and undisclosed or low-effort AI-generated submissions will get the contributor blocked. Read it before opening a pull request.
 
 ## Adding items to the list
 
