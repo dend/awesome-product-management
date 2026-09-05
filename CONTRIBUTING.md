@@ -26,7 +26,7 @@ We close pull requests that add the author's own product, repository, newsletter
 
 We make an exception when the resource has an audience that does not depend on you. To qualify, show all of the following in the pull request:
 
-- The resource has existed for at least a year.
+- The resource has existed for at least six months.
 - People with no connection to you use it, write about it, or recommend it. Link to that evidence.
 - An existing section fits it. We do not add a new section or category to hold one entry.
 
@@ -34,4 +34,4 @@ If you cannot show all three, do not open the pull request. Ask someone who uses
 
 You must state your relationship to the resource in the pull request. If we find an undisclosed affiliation later, we remove the entry and block the contributor, per the [AI Usage Policy](AI_POLICY.md#enforcement).
 
-Prompt packs, agent skill collections, template repositories, and "awesome" lists that launched in the past year are self-promotion when their author submits them. We close those without review.
+Prompt packs, agent skill collections, template repositories, and "awesome" lists that launched in the past six months are self-promotion when their author submits them. We close those without review.
