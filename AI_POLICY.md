@@ -2,73 +2,102 @@
 
 > This policy is inspired by [Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md).
 
-We welcome the use of AI tools when contributing to this list. These guidelines
-exist to keep the list high-quality and to respect the time of human reviewers.
+You may use AI tools when contributing to this list. This policy applies to
+external contributions. We, the maintainers, follow the same disclosure and
+media rules for entries we add ourselves, and we use AI as we see fit for review
+and triage.
 
 ## Disclosure
 
-You **must** disclose all AI usage. In your pull request description, include:
+Tell us when an AI assistant drafted or rewrote any part of your pull request.
+In the pull request description, include:
 
-1. **Which tool(s)** you used (e.g., Claude Code, Copilot, Cursor, ChatGPT).
-2. **What you used it for**. Name which parts of the entry, description, or
-   pull request text the AI touched and which parts you wrote by hand.
-3. **How much** of the contribution is AI-generated (e.g., "AI drafted the
-   description, I rewrote it and verified the link").
+1. **Which tool(s)** you used, such as Claude Code, Copilot, Cursor, or ChatGPT.
+2. **Which parts** the AI produced and which parts you wrote by hand.
 
-If we discover undisclosed AI usage after the fact, we treat it as a policy
-violation.
+Spellcheck, grammar checkers, and machine translation of your own words do not
+count as AI assistance. If you are unsure whether something counts, disclose it.
+Disclosing too much has no cost.
+
+Disclosure protects you. We judge a disclosed AI-assisted pull request on the
+entry alone.
 
 ## You Must Understand Your Changes
 
-AI can help you write a description, but you are responsible for every line you
-submit. You must have used or read the resource you are adding, and you must be
-able to explain why it belongs on this list and in the section you chose, without
-the AI tool. If you cannot, the contribution is not ready. Maintainers may ask you
-to explain any part of your submission. If you cannot answer, we close the PR.
+You are responsible for every line you submit. Know the resource you are adding:
+you have read the book, listened to several episodes, or used the tool long
+enough to say what it is good for. Be ready to say in a sentence or two why it
+belongs in the section you chose, without help from the AI tool. We may ask. If
+you cannot answer, we close the pull request.
 
 ## Review AI-Generated Text
 
-A human must review and edit any pull request description, issue, or entry text
-written with AI assistance before posting it. Remove boilerplate filler, marketing
-language, and irrelevant details. Keep it short.
+Read and edit any AI-assisted text before you post it. Cut boilerplate,
+marketing language, and detail that does not help a reader decide whether to
+click. Keep it short.
 
 ## No AI-Generated Media
 
-We do not accept AI-generated images, art, audio, or video. This includes tool
-screenshots placed in `media/`. This policy covers text only.
+You may use AI assistance for text only. We do not accept AI-generated or
+AI-edited images, audio, or video. Screenshots and GIFs in `media/` must be real
+captures of the tool.
 
 ## Low-Effort Contributions
 
-We do not accept low-effort contributions of any kind, AI-assisted or otherwise.
-Examples include:
+We close low-effort contributions without further review, AI-assisted or not.
+Examples:
 
-- Unreviewed AI output submitted as-is ("slop")
-- Adding your own product, repository, or article with a pitch written by an AI
-  (see the [self-promotion rules](CONTRIBUTING.md#self-promotion))
-- Drive-by PRs that "fix" formatting or reorder entries without being asked
-- Bulk additions with no clear purpose or explanation
+- Unreviewed AI output submitted as-is
+- A pitch for your own product written by an AI (see the
+  [self-promotion rules](CONTRIBUTING.md#self-promotion))
+- Reordering entries or reformatting a section without opening an issue first
+- Bulk additions with no explanation
 - Issues or comments that are AI-generated walls of text
 
-Your contribution should show that you thought about the resource and put effort
-into the entry. If it looks like you spent more time prompting an AI than
-evaluating the resource, we close it.
+Typo, broken-link, and broken-anchor fixes are welcome without an issue.
+
+Closure under this section is not a violation and we do not record it against
+you. Rewrite the contribution in your own words and open a new pull request.
 
 ## Maintainer Discretion
 
-The maintainers reserve the right to close any contribution that looks or reads
-like unreviewed AI output, whether or not you disclosed AI usage and whether or
-not it satisfies the rest of these guidelines. This is a judgment call, and we
-will not debate it in the pull request. If we close your contribution on these
-grounds, rewrite it in your own words with your own reasoning and open a new one.
+We may close any contribution that reads like unreviewed AI output, whether or
+not you disclosed AI usage and whether or not it meets the rest of these rules.
+This is a judgment call. We will say what looked off, and we will not debate it
+in the pull request thread. Closure on these grounds is not a violation.
 
 ## Enforcement
 
-If you violate this policy, we close the contribution and **block you from the
-project for good**. There are no warnings. We may keep a public record of blocked
-contributors and share it with other projects to help them identify repeat
-offenders.
+This policy and the [contribution guidelines](CONTRIBUTING.md) have two
+outcomes.
 
-## Maintainers
+**We close** pull requests that fail the rules above or the self-promotion
+rules. You may rewrite and resubmit once. We do not record a closure against
+you.
 
-These guidelines apply to external contributions. Project maintainers may use AI
-tools at their own discretion.
+**We block** contributors from the project, with no warning, for any of the
+following:
+
+- Denying an affiliation when asked, or hiding one we find later
+- Submitting a resource that does not exist, or a description that misstates
+  what the resource does
+- Resubmitting closed work without changes
+- Submitting on behalf of someone whose own pull request we closed
+
+We remove any resource that reached the list through a hidden affiliation, and
+it stays ineligible.
+
+We keep blocks private. We do not publish or share lists of blocked
+contributors.
+
+## Appeals
+
+If you believe we closed or blocked you in error, open an issue titled "Appeal"
+within 30 days. Link the pull request and explain in a few sentences. We review
+each decision once and reply in the issue.
+
+---
+
+Version 1.0, effective 5 September 2026. We change this policy by pull request
+to this repository. Changes apply to pull requests opened after we merge them.
+Questions: open an issue. Asking is not a violation.

@@ -4,26 +4,24 @@
 
 ## Relationship to the resource
 
-<!-- We close pull requests that add the author's own work unless it meets the three conditions in the Self-promotion section of CONTRIBUTING.md. Employer, client, and agency relationships count as affiliation. -->
+See the [self-promotion rules](https://github.com/dend/awesome-product-management/blob/master/CONTRIBUTING.md#self-promotion). Employer, co-founder, investor, client, agency, family, and paid-promotion relationships count as affiliation, and so does being asked to submit.
 
-- [ ] I have no affiliation with this resource
-- [ ] I am the author, maintainer, or otherwise affiliated (describe):
-  - The resource has existed since (month and year):
-  - Evidence that people unconnected to me use or recommend it (links):
+- [ ] I have no affiliation with this resource, and no one connected to it asked me to submit it
+- [ ] I am affiliated (describe):
+  - Public in its current form since (month and year), with a Wayback Machine link:
+  - Unsolicited coverage by people unconnected to me (links):
 
 ## AI disclosure
 
-<!-- The AI Usage Policy (AI_POLICY.md) requires this section. We close pull requests that leave it blank. -->
+Required by the [AI Usage Policy](https://github.com/dend/awesome-product-management/blob/master/AI_POLICY.md). We close pull requests that leave this blank. Spellcheck, grammar checkers, and translation of your own words do not count.
 
-- [ ] I did not use AI tools for this contribution
-- [ ] I used AI tools. Tool(s):
-  - What I used them for:
-  - How much of the contribution is AI-generated:
+- [ ] No AI assistant drafted or rewrote any of this
+- [ ] An AI assistant drafted or rewrote part of this. Tool:
+  - Which parts the AI produced and which parts I wrote by hand:
 
 ## Checklist
 
-- [ ] I have read the [contributing guidelines](../CONTRIBUTING.md) and the [AI Usage Policy](../AI_POLICY.md)
+- [ ] I have read the [contributing guidelines](https://github.com/dend/awesome-product-management/blob/master/CONTRIBUTING.md) and the [AI Usage Policy](https://github.com/dend/awesome-product-management/blob/master/AI_POLICY.md)
 - [ ] I have used or read the resource I am adding
-- [ ] The entry follows the existing list format and fits an existing section
-- [ ] I did not add a new section or category for this entry
-- [ ] The link works and the content is not paywalled
+- [ ] The entry follows the existing list format and fits an existing section; I did not add a new section
+- [ ] The link works, and articles are readable without payment or signup

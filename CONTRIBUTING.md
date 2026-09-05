@@ -1,37 +1,52 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+This project has a [Contributor Code of Conduct](code-of-conduct.md). By participating you agree to its terms.
 
-This project also has an [AI Usage Policy](AI_POLICY.md). You must disclose any use of AI tools in your pull request. The maintainers reserve the right to close anything that reads like unreviewed AI output, and we block contributors who submit undisclosed or low-effort AI-generated work. Read the policy before opening a pull request.
+It also has an [AI Usage Policy](AI_POLICY.md). Tell us in your pull request when an AI assistant drafted or rewrote any part of it. We may close anything that reads like unreviewed AI output. Read the policy before you open a pull request.
+
+If you found a resource you have no connection to and want to add it, you are the contributor we want. Fill in the pull request template, tick "no affiliation", and skip the self-promotion section below.
 
 ## Adding items to the list
 
-If you have something awesome to contribute to the list, simply [fork the repository](https://help.github.com/en/articles/fork-a-repo), make your changes, and [submit a pull request](https://help.github.com/en/articles/creating-a-pull-request).
+[Fork the repository](https://help.github.com/en/articles/fork-a-repo), make your change, and [open a pull request](https://help.github.com/en/articles/creating-a-pull-request).
 
-Some general guidelines to consider:
+Rules for every pull request:
 
-- Please ensure your pull request adheres to the existing list format.
-- Do not include links to resources that can be considered inappropriate, malicious or deceitful.
-- Do not include links to pay-walled content.
-- Do not submit your own work. See [Self-promotion](#self-promotion) below.
-- The list is not an advertising surface. Entries are tools and resources that product and program managers already rely on, not pitches for the latest SaaS product.
-- Make sure that the links you submit are working correctly. Pages that are not loading/resulting in errors will be removed.
-- Disclose any AI assistance per the [AI Usage Policy](AI_POLICY.md).
+- One entry per pull request.
+- Match the format of the section you are adding to. Books and articles look like `- [Title](url) - By Author.` Tools use the table format under Tools; copy an existing tool entry.
+- Do not link to resources that are inappropriate, malicious, or deceitful.
+- Articles and posts must be readable without payment or signup. Books and courses may cost money; link to a page where a reader can buy or download them.
+- Do not submit your own work. See [Self-promotion](#self-promotion).
+- Check that your links load. We remove entries whose pages error.
+- Disclose AI assistance per the [AI Usage Policy](AI_POLICY.md).
 
 ## Self-promotion
 
-We close pull requests that add the author's own product, repository, newsletter, podcast, course, or article. This is the default and it applies whether the resource is free, open source, or paid.
+We close pull requests that add the author's own product, repository, newsletter, podcast, course, or article. This is the default, and it applies whether the resource is free, open source, or paid.
 
-"Your own" includes anything you built, maintain, or are paid to promote. Submitting on behalf of your employer, your co-founder, a client, or an agency counts the same as submitting your own work.
+You are affiliated with a resource if any of these is true:
 
-We make an exception when the resource has an audience that does not depend on you. To qualify, show all of the following in the pull request:
+- You own, operate, wrote, or maintain it, or you are on the team that does.
+- You or your employer earn money from it or from the organization that publishes it. This includes equity, referral commissions, and free or discounted access.
+- You have a personal or family relationship with the people behind it.
+- Someone connected to it asked, referred, or rewarded you to submit it.
 
-- The resource has existed for at least six months.
-- People with no connection to you use it, write about it, or recommend it. Link to that evidence.
-- An existing section fits it. We do not add a new section or category to hold one entry.
+Sending an occasional patch to an open source project does not make you affiliated. Working for a company does not make you affiliated with everything it publishes, unless someone asked you to submit it. If you are unsure, say so in the pull request. Disclosing an uncertain relationship is not a violation.
 
-If you cannot show all three, do not open the pull request. Ask someone who uses the resource and has no stake in it to submit it instead.
+These rules cover any change that adds, replaces, or redirects a link, including link fixes, description edits, and items inside a multi-entry pull request. They also cover content hosted on a vendor's domain or gated behind signup, which we treat as that vendor's product.
 
-You must state your relationship to the resource in the pull request. If we find an undisclosed affiliation later, we remove the entry and block the contributor, per the [AI Usage Policy](AI_POLICY.md#enforcement).
+We make an exception when the resource has an audience that does not depend on you. Show all three in the pull request:
+
+- The resource has been public in its current form for at least six months. Link a [Wayback Machine](https://web.archive.org/) snapshot from six or more months ago.
+- People with no connection to you recommend it. Link to unsolicited, uncompensated coverage. A book, newsletter, podcast, or community that is on this list is the strongest evidence. Reviews on your own site, launch platforms, customer testimonials, and sponsored placements do not count.
+- An existing section fits it. We do not add a section or category to hold one entry.
+
+If you cannot show all three, do not open the pull request.
+
+State your relationship to the resource in the pull request. This applies to pull requests opened on or after 5 September 2026. If we find an affiliation you did not disclose, we remove the entry. If you denied the affiliation when asked, we block you. See [Enforcement](AI_POLICY.md#enforcement).
 
 These rules apply to every kind of resource. A GitHub repository, prompt pack, agent skill collection, template, or "awesome" list is a product for the purposes of this section, and its author is its vendor.
+
+## Questions
+
+Open an issue. Asking is not a violation.
