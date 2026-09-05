@@ -13,7 +13,25 @@ Some general guidelines to consider:
 - Please ensure your pull request adheres to the existing list format.
 - Do not include links to resources that can be considered inappropriate, malicious or deceitful.
 - Do not include links to pay-walled content.
-- This list is not for self-promotion - posting links to your own articles is generally frowned upon (_we can assess those PRs on a case-by-case basis_).
-- The list is not an advertising surface. It's not about pitching the latest productivity SaaS product, but rather about tools that are _genuinely_ helpful for product/program managers.
+- Do not submit your own work. See [Self-promotion](#self-promotion) below.
+- The list is not an advertising surface. Entries are tools and resources that product and program managers already rely on, not pitches for the latest SaaS product.
 - Make sure that the links you submit are working correctly. Pages that are not loading/resulting in errors will be removed.
 - Disclose any AI assistance per the [AI Usage Policy](AI_POLICY.md).
+
+## Self-promotion
+
+We close pull requests that add the author's own product, repository, newsletter, podcast, course, or article. This is the default and it applies whether the resource is free, open source, or paid.
+
+"Your own" includes anything you built, maintain, or are paid to promote. Submitting on behalf of your employer, your co-founder, a client, or an agency counts the same as submitting your own work.
+
+We make an exception when the resource has an audience that does not depend on you. To qualify, show all of the following in the pull request:
+
+- The resource has existed for at least a year.
+- People with no connection to you use it, write about it, or recommend it. Link to that evidence.
+- An existing section fits it. We do not add a new section or category to hold one entry.
+
+If you cannot show all three, do not open the pull request. Ask someone who uses the resource and has no stake in it to submit it instead.
+
+You must state your relationship to the resource in the pull request. If we find an undisclosed affiliation later, we remove the entry and block the contributor, per the [AI Usage Policy](AI_POLICY.md#enforcement).
+
+Prompt packs, agent skill collections, template repositories, and "awesome" lists that launched in the past year are self-promotion when their author submits them. We close those without review.

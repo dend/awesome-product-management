@@ -44,6 +44,7 @@ Examples include:
 
 - Unreviewed AI output submitted as-is ("slop")
 - Adding your own product, repository, or article with a pitch written by an AI
+  (see the [self-promotion rules](CONTRIBUTING.md#self-promotion))
 - Drive-by PRs that "fix" formatting or reorder entries without being asked
 - Bulk additions with no clear purpose or explanation
 - Issues or comments that are AI-generated walls of text
