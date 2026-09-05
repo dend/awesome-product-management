@@ -34,4 +34,4 @@ If you cannot show all three, do not open the pull request. Ask someone who uses
 
 You must state your relationship to the resource in the pull request. If we find an undisclosed affiliation later, we remove the entry and block the contributor, per the [AI Usage Policy](AI_POLICY.md#enforcement).
 
-Prompt packs, agent skill collections, template repositories, and "awesome" lists that launched in the past six months are self-promotion when their author submits them. We close those without review.
+These rules apply to every kind of resource. A GitHub repository, prompt pack, agent skill collection, template, or "awesome" list is a product for the purposes of this section, and its author is its vendor. Free and open source do not exempt it from the conditions above.
