@@ -1,6 +1,6 @@
 ## What are you adding or changing?
 
-<!-- Name the resource and the section. In one or two sentences, in your own words, say why a product manager would find it genuinely useful. -->
+<!-- Name the resource and the section. In one or two sentences, in your own words, say why a product manager would find it useful. -->
 
 ## Relationship to the resource
 
@@ -9,16 +9,16 @@
 
 ## AI disclosure
 
-<!-- Required by the AI Usage Policy (AI_POLICY.md). Pull requests without this section filled in will be closed. -->
+<!-- The AI Usage Policy (AI_POLICY.md) requires this section. We close pull requests that leave it blank. -->
 
-- [ ] No AI tools were used in this contribution
-- [ ] AI tools were used. Tool(s):
-  - What they were used for:
+- [ ] I did not use AI tools for this contribution
+- [ ] I used AI tools. Tool(s):
+  - What I used them for:
   - How much of the contribution is AI-generated:
 
 ## Checklist
 
 - [ ] I have read the [contributing guidelines](../CONTRIBUTING.md) and the [AI Usage Policy](../AI_POLICY.md)
-- [ ] I have personally used or read the resource I am adding
+- [ ] I have used or read the resource I am adding
 - [ ] The entry follows the existing list format and is in the right section
 - [ ] The link works and the content is not paywalled
