@@ -13,7 +13,7 @@ See the [self-promotion rules](https://github.com/dend/awesome-product-managemen
 
 ## AI disclosure
 
-Required by the [AI Usage Policy](https://github.com/dend/awesome-product-management/blob/master/AI_POLICY.md). We close pull requests that leave this blank. Spellcheck, grammar checkers, and translation of your own words do not count.
+Required by the [AI Usage Policy](https://github.com/dend/awesome-product-management/blob/master/AI_POLICY.md). I close pull requests that leave this blank. Spellcheck, grammar checkers, and translation of your own words do not count.
 
 - [ ] No AI assistant drafted or rewrote any of this
 - [ ] An AI assistant drafted or rewrote part of this. Tool:
