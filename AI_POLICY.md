@@ -1,7 +1,8 @@
 # AI Usage Policy
 
 > This policy is inspired by [Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md).
->
+
+> [!NOTE]
 > [Den](https://den.dev) maintains this list alone, so "I" in this policy means Den.
 
 You may use AI tools when contributing to this list. This policy applies to

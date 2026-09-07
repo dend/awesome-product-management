@@ -1,5 +1,6 @@
 # Contribution Guidelines
 
+> [!NOTE]
 > [Den](https://den.dev) maintains this list alone, so "I" in these guidelines means Den.
 
 This project has a [Contributor Code of Conduct](code-of-conduct.md). By participating you agree to its terms.
