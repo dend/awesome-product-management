@@ -5,7 +5,7 @@
 
 This project has a [Contributor Code of Conduct](code-of-conduct.md). By participating you agree to its terms.
 
-If you found a resource you have no connection to and want to add it, you are the contributor I want. Fill in the pull request template, tick "no affiliation", and skip the section on connected resources below.
+If you found a resource you have no connection to and want to add it, you are the contributor I want. Fill in the pull request template, tick "no connection", and skip the section on connected resources below.
 
 If an AI assistant drafted or rewrote any part of your pull request, say so. The [AI Usage Policy](AI_POLICY.md) explains what to include.
 
