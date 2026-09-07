@@ -19,18 +19,18 @@ In the pull request description, include:
 
 Spellcheck, grammar checkers, and machine translation of your own words do not
 count as AI assistance. If you are unsure whether something counts, disclose it.
-Disclosing too much has no cost.
+Over-disclosing costs you nothing with me.
 
-Disclosure protects you. I judge a disclosed AI-assisted pull request on the
-entry alone.
+Disclosure means I do not treat the AI use itself as a problem, and disclosed AI
+use never leads to a block. I still read the entry, and I may close it or ask
+you to tighten it.
 
 ## You Must Understand Your Changes
 
-You are responsible for every line you submit. Know the resource you are adding:
-you have read the book, listened to several episodes, or used the tool long
-enough to say what it is good for. Be ready to say in a sentence or two why it
-belongs in the section you chose, without help from the AI tool. I may ask. If
-you cannot answer, I close the pull request.
+You are responsible for every line you submit. Know the resource. Read the book,
+listen to several episodes, or use the tool long enough to say what it is good
+for. If I ask why the resource belongs where you put it, answer in your own
+words. That is the whole test. If you cannot answer, I close the pull request.
 
 ## Review AI-Generated Text
 
@@ -40,9 +40,9 @@ click. Keep it short.
 
 ## No AI-Generated Media
 
-You may use AI assistance for text only. I do not accept AI-generated or
-AI-edited images, audio, or video. Screenshots and GIFs in `media/` must be real
-captures of the tool.
+You may use AI assistance for text only. Images in `media/` must be real: a
+screenshot or capture of the tool, or the resource's own published artwork. I do
+not accept AI-generated or AI-edited images, audio, or video.
 
 ## Low-Effort Contributions
 
@@ -50,54 +50,54 @@ I close low-effort contributions without further review, AI-assisted or not.
 Examples:
 
 - Unreviewed AI output submitted as-is
-- A pitch for your own product written by an AI (see the
+- An advertisement for your own product written by an AI (see the
   [self-promotion rules](CONTRIBUTING.md#self-promotion))
 - Reordering entries or reformatting a section without opening an issue first
-- Bulk additions with no explanation
-- Issues or comments that are AI-generated walls of text
+- More than one new resource in a pull request
+- Issues or comments that are very long generated text
 
-Typo, broken-link, and broken-anchor fixes are welcome without an issue.
-
-Closure under this section is not a violation and I do not record it against
-you. Rewrite the contribution in your own words and open a new pull request.
+Typo, broken-link, and broken-anchor fixes are welcome without an issue, and you
+may batch them.
 
 ## Maintainer Discretion
 
-I may close any contribution that reads like unreviewed AI output, whether or
-not you disclosed AI usage and whether or not it meets the rest of these rules.
-This is a judgment call. I will say what looked off, and I will not debate it in
-the pull request thread. Closure on these grounds is not a violation.
+I may close any contribution that looks like generated text that no one edited,
+whether or not you disclosed AI use. This is a judgment I make. I will say which
+part looked generated, and I will not debate it in the pull request thread.
+Rewrite that part in your own words and open a new pull request.
 
 ## Enforcement
 
-This policy and the [contribution guidelines](CONTRIBUTING.md) have two
+This policy and the [contribution guidelines](CONTRIBUTING.md) have three
 outcomes.
 
-**I close** pull requests that fail the rules above or the self-promotion rules.
-You may rewrite and resubmit once. I do not record a closure against you.
+**I close** pull requests that fail the rules in either document. The closed
+pull request is the only record, and it does not count against you. Rewrite and
+resubmit. If I close the same resource twice in twelve months, whoever submits
+it, the resource is ineligible for a year.
 
-**I block** contributors from the project, with no warning, for any of the
-following:
+**I remove** an entry from the list when its page stops loading, or when the
+pull request that added it under this policy stated no affiliation and one
+applied. A resource removed for a hidden affiliation is ineligible for a year.
 
-- Denying an affiliation when asked, or hiding one I find later
-- Submitting a resource that does not exist, or a description that misstates
-  what the resource does
-- Resubmitting closed work without changes
-- Submitting on behalf of someone whose own pull request I closed
+**I block** a contributor for one of the following, and for nothing else:
 
-I remove any resource that reached the list through a hidden affiliation, and it
-stays ineligible.
+- Stating, in the template or in reply to my question, that you have no
+  connection to a resource you made, or that someone asked or paid you to
+  submit
+- Linking evidence that does not show what you claim: a link that does not
+  resolve to the named resource, or a Wayback Machine snapshot or coverage link
+  that does not support the statement it sits next to
+- Resubmitting a closed resource without addressing the reason I gave
 
-I keep blocks private. I do not publish or share lists of blocked contributors.
-
-## Appeals
-
-If you believe I closed or blocked you in error, open an issue titled "Appeal"
-within 30 days. Link the pull request and explain in a few sentences. I review
-each decision once and reply in the issue.
+There is no appeal process, so I block only for these acts, which I can check
+against the pull request itself, and never for a judgment about writing style.
+A GitHub block is visible to the person blocked and applies to every repository
+under my account. I do not publish or share a list of blocked contributors.
 
 ---
 
-Version 1.0, effective 5 September 2026. I change this policy by pull request to
-this repository. Changes apply to pull requests opened after I merge them.
-Questions: open an issue. Asking is not a violation.
+Version 1.0. This policy and the contribution guidelines apply to every pull
+request that is open on the day this version merges and to every pull request
+opened after it. I change this policy by pull request to this repository, and
+changes take effect the same way. Questions? Open an issue.
