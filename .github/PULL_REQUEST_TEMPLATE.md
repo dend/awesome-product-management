@@ -23,5 +23,5 @@ Required by the [AI Usage Policy](https://github.com/dend/awesome-product-manage
 
 - [ ] I have read the [contributing guidelines](https://github.com/dend/awesome-product-management/blob/master/CONTRIBUTING.md) and the [AI Usage Policy](https://github.com/dend/awesome-product-management/blob/master/AI_POLICY.md)
 - [ ] I have used or read the resource I am adding
-- [ ] The entry follows the existing list format and fits an existing section; I did not add a new section
+- [ ] The entry follows the existing list format and fits an existing section, and I did not add a new section
 - [ ] The link works, and articles are readable without payment or signup

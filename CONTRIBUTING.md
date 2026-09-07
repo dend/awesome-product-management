@@ -16,9 +16,9 @@ If you found a resource you have no connection to and want to add it, you are th
 Rules for every pull request:
 
 - One entry per pull request.
-- Match the format of the section you are adding to. Books and articles look like `- [Title](url) - By Author.` Tools use the table format under Tools; copy an existing tool entry.
+- Match the format of the section you are adding to. Books and articles look like `- [Title](url) - By Author.` Tools use the table format under Tools. Copy an existing tool entry.
 - Do not link to resources that are inappropriate, malicious, or deceitful.
-- Articles and posts must be readable without payment or signup. Books and courses may cost money; link to a page where a reader can buy or download them.
+- Articles and posts must be readable without payment or signup. Books and courses may cost money. Link to a page where a reader can buy or download them.
 - Do not submit your own work. See [Self-promotion](#self-promotion).
 - Check that your links load. I remove entries whose pages error.
 - Disclose AI assistance per the [AI Usage Policy](AI_POLICY.md).
