@@ -77,23 +77,24 @@ resubmit. If I close the same resource twice in twelve months, whoever submits
 it, the resource is ineligible for a year.
 
 **I remove** an entry from the list when its page stops loading, or when the
-pull request that added it under this policy stated no affiliation and one
-applied. A resource removed for a hidden affiliation is ineligible for a year.
+pull request that added it under this policy stated no connection and one
+existed. A resource removed for a hidden connection is ineligible for a year.
 
-**I block** a contributor for one of the following, and for nothing else:
+**I block** a contributor only for repeat behavior or blatant spam. A first
+offense of anything in these documents is a closure, not a block. Blocks are
+for:
 
-- Stating, in the template or in reply to my question, that you have no
-  connection to a resource you made, or that someone asked or paid you to
-  submit
-- Linking evidence that does not show what you claim: a link that does not
-  resolve to the named resource, or a Wayback Machine snapshot or coverage link
-  that does not support the statement it sits next to
-- Resubmitting a closed resource without addressing the reason I gave
+- Resubmitting the same resource a third time without addressing the reason I
+  gave for the earlier closures
+- Stating no connection to a resource, then doing it again with another
+  resource after I have corrected you once
+- Blatant spam: links to malicious or deceptive pages, link farms, or a burst of
+  unrelated pull requests or comments that exist to place links
 
-There is no appeal process, so I block only for these acts, which I can check
-against the pull request itself, and never for a judgment about writing style.
-A GitHub block is visible to the person blocked and applies to every repository
-under my account. I do not publish or share a list of blocked contributors.
+There is no appeal process, so I keep the bar here high and I do not block for
+a judgment about writing style or a single mistake. A GitHub block is visible
+to the person blocked and applies to every repository under my account. I do
+not publish or share a list of blocked contributors.
 
 ---
 
