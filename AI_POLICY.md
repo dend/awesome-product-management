@@ -1,9 +1,10 @@
 # AI Usage Policy
 
 > This policy is inspired by [Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md).
+>
+> [Den](https://den.dev) maintains this list alone, so "I" in this policy means Den.
 
-You may use AI tools when contributing to this list. Den maintains this list
-alone, so "I" throughout this document means Den. This policy applies to
+You may use AI tools when contributing to this list. This policy applies to
 external contributions. I follow the same disclosure and media rules for entries
 I add myself, and I use AI as I see fit for review and triage.
 

@@ -1,10 +1,10 @@
 # Contribution Guidelines
 
+> [Den](https://den.dev) maintains this list alone, so "I" in these guidelines means Den.
+
 This project has a [Contributor Code of Conduct](code-of-conduct.md). By participating you agree to its terms.
 
 It also has an [AI Usage Policy](AI_POLICY.md). Tell me in your pull request when an AI assistant drafted or rewrote any part of it. I may close anything that reads like unreviewed AI output. Read the policy before you open a pull request.
-
-Den maintains this list alone, so "I" in these guidelines means Den.
 
 If you found a resource you have no connection to and want to add it, you are the contributor I want. Fill in the pull request template, tick "no affiliation", and skip the self-promotion section below.
 
