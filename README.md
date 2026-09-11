@@ -187,7 +187,7 @@ A tool to quickly manage "to-dos".
 
 #### Taskade
 
-Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams.
+AI workspace for product teams with shared tasks, agents, automations, and a prompt-to-app builder at https://www.taskade.com/create.
 
 ![Taskade](media/tool-taskade.gif)
 
