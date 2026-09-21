@@ -199,6 +199,17 @@ Get work done with collaborative task lists, notes and video chat. Taskade is be
 | URL       | https://www.taskade.com                                            |
 
 
+#### MySpec
+
+AI-native Spec-Driven Development platform generating standardized PRDs and 4-file architectural specification bundles (`constitution.md`, `requirements.md`, `solution.md`, `tasks.md`) with built-in Model Context Protocol (MCP) synchronization for engineering teams.
+
+| Property  | Value                                          |
+|-----------|------------------------------------------------|
+| Developer | [MySpec](https://myspec.dev)                   |
+| Cost      | Freemium (_Free tier with unlimited public specs_) |
+| Platform  | Web, MCP (Cursor, Claude Code)                 |
+| URL       | https://myspec.dev/                            |
+
 ### Design & Prototyping
 Design interfaces and prototypes to visualize and test user experiences before development begins.
 
