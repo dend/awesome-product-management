@@ -18,7 +18,7 @@ By definition, a product manager is an individual who drives the product vision 
 ## Contents
 
 - [Tools](#tools)
-  - [Note-Taking & Documentation](#note-taking--documentation)
+  - [Note-taking & Knowledge Management](#note-taking--knowledge-management)
     - [OneNote](#onenote)
     - [Bear](#bear)
     - [Obsidian](#Obsidian)
